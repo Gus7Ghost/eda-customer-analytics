@@ -1,0 +1,2501 @@
+customer_id,region,contract_type,payment_method,tenure_months,cohort,monthly_charges,total_charges,support_tickets,usage_score,churn
+CUST-00001,Lima,Anual,Tarjeta de Crédito,15,2025-07,78.05,1091.28,1,9.5,0
+CUST-00002,Piura,Anual,Tarjeta de Crédito,33,2024-01,94.37,2883.67,0,6.3,0
+CUST-00003,La Libertad,Anual,Efectivo/Ventanilla,3,2026-07,162.5,455.57,4,6.7,0
+CUST-00004,Arequipa,Bianual,Débito Automático,3,2026-07,92.18,261.14,2,6.3,0
+CUST-00005,Lima,Mes a Mes,Efectivo/Ventanilla,15,2025-07,195.07,2883.75,2,6.4,0
+CUST-00006,Lima,Mes a Mes,Débito Automático,53,2022-05,141.8,7743.78,1,5.2,0
+CUST-00007,Lima,Bianual,Transferencia Bancaria,10,2025-12,148.85,1415.02,4,8.6,0
+CUST-00008,Cusco,Mes a Mes,Transferencia Bancaria,8,2026-01,132.47,1103.82,0,8.6,0
+CUST-00009,Arequipa,Anual,Débito Automático,17,2025-05,179.78,3191.16,1,7.3,0
+CUST-00010,La Libertad,Bianual,Tarjeta de Crédito,48,2022-10,180.24,9037.88,1,5.9,0
+CUST-00011,Lima,Mes a Mes,Débito Automático,33,2024-01,160.08,5435.22,1,9.0,0
+CUST-00012,Piura,Bianual,Transferencia Bancaria,72,2020-10,170.42,11868.97,2,7.8,0
+CUST-00013,Cusco,Mes a Mes,Tarjeta de Crédito,1,2026-09,135.46,125.9,1,9.0,0
+CUST-00014,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,169.4,505.12,1,6.5,0
+CUST-00015,Lima,Anual,Débito Automático,17,2025-05,129.8,2190.33,1,7.7,0
+CUST-00016,Lima,Bianual,Débito Automático,31,2024-03,145.1,4635.28,3,8.6,0
+CUST-00017,Lima,Mes a Mes,Débito Automático,7,2026-03,132.64,974.42,0,9.4,0
+CUST-00018,Arequipa,Mes a Mes,Débito Automático,5,2026-05,124.43,613.48,1,4.9,0
+CUST-00019,Lima,Anual,Tarjeta de Crédito,28,2024-06,113.99,3079.62,1,9.8,0
+CUST-00020,Lima,Anual,Efectivo/Ventanilla,2,2026-08,166.05,313.56,2,9.5,0
+CUST-00021,Arequipa,Anual,Transferencia Bancaria,9,2026-01,203.98,1690.1,1,7.8,0
+CUST-00022,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,197.7,2534.59,3,7.8,0
+CUST-00023,Lima,Mes a Mes,Efectivo/Ventanilla,15,2025-07,88.45,1316.42,1,6.1,1
+CUST-00024,Lima,Mes a Mes,Transferencia Bancaria,24,2024-10,203.01,5004.97,2,8.1,0
+CUST-00025,Lima,Anual,Efectivo/Ventanilla,8,2026-01,130.68,1030.38,4,5.3,1
+CUST-00026,La Libertad,Mes a Mes,Tarjeta de Crédito,18,2025-04,172.03,3217.74,2,7.2,0
+CUST-00027,Lima,Mes a Mes,Débito Automático,16,2025-06,104.22,1670.27,0,7.7,0
+CUST-00028,Arequipa,Bianual,Débito Automático,15,2025-07,151.39,2337.26,0,8.6,0
+CUST-00029,Arequipa,Mes a Mes,Transferencia Bancaria,19,2025-03,159.12,2839.7,2,7.1,1
+CUST-00030,Lima,Bianual,Débito Automático,6,2026-04,78.19,483.77,4,5.2,0
+CUST-00031,Arequipa,Anual,Débito Automático,2,2026-08,172.37,347.42,0,9.5,0
+CUST-00032,Lima,Anual,Tarjeta de Crédito,3,2026-07,205.57,581.02,0,8.0,0
+CUST-00033,Lima,Mes a Mes,Tarjeta de Crédito,5,2026-05,137.14,647.76,0,7.0,0
+CUST-00034,Piura,Mes a Mes,Tarjeta de Crédito,13,2025-09,206.21,2789.15,1,8.0,1
+CUST-00035,Piura,Anual,Débito Automático,34,2023-12,136.46,4287.9,0,9.1,0
+CUST-00036,Cusco,Anual,Tarjeta de Crédito,22,2024-12,183.23,3950.96,0,7.7,0
+CUST-00037,Lima,Anual,Tarjeta de Crédito,29,2024-05,45.16,1258.24,1,6.5,0
+CUST-00038,Lima,Mes a Mes,Efectivo/Ventanilla,8,2026-01,253.85,2043.92,2,8.1,0
+CUST-00039,La Libertad,Anual,Transferencia Bancaria,10,2025-12,212.3,2184.89,1,7.8,0
+CUST-00040,Lima,Anual,Efectivo/Ventanilla,10,2025-12,132.19,1278.08,3,7.4,0
+CUST-00041,Lima,Anual,Transferencia Bancaria,4,2026-06,56.26,219.53,2,9.2,0
+CUST-00042,Lima,Anual,Tarjeta de Crédito,2,2026-08,157.96,330.97,1,8.4,0
+CUST-00043,Lima,Anual,Débito Automático,17,2025-05,80.02,1390.14,2,7.1,0
+CUST-00044,Piura,Anual,Transferencia Bancaria,72,2020-10,165.02,12316.73,2,5.3,0
+CUST-00045,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,163.52,639.06,1,7.0,0
+CUST-00046,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,102.64,97.55,3,8.8,0
+CUST-00047,Lima,Mes a Mes,Tarjeta de Crédito,28,2024-06,195.44,5327.53,1,6.4,0
+CUST-00048,Arequipa,Mes a Mes,Tarjeta de Crédito,6,2026-04,181.25,1101.74,1,6.5,0
+CUST-00049,Arequipa,Mes a Mes,Débito Automático,32,2024-02,188.91,5647.51,1,8.5,1
+CUST-00050,Lima,Mes a Mes,Tarjeta de Crédito,22,2024-12,145.4,3055.37,0,9.1,0
+CUST-00051,Piura,Mes a Mes,Débito Automático,53,2022-05,81.3,3990.31,1,3.6,0
+CUST-00052,La Libertad,Mes a Mes,Transferencia Bancaria,10,2025-12,189.0,1845.03,2,4.7,0
+CUST-00053,Piura,Anual,Débito Automático,20,2025-01,132.83,2729.84,0,8.6,1
+CUST-00054,Cusco,Bianual,Débito Automático,12,2025-10,82.46,913.53,0,5.8,0
+CUST-00055,Arequipa,Mes a Mes,Tarjeta de Crédito,18,2025-04,205.84,3733.99,3,7.7,0
+CUST-00056,Piura,Bianual,Transferencia Bancaria,11,2025-11,239.47,2742.76,0,5.7,0
+CUST-00057,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,143.14,544.39,2,8.6,0
+CUST-00058,Lima,Mes a Mes,Débito Automático,13,2025-09,242.16,3180.1,3,8.6,1
+CUST-00059,Lima,Mes a Mes,Tarjeta de Crédito,14,2025-08,149.11,2185.16,1,7.6,1
+CUST-00060,Lima,Mes a Mes,Débito Automático,30,2024-04,127.88,4009.41,3,7.8,0
+CUST-00061,Lima,Anual,Efectivo/Ventanilla,24,2024-10,116.63,2660.68,1,6.6,0
+CUST-00062,Lima,Anual,Efectivo/Ventanilla,20,2025-01,218.67,4080.57,1,5.6,0
+CUST-00063,Cusco,Mes a Mes,Tarjeta de Crédito,3,2026-07,109.89,309.65,0,8.1,0
+CUST-00064,Lima,Mes a Mes,Débito Automático,23,2024-11,178.09,4142.21,2,6.3,0
+CUST-00065,Lima,Mes a Mes,Transferencia Bancaria,13,2025-09,119.84,1580.27,0,7.5,0
+CUST-00066,Arequipa,Mes a Mes,Débito Automático,41,2023-05,124.29,5134.88,6,9.0,1
+CUST-00067,Lima,Mes a Mes,Tarjeta de Crédito,46,2022-12,191.36,8482.94,2,5.8,0
+CUST-00068,Cusco,Mes a Mes,Débito Automático,2,2026-08,127.9,240.98,0,7.0,0
+CUST-00069,Lima,Anual,Efectivo/Ventanilla,31,2024-03,126.78,3912.49,3,8.6,0
+CUST-00070,Piura,Bianual,Débito Automático,1,2026-09,195.98,192.62,1,8.6,0
+CUST-00071,La Libertad,Mes a Mes,Tarjeta de Crédito,9,2026-01,216.88,1980.71,1,8.4,0
+CUST-00072,Lima,Bianual,Transferencia Bancaria,15,2025-07,174.01,2551.1,2,8.8,0
+CUST-00073,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,115.54,334.15,2,7.1,1
+CUST-00074,Cusco,Mes a Mes,Débito Automático,25,2024-09,122.02,2922.84,1,8.1,0
+CUST-00075,La Libertad,Mes a Mes,Efectivo/Ventanilla,1,2026-09,148.6,140.8,2,4.4,1
+CUST-00076,La Libertad,Anual,Tarjeta de Crédito,4,2026-06,159.44,608.77,1,7.1,0
+CUST-00077,La Libertad,Bianual,Tarjeta de Crédito,16,2025-06,100.55,1499.93,4,7.8,0
+CUST-00078,Lima,Anual,Débito Automático,23,2024-11,177.54,3940.87,0,5.4,0
+CUST-00079,Lima,Mes a Mes,Tarjeta de Crédito,45,2023-01,148.85,6194.23,2,9.4,0
+CUST-00080,Lima,Anual,Tarjeta de Crédito,23,2024-11,67.79,1472.22,1,8.3,0
+CUST-00081,Cusco,Mes a Mes,Débito Automático,21,2025-01,103.2,2204.22,0,9.8,0
+CUST-00082,Arequipa,Bianual,Débito Automático,10,2025-12,122.31,1177.0,0,7.4,0
+CUST-00083,Lima,Mes a Mes,Transferencia Bancaria,1,2026-09,141.72,142.69,1,9.0,0
+CUST-00084,Lima,Mes a Mes,Débito Automático,3,2026-07,230.02,699.17,1,8.4,0
+CUST-00085,Lima,Anual,Débito Automático,14,2025-08,155.72,2170.39,1,6.3,0
+CUST-00086,Lima,Anual,Tarjeta de Crédito,21,2025-01,107.17,2351.01,1,6.2,0
+CUST-00087,La Libertad,Mes a Mes,Transferencia Bancaria,10,2025-12,154.93,1429.67,3,7.5,1
+CUST-00088,Arequipa,Anual,Débito Automático,24,2024-10,129.16,3149.51,3,6.1,0
+CUST-00089,Cusco,Mes a Mes,Tarjeta de Crédito,14,2025-08,159.61,2334.29,3,7.6,1
+CUST-00090,Lima,Anual,Débito Automático,2,2026-08,171.13,353.24,0,8.6,1
+CUST-00091,Lima,Anual,Débito Automático,4,2026-06,199.42,751.28,1,8.3,0
+CUST-00092,La Libertad,Anual,Débito Automático,33,2024-01,143.91,4570.88,1,7.9,0
+CUST-00093,La Libertad,Anual,Transferencia Bancaria,24,2024-10,218.75,4947.7,1,6.5,0
+CUST-00094,Arequipa,Mes a Mes,Débito Automático,41,2023-05,185.86,7606.32,1,7.9,0
+CUST-00095,La Libertad,Mes a Mes,Débito Automático,3,2026-07,113.17,343.78,1,5.7,0
+CUST-00096,Lima,Anual,Tarjeta de Crédito,72,2020-10,244.44,16917.16,3,8.2,0
+CUST-00097,Arequipa,Mes a Mes,Transferencia Bancaria,5,2026-05,159.71,790.67,2,6.2,0
+CUST-00098,Lima,Mes a Mes,Débito Automático,1,2026-09,107.42,108.47,5,8.7,1
+CUST-00099,Lima,Mes a Mes,Tarjeta de Crédito,72,2020-10,219.38,15396.91,1,7.8,0
+CUST-00100,Lima,Mes a Mes,Débito Automático,6,2026-04,238.5,1475.39,1,6.1,1
+CUST-00101,Lima,Anual,Tarjeta de Crédito,20,2025-01,143.51,2928.47,2,5.3,0
+CUST-00102,Arequipa,Mes a Mes,Tarjeta de Crédito,4,2026-06,122.34,454.33,0,9.4,0
+CUST-00103,Lima,Anual,Tarjeta de Crédito,16,2025-06,137.24,2197.48,2,8.7,0
+CUST-00104,Arequipa,Mes a Mes,Débito Automático,43,2023-03,177.16,7241.5,1,8.8,0
+CUST-00105,Piura,Mes a Mes,Débito Automático,7,2026-03,202.5,1406.84,1,8.5,1
+CUST-00106,Lima,Mes a Mes,Débito Automático,20,2025-01,170.67,3564.94,2,7.1,0
+CUST-00107,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,149.58,618.83,1,6.9,1
+CUST-00108,La Libertad,Mes a Mes,Débito Automático,18,2025-04,212.41,3718.57,0,7.6,0
+CUST-00109,Lima,Anual,Transferencia Bancaria,8,2026-01,130.92,1003.26,1,6.7,0
+CUST-00110,Lima,Mes a Mes,Efectivo/Ventanilla,5,2026-05,191.39,909.55,1,8.7,0
+CUST-00111,Lima,Anual,Efectivo/Ventanilla,7,2026-03,132.04,914.32,3,6.4,1
+CUST-00112,Lima,Mes a Mes,Efectivo/Ventanilla,4,2026-06,164.4,614.76,1,8.2,0
+CUST-00113,Piura,Mes a Mes,Tarjeta de Crédito,42,2023-04,139.89,5824.89,0,6.2,1
+CUST-00114,Cusco,Anual,Transferencia Bancaria,10,2025-12,142.49,1311.16,3,6.3,1
+CUST-00115,Arequipa,Mes a Mes,Débito Automático,6,2026-04,128.02,739.01,0,7.0,1
+CUST-00116,Cusco,Mes a Mes,Tarjeta de Crédito,11,2025-11,205.52,2144.5,3,9.6,0
+CUST-00117,Cusco,Mes a Mes,Tarjeta de Crédito,7,2026-03,112.02,820.41,2,6.1,0
+CUST-00118,Lima,Mes a Mes,Tarjeta de Crédito,25,2024-09,111.69,2832.85,2,9.4,0
+CUST-00119,Cusco,Anual,Transferencia Bancaria,64,2021-06,240.44,14856.58,1,4.0,0
+CUST-00120,Arequipa,Mes a Mes,Débito Automático,11,2025-11,189.0,1937.77,4,5.3,0
+CUST-00121,Cusco,Anual,Débito Automático,36,2023-10,37.67,1338.74,1,9.4,0
+CUST-00122,Cusco,Bianual,Efectivo/Ventanilla,16,2025-06,119.56,1813.0,0,7.8,0
+CUST-00123,Lima,Mes a Mes,Débito Automático,4,2026-06,63.46,251.23,5,9.2,0
+CUST-00124,Lima,Bianual,Tarjeta de Crédito,22,2024-12,102.22,2313.15,3,8.7,0
+CUST-00125,Lima,Mes a Mes,Efectivo/Ventanilla,13,2025-09,35.0,455.02,3,8.3,1
+CUST-00126,Lima,Bianual,Tarjeta de Crédito,19,2025-03,138.84,2644.27,1,5.9,0
+CUST-00127,Cusco,Mes a Mes,Tarjeta de Crédito,40,2023-06,93.61,3708.21,4,9.2,0
+CUST-00128,Cusco,Anual,Débito Automático,11,2025-11,147.7,1690.57,0,8.3,0
+CUST-00129,Lima,Mes a Mes,Débito Automático,42,2023-04,71.87,3142.74,1,6.0,0
+CUST-00130,Arequipa,Mes a Mes,Efectivo/Ventanilla,26,2024-08,148.73,3815.37,2,6.2,0
+CUST-00131,Lima,Anual,Tarjeta de Crédito,13,2025-09,126.33,1576.19,0,4.4,0
+CUST-00132,Lima,Anual,Tarjeta de Crédito,17,2025-05,212.59,3540.83,2,8.8,0
+CUST-00133,Lima,Mes a Mes,Débito Automático,8,2026-01,208.51,1575.09,1,4.3,1
+CUST-00134,Lima,Mes a Mes,Débito Automático,72,2020-10,180.34,13019.86,2,9.2,0
+CUST-00135,Piura,Anual,Efectivo/Ventanilla,20,2025-01,130.3,2566.94,6,8.5,0
+CUST-00136,Lima,Anual,Tarjeta de Crédito,1,2026-09,234.34,218.74,3,8.7,0
+CUST-00137,Arequipa,Bianual,Tarjeta de Crédito,8,2026-01,75.11,568.25,3,7.7,0
+CUST-00138,La Libertad,Anual,Débito Automático,18,2025-04,81.84,1447.12,2,6.6,0
+CUST-00139,Lima,Bianual,Transferencia Bancaria,2,2026-08,141.23,292.46,2,7.2,0
+CUST-00140,Piura,Anual,Efectivo/Ventanilla,1,2026-09,246.43,244.86,3,5.0,0
+CUST-00141,Piura,Mes a Mes,Tarjeta de Crédito,11,2025-11,135.89,1507.64,1,7.1,0
+CUST-00142,Lima,Mes a Mes,Débito Automático,8,2026-01,136.75,1054.7,4,3.3,1
+CUST-00143,Lima,Anual,Tarjeta de Crédito,11,2025-11,80.11,876.17,4,5.6,1
+CUST-00144,Lima,Anual,Transferencia Bancaria,6,2026-04,187.57,1100.84,5,4.8,0
+CUST-00145,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,187.89,755.83,0,8.3,0
+CUST-00146,Lima,Mes a Mes,Efectivo/Ventanilla,22,2024-12,180.51,3679.63,1,8.6,0
+CUST-00147,Arequipa,Bianual,Tarjeta de Crédito,14,2025-08,116.69,1607.73,0,9.5,0
+CUST-00148,Arequipa,Mes a Mes,Efectivo/Ventanilla,5,2026-05,113.2,542.5,1,7.6,0
+CUST-00149,Lima,Mes a Mes,Tarjeta de Crédito,7,2026-03,86.81,584.82,1,6.5,1
+CUST-00150,Lima,Mes a Mes,Débito Automático,17,2025-05,148.77,2642.69,1,5.8,0
+CUST-00151,Piura,Mes a Mes,Débito Automático,2,2026-08,96.38,181.92,0,6.8,0
+CUST-00152,Lima,Mes a Mes,Débito Automático,3,2026-07,92.02,265.15,1,6.9,0
+CUST-00153,Lima,Mes a Mes,Efectivo/Ventanilla,2,2026-08,125.93,248.41,3,5.4,1
+CUST-00154,Lima,Mes a Mes,Transferencia Bancaria,31,2024-03,122.99,3935.43,1,8.2,0
+CUST-00155,Piura,Anual,Transferencia Bancaria,26,2024-08,120.79,3059.41,1,6.7,0
+CUST-00156,Lima,Mes a Mes,Débito Automático,26,2024-08,165.99,4387.82,1,9.5,0
+CUST-00157,La Libertad,Anual,Débito Automático,23,2024-11,148.56,3523.93,3,9.0,0
+CUST-00158,La Libertad,Bianual,Transferencia Bancaria,20,2025-01,132.03,2535.77,4,4.6,0
+CUST-00159,Lima,Mes a Mes,Tarjeta de Crédito,12,2025-10,153.24,1785.66,2,8.0,0
+CUST-00160,La Libertad,Anual,Débito Automático,19,2025-03,100.38,1843.05,4,8.3,0
+CUST-00161,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,149.74,153.97,2,8.7,1
+CUST-00162,Arequipa,Bianual,Débito Automático,18,2025-04,151.78,2529.23,1,8.6,0
+CUST-00163,Arequipa,Mes a Mes,Débito Automático,28,2024-06,77.36,2079.64,2,8.4,0
+CUST-00164,Arequipa,Anual,Tarjeta de Crédito,13,2025-09,189.81,2488.07,1,6.8,0
+CUST-00165,Lima,Anual,Débito Automático,8,2026-01,105.34,837.25,0,6.0,0
+CUST-00166,Cusco,Mes a Mes,Efectivo/Ventanilla,6,2026-04,149.06,873.54,1,9.1,1
+CUST-00167,Lima,Mes a Mes,Débito Automático,19,2025-03,197.4,3713.82,5,6.9,1
+CUST-00168,Lima,Anual,Débito Automático,22,2024-12,186.66,3883.48,1,9.3,0
+CUST-00169,Lima,Anual,Débito Automático,37,2023-09,146.55,5292.18,2,9.3,0
+CUST-00170,Arequipa,Mes a Mes,Transferencia Bancaria,8,2026-01,128.69,1014.31,2,9.8,0
+CUST-00171,La Libertad,Anual,Tarjeta de Crédito,27,2024-07,187.64,5254.52,3,6.8,0
+CUST-00172,Lima,Mes a Mes,Tarjeta de Crédito,15,2025-07,175.36,2509.16,3,8.8,1
+CUST-00173,Arequipa,Anual,Débito Automático,39,2023-07,117.17,4719.59,1,6.4,0
+CUST-00174,Lima,Mes a Mes,Débito Automático,14,2025-08,109.23,1534.96,3,9.5,0
+CUST-00175,Arequipa,Bianual,Tarjeta de Crédito,14,2025-08,51.74,668.33,1,8.8,0
+CUST-00176,Lima,Mes a Mes,Transferencia Bancaria,16,2025-06,151.93,2465.4,3,7.1,1
+CUST-00177,La Libertad,Mes a Mes,Efectivo/Ventanilla,25,2024-09,141.28,3265.76,5,7.7,0
+CUST-00178,Lima,Mes a Mes,Débito Automático,61,2021-09,196.13,12558.05,2,8.4,0
+CUST-00179,Piura,Mes a Mes,Tarjeta de Crédito,2,2026-08,161.16,333.1,1,2.9,0
+CUST-00180,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,205.04,196.56,0,3.7,0
+CUST-00181,Lima,Mes a Mes,Tarjeta de Crédito,50,2022-08,113.62,5416.63,1,8.3,0
+CUST-00182,Lima,Anual,Transferencia Bancaria,14,2025-08,196.22,2663.53,3,7.0,0
+CUST-00183,Piura,Mes a Mes,Débito Automático,18,2025-04,121.2,2108.08,4,4.4,0
+CUST-00184,Cusco,Mes a Mes,Efectivo/Ventanilla,12,2025-10,179.99,2091.64,1,6.9,0
+CUST-00185,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,79.36,152.59,4,6.9,1
+CUST-00186,La Libertad,Mes a Mes,Efectivo/Ventanilla,27,2024-07,155.58,4203.8,2,7.5,0
+CUST-00187,Cusco,Mes a Mes,Transferencia Bancaria,25,2024-09,55.69,1310.6,0,5.5,0
+CUST-00188,Arequipa,Mes a Mes,Tarjeta de Crédito,7,2026-03,132.98,958.76,3,5.3,1
+CUST-00189,Arequipa,Mes a Mes,Efectivo/Ventanilla,7,2026-03,164.82,1183.29,0,9.6,0
+CUST-00190,Lima,Mes a Mes,Débito Automático,33,2024-01,121.56,3939.04,3,9.0,1
+CUST-00191,Lima,Mes a Mes,Débito Automático,2,2026-08,97.73,201.49,2,8.8,0
+CUST-00192,Cusco,Anual,Transferencia Bancaria,39,2023-07,183.08,6798.31,5,8.6,0
+CUST-00193,Piura,Mes a Mes,Transferencia Bancaria,6,2026-04,140.34,776.6,4,7.6,1
+CUST-00194,Arequipa,Mes a Mes,Efectivo/Ventanilla,17,2025-05,122.97,2091.53,2,6.4,1
+CUST-00195,Lima,Bianual,Débito Automático,50,2022-08,146.89,7194.15,3,6.0,0
+CUST-00196,Lima,Mes a Mes,Transferencia Bancaria,21,2025-01,263.65,5501.94,1,7.3,0
+CUST-00197,La Libertad,Anual,Transferencia Bancaria,10,2025-12,196.91,2041.79,2,8.1,0
+CUST-00198,Cusco,Mes a Mes,Débito Automático,22,2024-12,197.32,4541.12,1,9.1,0
+CUST-00199,Cusco,Anual,Tarjeta de Crédito,8,2026-01,164.6,1320.06,5,5.7,0
+CUST-00200,La Libertad,Anual,Débito Automático,6,2026-04,152.49,932.62,1,3.3,0
+CUST-00201,Arequipa,Mes a Mes,Débito Automático,72,2020-10,37.18,2491.97,1,4.1,1
+CUST-00202,Lima,Bianual,Efectivo/Ventanilla,26,2024-08,114.45,2799.82,1,4.8,0
+CUST-00203,Lima,Mes a Mes,Tarjeta de Crédito,19,2025-03,123.37,2379.93,1,3.8,0
+CUST-00204,Cusco,Mes a Mes,Transferencia Bancaria,8,2026-01,60.63,473.44,0,8.8,0
+CUST-00205,Arequipa,Anual,Efectivo/Ventanilla,1,2026-09,92.92,90.87,2,8.4,0
+CUST-00206,Lima,Anual,Tarjeta de Crédito,1,2026-09,55.86,53.63,1,6.1,0
+CUST-00207,Lima,Mes a Mes,Transferencia Bancaria,15,2025-07,143.28,2146.96,3,9.5,0
+CUST-00208,La Libertad,Mes a Mes,Tarjeta de Crédito,26,2024-08,181.84,4463.42,2,5.7,0
+CUST-00209,Lima,Mes a Mes,Efectivo/Ventanilla,14,2025-08,194.8,2731.29,2,9.2,0
+CUST-00210,Lima,Mes a Mes,Débito Automático,34,2023-12,163.67,5245.33,2,4.0,0
+CUST-00211,Arequipa,Anual,Efectivo/Ventanilla,1,2026-09,101.65,94.36,1,5.5,0
+CUST-00212,La Libertad,Mes a Mes,Débito Automático,9,2026-01,58.06,503.18,0,8.9,1
+CUST-00213,La Libertad,Mes a Mes,Débito Automático,5,2026-05,65.94,313.23,1,6.2,0
+CUST-00214,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,87.9,1001.29,2,6.0,0
+CUST-00215,La Libertad,Mes a Mes,Tarjeta de Crédito,2,2026-08,105.0,194.7,0,7.9,0
+CUST-00216,Lima,Mes a Mes,Tarjeta de Crédito,56,2022-02,137.81,7277.16,4,6.3,0
+CUST-00217,Lima,Anual,Tarjeta de Crédito,5,2026-05,99.36,492.49,1,8.4,0
+CUST-00218,La Libertad,Bianual,Transferencia Bancaria,46,2022-12,160.25,7242.78,3,8.3,0
+CUST-00219,Arequipa,Anual,Débito Automático,10,2025-12,134.55,1245.88,3,8.5,0
+CUST-00220,Cusco,Mes a Mes,Débito Automático,72,2020-10,145.47,9645.81,1,8.1,0
+CUST-00221,La Libertad,Bianual,Débito Automático,15,2025-07,196.31,3087.31,1,4.5,0
+CUST-00222,Arequipa,Anual,Tarjeta de Crédito,49,2022-09,91.89,4528.04,1,6.2,0
+CUST-00223,Lima,Anual,Débito Automático,1,2026-09,163.84,158.52,3,7.4,0
+CUST-00224,Lima,Mes a Mes,Tarjeta de Crédito,25,2024-09,144.37,3541.24,1,7.3,0
+CUST-00225,Lima,Mes a Mes,Tarjeta de Crédito,43,2023-03,129.99,5336.09,2,8.3,0
+CUST-00226,Lima,Mes a Mes,Débito Automático,3,2026-07,184.84,535.02,0,7.5,0
+CUST-00227,Piura,Mes a Mes,Tarjeta de Crédito,2,2026-08,184.56,370.74,1,8.8,0
+CUST-00228,Lima,Mes a Mes,Efectivo/Ventanilla,10,2025-12,102.41,1059.7,3,5.5,0
+CUST-00229,Cusco,Mes a Mes,Débito Automático,49,2022-09,136.8,6327.4,2,8.5,0
+CUST-00230,Arequipa,Mes a Mes,Tarjeta de Crédito,15,2025-07,157.65,2433.91,3,4.5,0
+CUST-00231,La Libertad,Anual,Transferencia Bancaria,14,2025-08,132.71,1738.66,2,8.2,0
+CUST-00232,Arequipa,Mes a Mes,Tarjeta de Crédito,3,2026-07,171.33,487.24,1,3.3,1
+CUST-00233,Arequipa,Mes a Mes,Transferencia Bancaria,1,2026-09,157.65,145.8,1,7.6,1
+CUST-00234,Lima,Bianual,Tarjeta de Crédito,30,2024-04,227.47,6403.09,2,8.4,0
+CUST-00235,Lima,Bianual,Tarjeta de Crédito,2,2026-08,76.14,158.26,1,7.0,0
+CUST-00236,La Libertad,Anual,Débito Automático,19,2025-03,139.49,2596.58,2,6.9,0
+CUST-00237,Lima,Bianual,Transferencia Bancaria,45,2023-01,104.12,4357.87,1,8.7,0
+CUST-00238,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,172.18,899.44,5,6.9,1
+CUST-00239,Arequipa,Bianual,Débito Automático,20,2025-01,72.23,1494.1,1,5.0,0
+CUST-00240,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,160.58,326.98,2,7.3,0
+CUST-00241,Piura,Mes a Mes,Efectivo/Ventanilla,17,2025-05,116.65,2065.05,5,5.9,1
+CUST-00242,Piura,Mes a Mes,Tarjeta de Crédito,4,2026-06,111.96,424.83,2,9.5,0
+CUST-00243,Piura,Mes a Mes,Tarjeta de Crédito,24,2024-10,79.91,1972.94,0,9.6,0
+CUST-00244,Lima,Mes a Mes,Efectivo/Ventanilla,7,2026-03,124.07,876.91,3,8.6,1
+CUST-00245,Lima,Anual,Transferencia Bancaria,12,2025-10,193.8,2402.5,2,6.6,0
+CUST-00246,Piura,Anual,Tarjeta de Crédito,17,2025-05,143.87,2503.51,1,4.1,0
+CUST-00247,Lima,Anual,Transferencia Bancaria,4,2026-06,173.25,668.78,0,6.5,0
+CUST-00248,Piura,Mes a Mes,Efectivo/Ventanilla,25,2024-09,219.91,5611.4,1,7.4,0
+CUST-00249,Piura,Anual,Tarjeta de Crédito,7,2026-03,156.87,1047.71,3,6.5,0
+CUST-00250,Cusco,Anual,Tarjeta de Crédito,20,2025-01,119.85,2307.63,3,9.2,0
+CUST-00251,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,166.03,620.31,2,6.7,0
+CUST-00252,Lima,Anual,Efectivo/Ventanilla,21,2025-01,120.51,2635.89,0,8.6,0
+CUST-00253,Cusco,Mes a Mes,Transferencia Bancaria,3,2026-07,122.3,351.43,2,8.4,0
+CUST-00254,Lima,Mes a Mes,Débito Automático,10,2025-12,76.6,756.56,1,7.1,0
+CUST-00255,Lima,Bianual,Efectivo/Ventanilla,6,2026-04,186.68,1087.46,3,6.2,0
+CUST-00256,Arequipa,Mes a Mes,Tarjeta de Crédito,25,2024-09,127.63,3333.67,0,8.9,1
+CUST-00257,Piura,Mes a Mes,Débito Automático,6,2026-04,153.19,885.64,1,4.0,0
+CUST-00258,La Libertad,Bianual,Tarjeta de Crédito,39,2023-07,98.38,3918.2,3,4.6,0
+CUST-00259,Arequipa,Anual,Tarjeta de Crédito,41,2023-05,164.62,6960.03,2,5.1,0
+CUST-00260,Lima,Mes a Mes,Efectivo/Ventanilla,4,2026-06,110.71,432.49,2,7.3,0
+CUST-00261,Arequipa,Mes a Mes,Débito Automático,18,2025-04,138.62,2418.22,2,7.4,1
+CUST-00262,Piura,Mes a Mes,Transferencia Bancaria,2,2026-08,184.5,375.35,1,6.7,1
+CUST-00263,Lima,Anual,Tarjeta de Crédito,9,2026-01,180.58,1688.08,1,7.7,0
+CUST-00264,Arequipa,Mes a Mes,Débito Automático,23,2024-11,144.01,3372.32,2,6.1,0
+CUST-00265,Cusco,Mes a Mes,Efectivo/Ventanilla,20,2025-01,65.43,1242.55,1,7.7,0
+CUST-00266,La Libertad,Bianual,Tarjeta de Crédito,18,2025-04,279.68,5212.85,4,6.9,0
+CUST-00267,La Libertad,Mes a Mes,Débito Automático,6,2026-04,223.56,1301.64,3,8.8,1
+CUST-00268,La Libertad,Mes a Mes,Tarjeta de Crédito,9,2026-01,177.52,1589.55,2,8.1,1
+CUST-00269,Lima,Mes a Mes,Efectivo/Ventanilla,2,2026-08,111.11,228.46,4,6.8,1
+CUST-00270,Lima,Anual,Débito Automático,23,2024-11,139.89,3038.87,3,6.5,0
+CUST-00271,Cusco,Mes a Mes,Débito Automático,13,2025-09,120.55,1601.61,2,7.3,0
+CUST-00272,Cusco,Mes a Mes,Débito Automático,23,2024-11,201.87,4631.41,3,4.4,0
+CUST-00273,Cusco,Anual,Débito Automático,6,2026-04,156.81,974.86,2,8.9,0
+CUST-00274,Piura,Mes a Mes,Transferencia Bancaria,8,2026-01,109.71,827.09,3,6.3,0
+CUST-00275,Arequipa,Mes a Mes,Tarjeta de Crédito,8,2026-01,123.82,965.49,2,6.5,0
+CUST-00276,Arequipa,Mes a Mes,Débito Automático,1,2026-09,195.45,200.98,3,9.1,0
+CUST-00277,La Libertad,Mes a Mes,Débito Automático,8,2026-01,217.0,1601.46,1,9.1,0
+CUST-00278,Arequipa,Mes a Mes,Débito Automático,30,2024-04,213.77,5993.59,1,6.4,0
+CUST-00279,La Libertad,Mes a Mes,Efectivo/Ventanilla,41,2023-05,179.07,7699.96,6,6.0,1
+CUST-00280,La Libertad,Mes a Mes,Débito Automático,14,2025-08,133.63,1789.35,0,8.8,0
+CUST-00281,Cusco,Mes a Mes,Efectivo/Ventanilla,11,2025-11,35.0,403.03,1,6.9,0
+CUST-00282,Lima,Anual,Tarjeta de Crédito,1,2026-09,158.37,149.46,3,7.8,0
+CUST-00283,Lima,Bianual,Débito Automático,39,2023-07,144.92,5465.04,1,5.9,0
+CUST-00284,Lima,Anual,Efectivo/Ventanilla,1,2026-09,151.3,154.0,1,9.6,1
+CUST-00285,Arequipa,Bianual,Tarjeta de Crédito,53,2022-05,147.43,7856.85,1,9.1,0
+CUST-00286,Lima,Mes a Mes,Transferencia Bancaria,13,2025-09,85.32,1104.22,0,8.7,0
+CUST-00287,Lima,Bianual,Efectivo/Ventanilla,8,2026-01,170.08,1345.52,1,8.4,0
+CUST-00288,Arequipa,Mes a Mes,Débito Automático,47,2022-11,173.45,8393.84,2,8.8,0
+CUST-00289,Lima,Bianual,Débito Automático,1,2026-09,175.71,167.02,1,7.3,0
+CUST-00290,Arequipa,Bianual,Transferencia Bancaria,16,2025-06,187.6,2934.13,2,8.5,0
+CUST-00291,Lima,Anual,Débito Automático,15,2025-07,172.18,2428.28,0,7.8,0
+CUST-00292,Lima,Bianual,Débito Automático,5,2026-05,126.55,631.15,1,9.5,0
+CUST-00293,Cusco,Anual,Débito Automático,11,2025-11,141.81,1485.92,2,7.8,0
+CUST-00294,Lima,Mes a Mes,Débito Automático,20,2025-01,149.1,2872.86,0,7.9,1
+CUST-00295,Lima,Mes a Mes,Transferencia Bancaria,24,2024-10,149.85,3529.01,1,6.5,0
+CUST-00296,Arequipa,Anual,Débito Automático,1,2026-09,189.92,175.39,4,6.3,0
+CUST-00297,La Libertad,Mes a Mes,Tarjeta de Crédito,50,2022-08,173.97,8106.58,0,9.2,1
+CUST-00298,Lima,Anual,Tarjeta de Crédito,4,2026-06,238.48,962.67,1,8.5,0
+CUST-00299,Arequipa,Bianual,Tarjeta de Crédito,5,2026-05,244.29,1191.85,1,4.9,0
+CUST-00300,Lima,Mes a Mes,Débito Automático,6,2026-04,148.58,920.38,1,5.4,1
+CUST-00301,Lima,Anual,Transferencia Bancaria,1,2026-09,35.0,35.36,0,8.5,0
+CUST-00302,Arequipa,Bianual,Débito Automático,3,2026-07,200.66,554.46,2,6.9,0
+CUST-00303,Arequipa,Bianual,Transferencia Bancaria,72,2020-10,120.68,8690.46,3,8.8,0
+CUST-00304,Arequipa,Bianual,Efectivo/Ventanilla,7,2026-03,108.93,710.8,2,7.9,0
+CUST-00305,La Libertad,Mes a Mes,Tarjeta de Crédito,3,2026-07,127.07,389.41,1,6.8,0
+CUST-00306,Piura,Bianual,Tarjeta de Crédito,3,2026-07,124.9,393.02,3,6.6,0
+CUST-00307,Arequipa,Anual,Tarjeta de Crédito,23,2024-11,172.55,3925.22,4,8.3,0
+CUST-00308,Lima,Mes a Mes,Tarjeta de Crédito,35,2023-11,74.83,2642.0,0,7.7,0
+CUST-00309,La Libertad,Mes a Mes,Efectivo/Ventanilla,6,2026-04,96.5,550.54,1,6.2,0
+CUST-00310,Lima,Anual,Efectivo/Ventanilla,1,2026-09,160.44,156.73,3,3.8,0
+CUST-00311,Lima,Mes a Mes,Débito Automático,5,2026-05,173.03,892.22,2,5.9,0
+CUST-00312,Lima,Anual,Tarjeta de Crédito,2,2026-08,173.87,327.49,3,7.7,0
+CUST-00313,Lima,Anual,Efectivo/Ventanilla,2,2026-08,109.58,209.19,0,6.2,0
+CUST-00314,Piura,Mes a Mes,Efectivo/Ventanilla,11,2025-11,100.98,1086.24,3,6.3,0
+CUST-00315,Cusco,Anual,Tarjeta de Crédito,5,2026-05,122.2,618.69,2,8.5,0
+CUST-00316,La Libertad,Anual,Tarjeta de Crédito,14,2025-08,155.79,2113.15,3,8.8,0
+CUST-00317,Lima,Mes a Mes,Débito Automático,6,2026-04,211.85,1322.71,2,9.2,1
+CUST-00318,Lima,Mes a Mes,Efectivo/Ventanilla,51,2022-07,52.87,2513.77,1,4.1,0
+CUST-00319,Lima,Mes a Mes,Débito Automático,43,2023-03,135.07,5623.34,0,2.4,0
+CUST-00320,Lima,Mes a Mes,Tarjeta de Crédito,16,2025-06,85.03,1377.03,1,7.0,0
+CUST-00321,Arequipa,Bianual,Débito Automático,8,2026-01,70.65,536.59,4,5.3,0
+CUST-00322,La Libertad,Mes a Mes,Débito Automático,9,2026-01,188.51,1705.64,2,4.4,0
+CUST-00323,La Libertad,Anual,Tarjeta de Crédito,10,2025-12,169.51,1595.68,5,6.3,0
+CUST-00324,Lima,Mes a Mes,Efectivo/Ventanilla,24,2024-10,165.22,3676.91,3,5.9,1
+CUST-00325,Piura,Mes a Mes,Débito Automático,11,2025-11,186.45,1919.14,1,2.3,0
+CUST-00326,La Libertad,Anual,Tarjeta de Crédito,35,2023-11,123.41,4496.0,1,7.3,0
+CUST-00327,Arequipa,Anual,Débito Automático,52,2022-06,125.53,6473.56,3,4.8,0
+CUST-00328,Arequipa,Mes a Mes,Débito Automático,8,2026-01,243.36,1992.68,3,6.2,0
+CUST-00329,Lima,Mes a Mes,Tarjeta de Crédito,15,2025-07,133.9,1934.68,3,9.2,0
+CUST-00330,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,178.08,355.11,1,5.2,0
+CUST-00331,Lima,Mes a Mes,Débito Automático,5,2026-05,145.29,715.08,1,3.9,0
+CUST-00332,La Libertad,Anual,Débito Automático,10,2025-12,61.83,644.85,3,5.6,0
+CUST-00333,Lima,Mes a Mes,Débito Automático,5,2026-05,52.99,269.5,0,6.2,0
+CUST-00334,Lima,Mes a Mes,Débito Automático,38,2023-08,118.95,4587.77,1,4.9,0
+CUST-00335,Lima,Mes a Mes,Efectivo/Ventanilla,4,2026-06,192.52,713.11,3,6.7,0
+CUST-00336,Lima,Bianual,Efectivo/Ventanilla,11,2025-11,180.47,1968.21,2,6.8,0
+CUST-00337,Cusco,Bianual,Débito Automático,17,2025-05,186.13,3103.17,3,8.0,0
+CUST-00338,La Libertad,Mes a Mes,Tarjeta de Crédito,22,2024-12,100.58,2302.64,2,7.0,1
+CUST-00339,Lima,Anual,Efectivo/Ventanilla,9,2026-01,217.71,1868.19,1,8.3,0
+CUST-00340,Lima,Mes a Mes,Débito Automático,37,2023-09,101.58,3589.62,2,7.0,0
+CUST-00341,Lima,Mes a Mes,Transferencia Bancaria,16,2025-06,154.58,2407.68,1,6.6,0
+CUST-00342,Lima,Anual,Efectivo/Ventanilla,11,2025-11,144.53,1512.94,5,8.7,0
+CUST-00343,Lima,Bianual,Débito Automático,2,2026-08,137.18,257.02,3,8.6,0
+CUST-00344,Lima,Bianual,Débito Automático,12,2025-10,205.24,2540.37,1,6.7,0
+CUST-00345,Lima,Anual,Efectivo/Ventanilla,31,2024-03,113.27,3485.3,2,5.5,0
+CUST-00346,Arequipa,Mes a Mes,Tarjeta de Crédito,18,2025-04,84.27,1565.36,3,6.4,0
+CUST-00347,Arequipa,Anual,Débito Automático,33,2024-01,145.9,4949.74,3,7.5,0
+CUST-00348,Lima,Mes a Mes,Débito Automático,13,2025-09,127.01,1579.58,5,8.5,0
+CUST-00349,Lima,Anual,Tarjeta de Crédito,3,2026-07,296.98,883.1,0,9.1,0
+CUST-00350,Arequipa,Mes a Mes,Transferencia Bancaria,1,2026-09,175.44,163.3,1,7.3,0
+CUST-00351,Arequipa,Anual,Transferencia Bancaria,7,2026-03,126.58,920.6,0,6.0,0
+CUST-00352,Cusco,Mes a Mes,Efectivo/Ventanilla,22,2024-12,97.47,2085.49,4,7.3,0
+CUST-00353,La Libertad,Mes a Mes,Débito Automático,29,2024-05,60.39,1700.83,0,7.3,0
+CUST-00354,Lima,Bianual,Tarjeta de Crédito,7,2026-03,98.87,663.96,1,8.5,0
+CUST-00355,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,150.17,1912.94,1,7.5,0
+CUST-00356,Arequipa,Mes a Mes,Tarjeta de Crédito,10,2025-12,209.23,1993.39,2,6.5,0
+CUST-00357,Lima,Mes a Mes,Débito Automático,10,2025-12,195.48,1893.67,0,4.2,0
+CUST-00358,Arequipa,Mes a Mes,Efectivo/Ventanilla,5,2026-05,155.31,795.18,3,8.5,1
+CUST-00359,Piura,Mes a Mes,Efectivo/Ventanilla,3,2026-07,130.46,402.52,3,6.5,0
+CUST-00360,Arequipa,Mes a Mes,Tarjeta de Crédito,4,2026-06,157.1,602.98,2,8.0,0
+CUST-00361,Lima,Bianual,Tarjeta de Crédito,2,2026-08,121.66,238.69,1,6.8,0
+CUST-00362,Arequipa,Mes a Mes,Débito Automático,4,2026-06,222.33,919.2,3,6.1,1
+CUST-00363,Lima,Bianual,Tarjeta de Crédito,1,2026-09,136.49,126.51,2,4.4,0
+CUST-00364,Arequipa,Anual,Transferencia Bancaria,18,2025-04,141.11,2630.37,2,7.0,0
+CUST-00365,Piura,Mes a Mes,Tarjeta de Crédito,7,2026-03,45.29,300.7,2,7.4,1
+CUST-00366,Lima,Anual,Efectivo/Ventanilla,66,2021-04,136.21,9063.67,1,9.2,0
+CUST-00367,Piura,Mes a Mes,Tarjeta de Crédito,4,2026-06,182.64,727.44,4,5.5,0
+CUST-00368,Piura,Anual,Tarjeta de Crédito,8,2026-01,96.95,769.3,0,8.1,0
+CUST-00369,Lima,Mes a Mes,Transferencia Bancaria,8,2026-01,111.22,917.98,1,8.0,0
+CUST-00370,Lima,Mes a Mes,Débito Automático,1,2026-09,180.67,168.6,0,6.0,0
+CUST-00371,Lima,Bianual,Tarjeta de Crédito,33,2024-01,78.55,2501.72,2,4.3,0
+CUST-00372,Lima,Bianual,Débito Automático,1,2026-09,192.6,190.67,5,4.4,0
+CUST-00373,Lima,Bianual,Tarjeta de Crédito,51,2022-07,121.05,6330.78,4,5.4,0
+CUST-00374,La Libertad,Mes a Mes,Transferencia Bancaria,41,2023-05,127.51,4956.78,1,8.8,1
+CUST-00375,Lima,Anual,Tarjeta de Crédito,14,2025-08,94.43,1354.25,1,8.5,0
+CUST-00376,Lima,Mes a Mes,Transferencia Bancaria,15,2025-07,162.01,2361.99,3,4.2,1
+CUST-00377,Cusco,Mes a Mes,Tarjeta de Crédito,20,2025-01,255.69,4830.28,1,8.0,1
+CUST-00378,Lima,Mes a Mes,Débito Automático,9,2026-01,180.17,1651.8,0,7.9,0
+CUST-00379,Cusco,Anual,Transferencia Bancaria,19,2025-03,106.11,1878.63,3,5.8,0
+CUST-00380,Lima,Mes a Mes,Débito Automático,1,2026-09,196.1,193.53,1,8.5,0
+CUST-00381,Lima,Mes a Mes,Débito Automático,2,2026-08,130.75,242.75,5,6.1,0
+CUST-00382,La Libertad,Bianual,Tarjeta de Crédito,11,2025-11,206.85,2198.75,4,4.3,0
+CUST-00383,Arequipa,Mes a Mes,Débito Automático,15,2025-07,181.3,2714.44,2,7.4,1
+CUST-00384,Cusco,Mes a Mes,Débito Automático,40,2023-06,35.0,1389.21,1,5.1,1
+CUST-00385,La Libertad,Mes a Mes,Tarjeta de Crédito,2,2026-08,99.82,194.17,2,7.8,0
+CUST-00386,Cusco,Bianual,Tarjeta de Crédito,32,2024-02,187.5,5854.66,3,9.0,1
+CUST-00387,Lima,Mes a Mes,Tarjeta de Crédito,5,2026-05,151.82,720.75,3,7.3,0
+CUST-00388,Lima,Mes a Mes,Efectivo/Ventanilla,10,2025-12,98.93,968.79,1,4.2,0
+CUST-00389,La Libertad,Anual,Tarjeta de Crédito,7,2026-03,116.49,851.25,2,8.8,0
+CUST-00390,Cusco,Anual,Efectivo/Ventanilla,10,2025-12,59.22,610.3,1,3.9,0
+CUST-00391,Piura,Mes a Mes,Débito Automático,3,2026-07,141.02,397.2,5,9.0,1
+CUST-00392,Lima,Anual,Tarjeta de Crédito,13,2025-09,244.48,2936.29,2,6.2,0
+CUST-00393,Lima,Anual,Efectivo/Ventanilla,30,2024-04,181.22,5661.45,2,7.3,1
+CUST-00394,La Libertad,Anual,Tarjeta de Crédito,11,2025-11,243.57,2648.4,2,3.8,0
+CUST-00395,Lima,Mes a Mes,Transferencia Bancaria,13,2025-09,184.71,2377.02,2,6.6,0
+CUST-00396,Piura,Bianual,Tarjeta de Crédito,35,2023-11,191.24,6837.26,4,8.6,0
+CUST-00397,Cusco,Mes a Mes,Débito Automático,23,2024-11,233.83,5167.86,0,6.4,0
+CUST-00398,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,161.98,2069.2,3,7.6,1
+CUST-00399,La Libertad,Mes a Mes,Tarjeta de Crédito,6,2026-04,136.57,857.05,0,8.5,1
+CUST-00400,La Libertad,Mes a Mes,Efectivo/Ventanilla,39,2023-07,191.47,7522.43,1,8.5,0
+CUST-00401,Lima,Mes a Mes,Débito Automático,16,2025-06,210.42,3164.67,7,8.6,1
+CUST-00402,Piura,Anual,Efectivo/Ventanilla,5,2026-05,123.4,578.33,2,8.8,0
+CUST-00403,Arequipa,Mes a Mes,Efectivo/Ventanilla,6,2026-04,112.53,639.09,3,5.8,1
+CUST-00404,Cusco,Mes a Mes,Débito Automático,30,2024-04,151.25,4626.76,1,8.4,0
+CUST-00405,Lima,Mes a Mes,Débito Automático,1,2026-09,182.42,174.83,1,9.5,0
+CUST-00406,Cusco,Mes a Mes,Efectivo/Ventanilla,72,2020-10,180.91,12019.7,2,5.8,0
+CUST-00407,Lima,Bianual,Efectivo/Ventanilla,3,2026-07,80.91,253.1,1,6.6,0
+CUST-00408,Lima,Mes a Mes,Tarjeta de Crédito,29,2024-05,231.02,6311.42,0,6.9,1
+CUST-00409,Piura,Mes a Mes,Débito Automático,10,2025-12,116.15,1070.02,1,6.8,1
+CUST-00410,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,133.07,1644.85,1,6.5,0
+CUST-00411,Lima,Mes a Mes,Transferencia Bancaria,39,2023-07,104.38,3869.53,0,7.3,0
+CUST-00412,Piura,Mes a Mes,Débito Automático,10,2025-12,266.42,2597.22,2,7.1,0
+CUST-00413,Piura,Anual,Transferencia Bancaria,14,2025-08,155.89,2269.0,3,5.4,1
+CUST-00414,Arequipa,Bianual,Débito Automático,1,2026-09,106.71,110.37,2,8.5,0
+CUST-00415,Arequipa,Mes a Mes,Débito Automático,1,2026-09,183.88,180.09,7,4.7,0
+CUST-00416,Lima,Anual,Tarjeta de Crédito,6,2026-04,179.61,1049.01,2,7.7,0
+CUST-00417,Lima,Anual,Tarjeta de Crédito,21,2025-01,136.55,2845.04,1,6.0,0
+CUST-00418,Lima,Anual,Débito Automático,3,2026-07,182.83,521.97,5,7.5,0
+CUST-00419,La Libertad,Mes a Mes,Tarjeta de Crédito,3,2026-07,107.86,299.89,2,6.9,0
+CUST-00420,La Libertad,Mes a Mes,Débito Automático,10,2025-12,122.82,1279.91,1,7.6,1
+CUST-00421,La Libertad,Mes a Mes,Débito Automático,19,2025-03,54.54,978.51,1,8.6,0
+CUST-00422,La Libertad,Anual,Débito Automático,23,2024-11,85.42,1858.16,2,7.4,0
+CUST-00423,Lima,Anual,Efectivo/Ventanilla,4,2026-06,226.34,888.54,1,5.9,0
+CUST-00424,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,218.86,430.68,2,4.5,0
+CUST-00425,Lima,Mes a Mes,Tarjeta de Crédito,51,2022-07,147.96,6960.37,3,6.2,0
+CUST-00426,Arequipa,Bianual,Tarjeta de Crédito,6,2026-04,219.83,1238.83,1,9.2,0
+CUST-00427,Lima,Anual,Efectivo/Ventanilla,35,2023-11,137.8,4674.26,1,7.0,1
+CUST-00428,Cusco,Bianual,Débito Automático,36,2023-10,134.05,4868.68,4,4.5,0
+CUST-00429,Lima,Anual,Transferencia Bancaria,27,2024-07,147.54,3783.18,2,7.5,0
+CUST-00430,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,139.38,543.58,1,7.6,0
+CUST-00431,Lima,Anual,Tarjeta de Crédito,32,2024-02,135.32,4297.57,1,8.3,0
+CUST-00432,La Libertad,Anual,Débito Automático,27,2024-07,196.45,5492.54,3,8.6,0
+CUST-00433,Arequipa,Mes a Mes,Transferencia Bancaria,17,2025-05,151.76,2482.89,3,4.4,0
+CUST-00434,Lima,Mes a Mes,Débito Automático,8,2026-01,177.06,1327.76,0,7.1,1
+CUST-00435,Lima,Anual,Tarjeta de Crédito,6,2026-04,191.41,1129.63,1,4.0,0
+CUST-00436,La Libertad,Mes a Mes,Transferencia Bancaria,3,2026-07,162.47,495.73,3,7.0,0
+CUST-00437,Lima,Anual,Débito Automático,13,2025-09,101.34,1230.84,1,7.0,0
+CUST-00438,Cusco,Anual,Transferencia Bancaria,16,2025-06,84.12,1312.55,3,7.4,0
+CUST-00439,La Libertad,Bianual,Débito Automático,9,2026-01,151.7,1259.23,0,7.8,0
+CUST-00440,Lima,Mes a Mes,Transferencia Bancaria,12,2025-10,137.29,1522.87,2,8.1,0
+CUST-00441,Lima,Mes a Mes,Tarjeta de Crédito,9,2026-01,148.93,1317.29,3,8.9,0
+CUST-00442,Piura,Anual,Débito Automático,19,2025-03,144.28,2628.28,4,7.9,0
+CUST-00443,Lima,Mes a Mes,Débito Automático,42,2023-04,261.26,11300.61,1,7.6,0
+CUST-00444,Lima,Anual,Efectivo/Ventanilla,4,2026-06,85.14,339.97,2,7.3,0
+CUST-00445,Cusco,Anual,Débito Automático,9,2026-01,55.45,488.58,0,8.0,0
+CUST-00446,Piura,Mes a Mes,Débito Automático,3,2026-07,159.96,466.94,0,7.2,0
+CUST-00447,Piura,Mes a Mes,Débito Automático,18,2025-04,128.06,2269.68,1,8.3,0
+CUST-00448,La Libertad,Mes a Mes,Tarjeta de Crédito,24,2024-10,159.22,3535.67,1,6.8,0
+CUST-00449,Lima,Mes a Mes,Tarjeta de Crédito,49,2022-09,171.27,8694.88,3,8.9,1
+CUST-00450,Lima,Bianual,Débito Automático,6,2026-04,202.78,1277.25,2,6.2,0
+CUST-00451,La Libertad,Anual,Débito Automático,54,2022-04,77.17,3932.12,0,6.7,0
+CUST-00452,Arequipa,Anual,Débito Automático,2,2026-08,119.95,224.46,2,7.1,0
+CUST-00453,Lima,Anual,Débito Automático,17,2025-05,164.29,2621.63,2,5.6,0
+CUST-00454,Piura,Mes a Mes,Tarjeta de Crédito,2,2026-08,179.67,361.47,4,4.5,0
+CUST-00455,Lima,Bianual,Transferencia Bancaria,41,2023-05,243.71,10051.94,2,4.6,0
+CUST-00456,Lima,Anual,Débito Automático,14,2025-08,188.01,2711.71,5,8.0,0
+CUST-00457,Lima,Anual,Tarjeta de Crédito,20,2025-01,142.44,2899.33,1,4.9,0
+CUST-00458,Lima,Bianual,Tarjeta de Crédito,33,2024-01,104.93,3388.1,2,8.9,0
+CUST-00459,Lima,Mes a Mes,Efectivo/Ventanilla,3,2026-07,119.61,358.71,3,7.4,0
+CUST-00460,Lima,Anual,Efectivo/Ventanilla,1,2026-09,118.33,119.45,1,7.7,0
+CUST-00461,Lima,Mes a Mes,Transferencia Bancaria,38,2023-08,174.49,6542.14,1,8.3,0
+CUST-00462,Arequipa,Mes a Mes,Débito Automático,7,2026-03,156.56,1076.01,4,7.6,0
+CUST-00463,La Libertad,Mes a Mes,Débito Automático,3,2026-07,85.44,257.31,1,8.3,0
+CUST-00464,Arequipa,Bianual,Débito Automático,12,2025-10,125.38,1493.23,1,8.0,0
+CUST-00465,Piura,Bianual,Débito Automático,17,2025-05,184.49,3147.97,2,8.4,0
+CUST-00466,Lima,Anual,Tarjeta de Crédito,1,2026-09,160.82,160.77,2,4.3,0
+CUST-00467,Lima,Anual,Transferencia Bancaria,6,2026-04,170.59,1037.35,1,8.7,0
+CUST-00468,Cusco,Anual,Efectivo/Ventanilla,1,2026-09,162.23,162.81,3,5.3,0
+CUST-00469,Lima,Bianual,Transferencia Bancaria,10,2025-12,218.19,2154.77,6,7.8,0
+CUST-00470,Piura,Mes a Mes,Tarjeta de Crédito,41,2023-05,155.62,6435.51,5,7.6,0
+CUST-00471,Lima,Mes a Mes,Transferencia Bancaria,72,2020-10,127.63,8991.17,0,7.6,0
+CUST-00472,Piura,Mes a Mes,Débito Automático,19,2025-03,103.79,1876.2,2,7.9,0
+CUST-00473,Lima,Anual,Débito Automático,4,2026-06,156.23,575.04,0,6.0,0
+CUST-00474,Cusco,Anual,Transferencia Bancaria,43,2023-03,35.17,1501.41,2,8.3,0
+CUST-00475,Arequipa,Mes a Mes,Débito Automático,14,2025-08,136.71,1907.79,1,7.2,1
+CUST-00476,Piura,Mes a Mes,Tarjeta de Crédito,4,2026-06,135.74,568.14,0,3.7,1
+CUST-00477,Lima,Anual,Débito Automático,46,2022-12,83.6,3718.67,4,8.2,0
+CUST-00478,Arequipa,Mes a Mes,Transferencia Bancaria,26,2024-08,103.23,2606.78,2,8.2,0
+CUST-00479,Piura,Anual,Transferencia Bancaria,24,2024-10,181.43,4120.21,2,5.6,0
+CUST-00480,Arequipa,Bianual,Débito Automático,23,2024-11,155.38,3320.61,1,7.4,0
+CUST-00481,Arequipa,Mes a Mes,Transferencia Bancaria,5,2026-05,149.58,763.21,0,7.0,0
+CUST-00482,La Libertad,Mes a Mes,Débito Automático,5,2026-05,158.79,756.2,3,8.1,0
+CUST-00483,Lima,Anual,Tarjeta de Crédito,21,2025-01,149.17,3129.93,1,7.9,0
+CUST-00484,Arequipa,Anual,Transferencia Bancaria,5,2026-05,200.93,1014.1,0,6.6,0
+CUST-00485,Arequipa,Mes a Mes,Transferencia Bancaria,11,2025-11,150.55,1625.02,3,8.3,0
+CUST-00486,Piura,Bianual,Efectivo/Ventanilla,28,2024-06,79.38,2298.04,0,4.4,0
+CUST-00487,Lima,Mes a Mes,Débito Automático,28,2024-06,218.36,5977.7,1,5.7,1
+CUST-00488,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,161.67,1701.97,1,5.0,0
+CUST-00489,Piura,Anual,Tarjeta de Crédito,29,2024-05,118.48,3561.27,1,7.1,0
+CUST-00490,Cusco,Bianual,Efectivo/Ventanilla,33,2024-01,88.6,3017.37,3,8.1,0
+CUST-00491,Lima,Mes a Mes,Débito Automático,20,2025-01,162.82,3065.33,1,7.0,1
+CUST-00492,Arequipa,Anual,Transferencia Bancaria,5,2026-05,139.73,645.12,1,9.2,0
+CUST-00493,Lima,Anual,Tarjeta de Crédito,6,2026-04,215.84,1206.59,5,5.6,0
+CUST-00494,Lima,Mes a Mes,Débito Automático,7,2026-03,129.43,867.28,2,8.2,0
+CUST-00495,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,107.32,336.9,2,7.2,0
+CUST-00496,Lima,Bianual,Débito Automático,6,2026-04,185.31,1103.64,0,7.3,1
+CUST-00497,Arequipa,Mes a Mes,Tarjeta de Crédito,5,2026-05,186.64,903.83,3,9.9,0
+CUST-00498,Lima,Mes a Mes,Efectivo/Ventanilla,11,2025-11,152.59,1738.13,1,5.9,0
+CUST-00499,Piura,Mes a Mes,Tarjeta de Crédito,44,2023-02,175.44,7556.54,4,8.2,1
+CUST-00500,Piura,Bianual,Tarjeta de Crédito,2,2026-08,143.3,275.42,2,4.2,0
+CUST-00501,La Libertad,Anual,Tarjeta de Crédito,23,2024-11,155.52,3728.47,4,7.1,0
+CUST-00502,Arequipa,Anual,Débito Automático,21,2025-01,197.42,4272.01,2,6.9,0
+CUST-00503,Lima,Mes a Mes,Débito Automático,2,2026-08,173.14,356.56,0,3.4,0
+CUST-00504,Cusco,Anual,Tarjeta de Crédito,47,2022-11,137.38,6370.32,3,8.1,0
+CUST-00505,La Libertad,Anual,Débito Automático,16,2025-06,205.86,3368.29,0,7.1,0
+CUST-00506,Lima,Anual,Débito Automático,9,2026-01,38.58,327.54,6,8.9,1
+CUST-00507,Piura,Bianual,Tarjeta de Crédito,26,2024-08,237.34,6137.02,3,8.5,0
+CUST-00508,Cusco,Mes a Mes,Débito Automático,6,2026-04,68.23,428.99,0,9.2,1
+CUST-00509,Piura,Anual,Débito Automático,22,2024-12,116.78,2460.8,1,5.0,0
+CUST-00510,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,143.16,146.49,1,5.1,0
+CUST-00511,Arequipa,Mes a Mes,Débito Automático,33,2024-01,138.41,4493.36,1,7.3,0
+CUST-00512,Lima,Mes a Mes,Efectivo/Ventanilla,11,2025-11,190.29,1936.57,3,7.0,1
+CUST-00513,Piura,Mes a Mes,Efectivo/Ventanilla,19,2025-03,97.4,1886.12,1,8.8,1
+CUST-00514,Cusco,Mes a Mes,Transferencia Bancaria,5,2026-05,156.73,738.13,2,6.8,0
+CUST-00515,Lima,Anual,Débito Automático,21,2025-01,118.98,2503.81,1,8.3,0
+CUST-00516,Lima,Mes a Mes,Transferencia Bancaria,27,2024-07,158.28,3979.27,6,7.1,0
+CUST-00517,Lima,Anual,Transferencia Bancaria,12,2025-10,142.09,1778.56,5,6.4,0
+CUST-00518,Cusco,Mes a Mes,Transferencia Bancaria,18,2025-04,149.18,2572.26,1,9.3,0
+CUST-00519,Piura,Mes a Mes,Débito Automático,11,2025-11,120.25,1255.87,0,7.4,0
+CUST-00520,Lima,Anual,Tarjeta de Crédito,41,2023-05,122.05,4687.73,3,8.7,0
+CUST-00521,Arequipa,Mes a Mes,Transferencia Bancaria,13,2025-09,157.93,2141.33,3,8.5,0
+CUST-00522,Lima,Mes a Mes,Tarjeta de Crédito,34,2023-12,187.47,6453.96,2,5.3,1
+CUST-00523,Piura,Anual,Tarjeta de Crédito,30,2024-04,118.08,3600.55,7,6.3,0
+CUST-00524,Cusco,Mes a Mes,Tarjeta de Crédito,10,2025-12,105.91,1043.13,1,8.5,0
+CUST-00525,Cusco,Mes a Mes,Tarjeta de Crédito,5,2026-05,172.61,847.27,1,8.8,0
+CUST-00526,Lima,Mes a Mes,Débito Automático,10,2025-12,143.54,1341.1,1,9.8,0
+CUST-00527,Lima,Bianual,Tarjeta de Crédito,32,2024-02,182.37,5793.7,2,9.3,0
+CUST-00528,Lima,Anual,Débito Automático,5,2026-05,104.24,496.23,5,7.4,0
+CUST-00529,Lima,Anual,Tarjeta de Crédito,14,2025-08,64.93,951.77,1,4.6,0
+CUST-00530,Cusco,Anual,Débito Automático,30,2024-04,121.01,3715.81,2,5.5,0
+CUST-00531,Cusco,Mes a Mes,Tarjeta de Crédito,8,2026-01,110.51,860.82,1,9.4,0
+CUST-00532,Piura,Mes a Mes,Débito Automático,19,2025-03,141.45,2525.42,2,7.9,0
+CUST-00533,Piura,Anual,Transferencia Bancaria,6,2026-04,116.34,713.46,0,9.4,0
+CUST-00534,Arequipa,Mes a Mes,Transferencia Bancaria,3,2026-07,178.35,500.74,1,5.6,1
+CUST-00535,La Libertad,Mes a Mes,Débito Automático,29,2024-05,132.03,3616.8,1,7.2,0
+CUST-00536,Piura,Mes a Mes,Débito Automático,2,2026-08,151.77,287.6,3,5.9,1
+CUST-00537,Cusco,Mes a Mes,Débito Automático,6,2026-04,152.09,905.6,1,5.9,1
+CUST-00538,Lima,Bianual,Efectivo/Ventanilla,35,2023-11,153.77,5502.06,2,2.4,0
+CUST-00539,Lima,Mes a Mes,Tarjeta de Crédito,8,2026-01,143.91,1106.22,3,5.8,0
+CUST-00540,Lima,Mes a Mes,Tarjeta de Crédito,66,2021-04,167.98,10321.78,1,8.8,0
+CUST-00541,Piura,Mes a Mes,Débito Automático,71,2020-11,109.2,7601.16,2,7.4,0
+CUST-00542,Arequipa,Bianual,Tarjeta de Crédito,6,2026-04,207.97,1269.35,3,7.9,0
+CUST-00543,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,134.36,127.48,4,6.3,0
+CUST-00544,La Libertad,Mes a Mes,Transferencia Bancaria,22,2024-12,85.98,1794.32,3,7.9,0
+CUST-00545,Arequipa,Anual,Tarjeta de Crédito,11,2025-11,153.46,1760.88,4,7.7,0
+CUST-00546,Lima,Anual,Débito Automático,2,2026-08,106.7,222.8,1,8.6,0
+CUST-00547,Lima,Mes a Mes,Débito Automático,23,2024-11,174.94,4219.81,3,5.0,1
+CUST-00548,La Libertad,Mes a Mes,Débito Automático,1,2026-09,244.43,250.54,2,7.5,0
+CUST-00549,Arequipa,Mes a Mes,Débito Automático,37,2023-09,109.6,3829.99,2,6.5,0
+CUST-00550,La Libertad,Mes a Mes,Débito Automático,3,2026-07,159.96,454.71,3,7.4,0
+CUST-00551,Arequipa,Mes a Mes,Débito Automático,3,2026-07,66.0,190.92,2,8.7,0
+CUST-00552,Cusco,Mes a Mes,Tarjeta de Crédito,4,2026-06,165.43,636.15,2,7.6,0
+CUST-00553,Arequipa,Mes a Mes,Efectivo/Ventanilla,59,2021-11,105.14,6478.37,5,8.1,0
+CUST-00554,Arequipa,Mes a Mes,Tarjeta de Crédito,22,2024-12,116.88,2629.42,2,9.3,0
+CUST-00555,Cusco,Anual,Transferencia Bancaria,30,2024-04,95.44,2903.63,1,7.1,0
+CUST-00556,Lima,Bianual,Transferencia Bancaria,10,2025-12,177.95,1680.16,1,9.2,0
+CUST-00557,Lima,Anual,Débito Automático,8,2026-01,190.33,1580.86,3,8.6,0
+CUST-00558,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,146.05,750.42,1,2.4,0
+CUST-00559,La Libertad,Mes a Mes,Débito Automático,12,2025-10,106.1,1198.43,2,8.8,0
+CUST-00560,Arequipa,Bianual,Tarjeta de Crédito,15,2025-07,216.53,3355.95,1,6.0,0
+CUST-00561,La Libertad,Mes a Mes,Débito Automático,18,2025-04,111.23,1912.83,1,7.2,0
+CUST-00562,Lima,Mes a Mes,Efectivo/Ventanilla,6,2026-04,47.71,266.37,2,7.3,0
+CUST-00563,Lima,Anual,Débito Automático,54,2022-04,165.63,8992.2,1,5.4,0
+CUST-00564,Lima,Anual,Débito Automático,4,2026-06,95.29,383.06,3,7.7,0
+CUST-00565,Lima,Anual,Efectivo/Ventanilla,61,2021-09,189.49,10776.83,2,8.0,0
+CUST-00566,Arequipa,Mes a Mes,Débito Automático,1,2026-09,127.85,122.92,5,5.4,0
+CUST-00567,Lima,Mes a Mes,Transferencia Bancaria,12,2025-10,172.17,2167.41,1,6.6,1
+CUST-00568,Lima,Bianual,Transferencia Bancaria,8,2026-01,208.07,1678.2,0,6.5,0
+CUST-00569,Piura,Mes a Mes,Transferencia Bancaria,11,2025-11,90.6,1011.46,1,8.4,0
+CUST-00570,Lima,Anual,Efectivo/Ventanilla,16,2025-06,119.53,1812.42,1,8.7,0
+CUST-00571,Arequipa,Anual,Efectivo/Ventanilla,11,2025-11,141.59,1448.84,0,8.7,0
+CUST-00572,La Libertad,Anual,Débito Automático,10,2025-12,214.19,2047.65,1,9.0,0
+CUST-00573,Lima,Mes a Mes,Transferencia Bancaria,24,2024-10,115.37,2636.96,3,8.6,0
+CUST-00574,Arequipa,Mes a Mes,Tarjeta de Crédito,21,2025-01,118.25,2360.31,4,7.4,0
+CUST-00575,Cusco,Anual,Tarjeta de Crédito,33,2024-01,166.52,5193.25,1,1.7,0
+CUST-00576,Piura,Bianual,Débito Automático,6,2026-04,119.02,710.35,1,6.5,0
+CUST-00577,Lima,Bianual,Transferencia Bancaria,17,2025-05,151.86,2485.21,3,8.5,0
+CUST-00578,Piura,Mes a Mes,Efectivo/Ventanilla,16,2025-06,75.18,1234.93,2,6.4,1
+CUST-00579,Lima,Mes a Mes,Efectivo/Ventanilla,9,2026-01,244.64,2078.27,1,4.0,1
+CUST-00580,Lima,Bianual,Tarjeta de Crédito,12,2025-10,84.35,992.36,3,6.6,0
+CUST-00581,Lima,Anual,Débito Automático,7,2026-03,130.52,842.17,1,7.7,0
+CUST-00582,Piura,Bianual,Tarjeta de Crédito,3,2026-07,143.54,423.14,0,8.7,0
+CUST-00583,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,231.07,1071.31,3,8.8,0
+CUST-00584,Lima,Anual,Transferencia Bancaria,3,2026-07,85.38,268.21,2,7.9,0
+CUST-00585,Arequipa,Anual,Tarjeta de Crédito,21,2025-01,234.27,5031.73,2,9.2,0
+CUST-00586,Lima,Anual,Débito Automático,20,2025-01,179.07,3523.08,3,7.7,0
+CUST-00587,Lima,Mes a Mes,Tarjeta de Crédito,55,2022-03,163.77,8388.15,1,9.1,0
+CUST-00588,Lima,Mes a Mes,Tarjeta de Crédito,24,2024-10,100.69,2409.35,1,5.8,0
+CUST-00589,Lima,Anual,Efectivo/Ventanilla,1,2026-09,170.7,173.88,3,7.9,0
+CUST-00590,Lima,Mes a Mes,Tarjeta de Crédito,39,2023-07,112.44,4143.07,2,7.4,1
+CUST-00591,Lima,Mes a Mes,Débito Automático,36,2023-10,202.0,7227.4,4,7.8,1
+CUST-00592,Arequipa,Bianual,Tarjeta de Crédito,11,2025-11,101.3,1143.1,1,6.0,0
+CUST-00593,Lima,Mes a Mes,Débito Automático,16,2025-06,139.91,2283.05,0,8.2,0
+CUST-00594,Lima,Anual,Efectivo/Ventanilla,68,2021-02,120.01,8359.71,2,9.3,0
+CUST-00595,Cusco,Mes a Mes,Tarjeta de Crédito,14,2025-08,100.56,1456.15,3,7.2,0
+CUST-00596,Lima,Anual,Tarjeta de Crédito,43,2023-03,178.36,7990.82,2,7.4,0
+CUST-00597,La Libertad,Bianual,Tarjeta de Crédito,2,2026-08,169.1,328.97,2,8.6,0
+CUST-00598,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,199.41,792.81,3,8.1,0
+CUST-00599,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,64.91,730.28,6,7.3,0
+CUST-00600,Lima,Mes a Mes,Transferencia Bancaria,16,2025-06,192.89,3119.04,1,5.7,0
+CUST-00601,Lima,Mes a Mes,Débito Automático,31,2024-03,257.75,8385.11,3,7.3,1
+CUST-00602,Lima,Anual,Débito Automático,72,2020-10,124.68,8274.77,3,4.5,0
+CUST-00603,Lima,Bianual,Débito Automático,9,2026-01,230.28,2002.4,1,6.4,0
+CUST-00604,Lima,Mes a Mes,Transferencia Bancaria,1,2026-09,133.16,127.37,1,8.3,0
+CUST-00605,Lima,Mes a Mes,Débito Automático,30,2024-04,83.24,2382.58,1,9.5,0
+CUST-00606,Lima,Mes a Mes,Tarjeta de Crédito,17,2025-05,131.25,2117.3,1,8.8,0
+CUST-00607,Lima,Anual,Efectivo/Ventanilla,4,2026-06,192.17,778.05,3,5.3,0
+CUST-00608,Lima,Mes a Mes,Efectivo/Ventanilla,13,2025-09,107.28,1298.44,2,5.0,1
+CUST-00609,Arequipa,Anual,Tarjeta de Crédito,25,2024-09,117.98,2997.9,2,9.2,0
+CUST-00610,La Libertad,Anual,Tarjeta de Crédito,27,2024-07,171.71,4683.21,0,7.6,0
+CUST-00611,Lima,Anual,Débito Automático,13,2025-09,145.14,1797.39,0,7.7,0
+CUST-00612,La Libertad,Mes a Mes,Transferencia Bancaria,7,2026-03,171.31,1142.65,0,8.1,0
+CUST-00613,Arequipa,Anual,Transferencia Bancaria,66,2021-04,155.7,10294.2,4,5.5,0
+CUST-00614,Lima,Mes a Mes,Débito Automático,20,2025-01,166.58,3395.17,0,7.5,0
+CUST-00615,Cusco,Mes a Mes,Tarjeta de Crédito,10,2025-12,125.55,1298.12,0,7.2,0
+CUST-00616,Piura,Bianual,Transferencia Bancaria,6,2026-04,155.43,961.28,2,9.0,0
+CUST-00617,Lima,Anual,Efectivo/Ventanilla,24,2024-10,103.27,2591.09,3,6.8,0
+CUST-00618,Lima,Mes a Mes,Débito Automático,5,2026-05,202.98,1010.41,1,7.1,1
+CUST-00619,Cusco,Mes a Mes,Tarjeta de Crédito,4,2026-06,116.46,483.6,1,6.1,0
+CUST-00620,La Libertad,Mes a Mes,Débito Automático,14,2025-08,195.8,2810.02,0,9.3,1
+CUST-00621,Lima,Mes a Mes,Débito Automático,7,2026-03,134.49,975.61,1,8.0,0
+CUST-00622,Lima,Mes a Mes,Efectivo/Ventanilla,18,2025-04,154.09,2555.92,2,6.5,1
+CUST-00623,Lima,Mes a Mes,Transferencia Bancaria,3,2026-07,122.73,384.97,1,5.0,0
+CUST-00624,Lima,Mes a Mes,Transferencia Bancaria,20,2025-01,99.28,1948.98,2,5.4,0
+CUST-00625,Arequipa,Anual,Débito Automático,6,2026-04,66.49,408.42,1,5.6,0
+CUST-00626,Lima,Anual,Transferencia Bancaria,1,2026-09,97.51,91.32,1,7.1,0
+CUST-00627,Lima,Anual,Tarjeta de Crédito,3,2026-07,130.42,380.1,1,8.3,0
+CUST-00628,La Libertad,Mes a Mes,Débito Automático,49,2022-09,154.53,7233.43,0,8.9,0
+CUST-00629,Lima,Bianual,Tarjeta de Crédito,37,2023-09,190.47,6750.81,2,5.8,0
+CUST-00630,Lima,Anual,Débito Automático,5,2026-05,124.94,584.73,0,8.0,0
+CUST-00631,La Libertad,Anual,Transferencia Bancaria,28,2024-06,105.31,3021.66,3,9.7,0
+CUST-00632,Cusco,Anual,Tarjeta de Crédito,17,2025-05,80.08,1254.09,2,5.6,0
+CUST-00633,Arequipa,Bianual,Débito Automático,64,2021-06,166.6,10242.58,0,8.1,0
+CUST-00634,Arequipa,Mes a Mes,Débito Automático,9,2026-01,207.24,1758.24,3,6.1,0
+CUST-00635,Lima,Mes a Mes,Débito Automático,21,2025-01,201.98,4227.05,3,6.6,0
+CUST-00636,Lima,Anual,Débito Automático,2,2026-08,176.95,337.29,2,6.0,0
+CUST-00637,Arequipa,Anual,Tarjeta de Crédito,10,2025-12,173.73,1656.81,4,5.2,0
+CUST-00638,Lima,Anual,Transferencia Bancaria,60,2021-10,221.39,13064.01,1,7.8,0
+CUST-00639,Lima,Mes a Mes,Débito Automático,14,2025-08,159.94,2250.02,1,9.2,0
+CUST-00640,Lima,Mes a Mes,Débito Automático,7,2026-03,174.08,1140.29,2,5.2,0
+CUST-00641,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,130.56,369.28,2,4.7,0
+CUST-00642,Lima,Bianual,Transferencia Bancaria,22,2024-12,83.71,1753.47,1,8.7,0
+CUST-00643,Lima,Anual,Débito Automático,19,2025-03,114.23,2271.48,3,5.7,0
+CUST-00644,Lima,Mes a Mes,Débito Automático,9,2026-01,144.59,1264.39,1,8.3,0
+CUST-00645,Lima,Mes a Mes,Tarjeta de Crédito,55,2022-03,147.74,8108.38,0,8.5,0
+CUST-00646,Cusco,Mes a Mes,Débito Automático,1,2026-09,231.68,220.42,1,8.3,0
+CUST-00647,Arequipa,Bianual,Débito Automático,7,2026-03,148.66,1023.72,4,7.8,0
+CUST-00648,La Libertad,Anual,Transferencia Bancaria,46,2022-12,198.05,8469.26,3,7.6,0
+CUST-00649,La Libertad,Anual,Tarjeta de Crédito,7,2026-03,125.42,811.67,2,5.8,0
+CUST-00650,Lima,Mes a Mes,Tarjeta de Crédito,6,2026-04,130.97,770.84,4,9.4,0
+CUST-00651,Lima,Anual,Transferencia Bancaria,14,2025-08,85.19,1159.06,2,5.0,0
+CUST-00652,Arequipa,Mes a Mes,Transferencia Bancaria,32,2024-02,111.6,3349.05,3,7.9,0
+CUST-00653,Arequipa,Anual,Débito Automático,2,2026-08,168.71,340.59,3,7.0,0
+CUST-00654,La Libertad,Mes a Mes,Tarjeta de Crédito,52,2022-06,145.34,7928.59,4,4.3,0
+CUST-00655,Lima,Mes a Mes,Débito Automático,29,2024-05,187.43,5280.2,4,8.3,0
+CUST-00656,Lima,Anual,Débito Automático,4,2026-06,153.16,613.37,0,9.3,0
+CUST-00657,Lima,Bianual,Transferencia Bancaria,23,2024-11,129.14,3104.43,3,9.4,0
+CUST-00658,Lima,Mes a Mes,Efectivo/Ventanilla,9,2026-01,241.67,2236.15,1,7.5,1
+CUST-00659,Arequipa,Anual,Efectivo/Ventanilla,10,2025-12,140.77,1379.91,4,7.7,0
+CUST-00660,Arequipa,Mes a Mes,Tarjeta de Crédito,28,2024-06,197.34,5613.23,0,5.5,0
+CUST-00661,Lima,Mes a Mes,Débito Automático,60,2021-10,126.95,7134.52,5,8.2,0
+CUST-00662,Piura,Mes a Mes,Débito Automático,3,2026-07,176.93,523.66,3,6.5,0
+CUST-00663,Arequipa,Mes a Mes,Transferencia Bancaria,10,2025-12,186.76,1785.94,2,8.2,1
+CUST-00664,Lima,Mes a Mes,Tarjeta de Crédito,12,2025-10,154.38,1743.17,0,8.3,0
+CUST-00665,Lima,Mes a Mes,Tarjeta de Crédito,9,2026-01,39.05,342.81,0,8.4,0
+CUST-00666,Lima,Mes a Mes,Transferencia Bancaria,9,2026-01,145.82,1229.74,2,8.4,0
+CUST-00667,Lima,Bianual,Transferencia Bancaria,1,2026-09,200.37,202.55,0,5.8,0
+CUST-00668,Lima,Mes a Mes,Transferencia Bancaria,21,2025-01,168.74,3470.23,2,5.6,0
+CUST-00669,Lima,Anual,Débito Automático,11,2025-11,165.06,1795.78,2,9.1,0
+CUST-00670,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,67.5,253.54,2,5.1,1
+CUST-00671,Lima,Anual,Efectivo/Ventanilla,31,2024-03,112.58,3274.2,1,8.2,0
+CUST-00672,Cusco,Mes a Mes,Débito Automático,30,2024-04,163.51,4884.91,2,6.1,0
+CUST-00673,Lima,Mes a Mes,Tarjeta de Crédito,12,2025-10,163.47,2055.9,0,7.5,1
+CUST-00674,Arequipa,Mes a Mes,Débito Automático,7,2026-03,199.66,1303.3,3,8.9,0
+CUST-00675,Lima,Mes a Mes,Efectivo/Ventanilla,19,2025-03,138.48,2518.36,0,9.3,0
+CUST-00676,Piura,Mes a Mes,Débito Automático,7,2026-03,163.26,1180.57,1,9.2,0
+CUST-00677,Lima,Anual,Tarjeta de Crédito,5,2026-05,145.74,677.25,1,7.4,0
+CUST-00678,Lima,Bianual,Débito Automático,24,2024-10,100.59,2495.92,2,8.3,0
+CUST-00679,Piura,Anual,Transferencia Bancaria,1,2026-09,43.49,42.97,0,8.5,0
+CUST-00680,Cusco,Anual,Débito Automático,2,2026-08,164.4,319.95,2,9.7,0
+CUST-00681,Cusco,Mes a Mes,Débito Automático,1,2026-09,152.83,146.76,2,7.2,0
+CUST-00682,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,117.18,337.0,2,7.6,0
+CUST-00683,Lima,Mes a Mes,Efectivo/Ventanilla,2,2026-08,72.14,138.47,0,8.6,0
+CUST-00684,La Libertad,Mes a Mes,Débito Automático,72,2020-10,173.34,12917.6,4,7.9,0
+CUST-00685,Piura,Mes a Mes,Débito Automático,7,2026-03,133.03,944.33,4,7.2,0
+CUST-00686,Arequipa,Mes a Mes,Transferencia Bancaria,3,2026-07,170.06,513.78,2,7.7,0
+CUST-00687,Arequipa,Mes a Mes,Tarjeta de Crédito,5,2026-05,228.88,1171.68,2,5.3,0
+CUST-00688,Lima,Mes a Mes,Efectivo/Ventanilla,50,2022-08,48.64,2318.73,1,8.2,0
+CUST-00689,La Libertad,Anual,Débito Automático,14,2025-08,113.52,1589.83,2,6.9,0
+CUST-00690,Lima,Anual,Tarjeta de Crédito,9,2026-01,135.58,1195.58,1,4.6,0
+CUST-00691,Lima,Mes a Mes,Débito Automático,38,2023-08,210.47,8171.55,2,8.5,0
+CUST-00692,Lima,Bianual,Débito Automático,10,2025-12,71.36,685.2,3,4.9,0
+CUST-00693,Arequipa,Bianual,Transferencia Bancaria,8,2026-01,232.11,1863.59,1,5.9,0
+CUST-00694,Lima,Mes a Mes,Tarjeta de Crédito,5,2026-05,151.11,781.76,1,9.3,1
+CUST-00695,Lima,Mes a Mes,Transferencia Bancaria,9,2026-01,140.68,1231.02,1,7.7,0
+CUST-00696,Arequipa,Mes a Mes,Débito Automático,7,2026-03,136.09,884.67,1,8.5,1
+CUST-00697,Lima,Bianual,Tarjeta de Crédito,21,2025-01,125.37,2598.77,5,8.9,0
+CUST-00698,Arequipa,Bianual,Tarjeta de Crédito,7,2026-03,192.17,1298.08,0,9.2,0
+CUST-00699,Lima,Mes a Mes,Efectivo/Ventanilla,16,2025-06,96.92,1562.18,2,7.0,1
+CUST-00700,Lima,Mes a Mes,Débito Automático,2,2026-08,160.54,335.09,1,7.9,0
+CUST-00701,Arequipa,Anual,Débito Automático,4,2026-06,127.71,502.22,2,7.7,0
+CUST-00702,Lima,Mes a Mes,Tarjeta de Crédito,10,2025-12,110.7,1085.53,3,9.1,0
+CUST-00703,Lima,Mes a Mes,Tarjeta de Crédito,50,2022-08,261.37,13135.1,2,7.1,0
+CUST-00704,Lima,Bianual,Débito Automático,9,2026-01,163.86,1376.6,2,7.7,0
+CUST-00705,Lima,Anual,Efectivo/Ventanilla,20,2025-01,172.6,3289.6,2,8.5,0
+CUST-00706,Piura,Anual,Débito Automático,6,2026-04,196.2,1223.66,3,7.5,0
+CUST-00707,Lima,Bianual,Efectivo/Ventanilla,3,2026-07,81.04,244.84,2,6.3,0
+CUST-00708,Cusco,Anual,Débito Automático,2,2026-08,223.85,412.67,0,6.9,0
+CUST-00709,Lima,Mes a Mes,Transferencia Bancaria,7,2026-03,35.0,231.92,1,7.8,0
+CUST-00710,La Libertad,Anual,Efectivo/Ventanilla,4,2026-06,110.41,445.51,4,7.9,0
+CUST-00711,La Libertad,Mes a Mes,Débito Automático,4,2026-06,124.34,506.99,2,8.5,0
+CUST-00712,Arequipa,Anual,Efectivo/Ventanilla,26,2024-08,171.18,4580.56,2,5.9,0
+CUST-00713,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,154.84,148.33,1,7.6,0
+CUST-00714,Lima,Anual,Efectivo/Ventanilla,15,2025-07,137.49,2146.98,0,8.9,0
+CUST-00715,Lima,Mes a Mes,Transferencia Bancaria,9,2026-01,144.46,1289.59,3,8.7,0
+CUST-00716,Piura,Mes a Mes,Débito Automático,13,2025-09,100.99,1326.72,1,3.7,1
+CUST-00717,Cusco,Mes a Mes,Débito Automático,15,2025-07,77.62,1161.48,1,7.7,0
+CUST-00718,Piura,Mes a Mes,Débito Automático,7,2026-03,177.69,1164.17,3,5.8,0
+CUST-00719,Lima,Anual,Débito Automático,7,2026-03,176.22,1289.3,3,6.1,0
+CUST-00720,La Libertad,Anual,Débito Automático,24,2024-10,216.3,4858.83,0,6.4,0
+CUST-00721,Piura,Mes a Mes,Débito Automático,37,2023-09,109.45,3859.86,2,7.3,0
+CUST-00722,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,176.18,722.88,1,9.7,0
+CUST-00723,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,132.23,264.57,2,7.6,0
+CUST-00724,La Libertad,Mes a Mes,Débito Automático,42,2023-04,198.57,8581.46,2,7.2,0
+CUST-00725,Arequipa,Mes a Mes,Débito Automático,8,2026-01,190.99,1508.13,1,4.2,0
+CUST-00726,Cusco,Bianual,Tarjeta de Crédito,15,2025-07,154.5,2245.68,0,6.5,0
+CUST-00727,Lima,Mes a Mes,Débito Automático,9,2026-01,129.72,1213.99,3,8.9,1
+CUST-00728,La Libertad,Mes a Mes,Débito Automático,3,2026-07,188.24,522.2,2,5.4,0
+CUST-00729,Lima,Mes a Mes,Débito Automático,17,2025-05,174.11,3052.5,2,6.2,1
+CUST-00730,Lima,Mes a Mes,Efectivo/Ventanilla,14,2025-08,114.2,1518.87,2,4.8,1
+CUST-00731,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,85.25,439.18,2,5.4,0
+CUST-00732,Cusco,Anual,Tarjeta de Crédito,11,2025-11,132.02,1362.32,0,6.9,0
+CUST-00733,La Libertad,Mes a Mes,Transferencia Bancaria,29,2024-05,213.19,6154.25,0,6.5,0
+CUST-00734,Arequipa,Mes a Mes,Tarjeta de Crédito,17,2025-05,196.59,3460.52,3,9.4,0
+CUST-00735,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,94.95,186.4,1,3.4,1
+CUST-00736,Cusco,Mes a Mes,Transferencia Bancaria,15,2025-07,92.45,1410.4,0,8.9,0
+CUST-00737,Lima,Mes a Mes,Tarjeta de Crédito,22,2024-12,202.36,4561.47,4,5.0,1
+CUST-00738,Cusco,Bianual,Débito Automático,29,2024-05,93.9,2765.97,1,8.6,0
+CUST-00739,Lima,Anual,Débito Automático,18,2025-04,167.92,3144.35,3,7.1,0
+CUST-00740,Lima,Anual,Tarjeta de Crédito,3,2026-07,117.28,344.13,2,6.6,0
+CUST-00741,Lima,Mes a Mes,Efectivo/Ventanilla,23,2024-11,217.77,4720.74,2,5.7,0
+CUST-00742,Lima,Mes a Mes,Tarjeta de Crédito,21,2025-01,110.33,2145.98,1,9.4,0
+CUST-00743,La Libertad,Mes a Mes,Transferencia Bancaria,1,2026-09,196.45,187.03,0,8.5,0
+CUST-00744,Arequipa,Anual,Efectivo/Ventanilla,10,2025-12,153.32,1439.09,1,7.8,0
+CUST-00745,Lima,Anual,Débito Automático,8,2026-01,156.35,1241.46,2,8.6,0
+CUST-00746,Cusco,Mes a Mes,Transferencia Bancaria,20,2025-01,56.34,1063.75,3,2.8,0
+CUST-00747,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,45.87,212.16,2,9.4,0
+CUST-00748,Arequipa,Mes a Mes,Efectivo/Ventanilla,17,2025-05,135.07,2123.24,4,9.5,1
+CUST-00749,Piura,Bianual,Efectivo/Ventanilla,44,2023-02,156.11,7061.88,2,7.1,0
+CUST-00750,Arequipa,Anual,Transferencia Bancaria,29,2024-05,94.37,2728.21,2,5.7,0
+CUST-00751,Lima,Mes a Mes,Débito Automático,46,2022-12,96.01,4268.73,1,5.7,1
+CUST-00752,Piura,Mes a Mes,Transferencia Bancaria,70,2020-12,170.27,12350.96,0,9.6,0
+CUST-00753,Arequipa,Anual,Débito Automático,1,2026-09,170.33,158.26,1,5.0,0
+CUST-00754,Lima,Mes a Mes,Transferencia Bancaria,18,2025-04,138.8,2616.93,0,7.3,0
+CUST-00755,Lima,Mes a Mes,Efectivo/Ventanilla,10,2025-12,180.11,1801.31,3,4.0,0
+CUST-00756,La Libertad,Mes a Mes,Tarjeta de Crédito,36,2023-10,92.16,3131.47,2,9.3,0
+CUST-00757,Arequipa,Anual,Tarjeta de Crédito,6,2026-04,128.98,780.29,1,3.9,0
+CUST-00758,Arequipa,Mes a Mes,Tarjeta de Crédito,72,2020-10,219.15,16082.38,1,8.9,0
+CUST-00759,Cusco,Mes a Mes,Tarjeta de Crédito,18,2025-04,148.07,2600.8,1,5.5,0
+CUST-00760,La Libertad,Bianual,Débito Automático,29,2024-05,150.68,4509.6,1,7.9,0
+CUST-00761,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,248.77,467.49,1,7.3,1
+CUST-00762,Lima,Mes a Mes,Efectivo/Ventanilla,4,2026-06,82.03,313.76,2,6.0,0
+CUST-00763,Lima,Mes a Mes,Efectivo/Ventanilla,26,2024-08,180.84,4382.84,0,8.1,0
+CUST-00764,La Libertad,Mes a Mes,Débito Automático,1,2026-09,219.88,208.32,4,7.6,0
+CUST-00765,Lima,Anual,Efectivo/Ventanilla,31,2024-03,130.38,3843.87,3,5.9,0
+CUST-00766,Arequipa,Mes a Mes,Transferencia Bancaria,1,2026-09,183.68,190.9,2,8.0,1
+CUST-00767,La Libertad,Mes a Mes,Débito Automático,20,2025-01,100.81,1875.38,5,4.5,1
+CUST-00768,Cusco,Anual,Débito Automático,9,2026-01,114.1,1001.81,3,6.0,0
+CUST-00769,Lima,Anual,Débito Automático,18,2025-04,162.32,2890.24,2,8.0,0
+CUST-00770,Cusco,Anual,Efectivo/Ventanilla,22,2024-12,180.94,4127.29,1,8.9,0
+CUST-00771,Lima,Mes a Mes,Tarjeta de Crédito,8,2026-01,195.44,1641.23,1,8.8,0
+CUST-00772,Cusco,Mes a Mes,Transferencia Bancaria,3,2026-07,215.63,658.5,0,8.2,0
+CUST-00773,Lima,Anual,Débito Automático,2,2026-08,141.96,297.04,1,8.9,0
+CUST-00774,Lima,Mes a Mes,Transferencia Bancaria,17,2025-05,198.71,3453.48,1,9.7,0
+CUST-00775,La Libertad,Anual,Débito Automático,14,2025-08,129.6,1896.44,4,6.6,0
+CUST-00776,Lima,Anual,Tarjeta de Crédito,25,2024-09,185.59,4695.17,1,8.0,0
+CUST-00777,Lima,Anual,Tarjeta de Crédito,13,2025-09,154.34,1866.71,2,7.2,0
+CUST-00778,La Libertad,Mes a Mes,Débito Automático,10,2025-12,165.06,1604.8,3,6.9,0
+CUST-00779,La Libertad,Mes a Mes,Transferencia Bancaria,10,2025-12,164.06,1647.26,2,8.7,0
+CUST-00780,Arequipa,Anual,Débito Automático,1,2026-09,72.79,70.29,3,9.4,0
+CUST-00781,La Libertad,Mes a Mes,Transferencia Bancaria,8,2026-01,94.41,721.7,2,7.7,0
+CUST-00782,Arequipa,Mes a Mes,Tarjeta de Crédito,68,2021-02,149.61,10123.24,1,6.8,0
+CUST-00783,Lima,Bianual,Tarjeta de Crédito,38,2023-08,69.07,2733.2,3,6.2,0
+CUST-00784,Lima,Bianual,Débito Automático,8,2026-01,182.4,1349.1,2,7.6,0
+CUST-00785,Lima,Mes a Mes,Débito Automático,16,2025-06,184.22,3006.47,3,9.2,0
+CUST-00786,Piura,Mes a Mes,Efectivo/Ventanilla,34,2023-12,159.72,5506.26,2,5.2,0
+CUST-00787,Arequipa,Mes a Mes,Débito Automático,11,2025-11,94.55,1087.18,0,6.4,0
+CUST-00788,Lima,Anual,Transferencia Bancaria,1,2026-09,207.11,215.6,2,6.1,0
+CUST-00789,Lima,Bianual,Efectivo/Ventanilla,2,2026-08,236.67,482.38,1,9.0,0
+CUST-00790,Piura,Mes a Mes,Débito Automático,13,2025-09,151.62,1946.72,3,7.2,1
+CUST-00791,Lima,Mes a Mes,Débito Automático,63,2021-07,167.97,10016.55,3,9.1,0
+CUST-00792,Arequipa,Bianual,Transferencia Bancaria,22,2024-12,154.08,3358.85,1,8.3,0
+CUST-00793,Arequipa,Mes a Mes,Efectivo/Ventanilla,2,2026-08,168.87,344.32,0,7.6,0
+CUST-00794,Arequipa,Mes a Mes,Efectivo/Ventanilla,4,2026-06,139.62,578.83,3,7.7,1
+CUST-00795,Lima,Bianual,Tarjeta de Crédito,27,2024-07,143.44,3960.65,1,6.5,0
+CUST-00796,Cusco,Mes a Mes,Transferencia Bancaria,34,2023-12,185.76,5970.9,6,3.4,0
+CUST-00797,Piura,Anual,Débito Automático,18,2025-04,250.55,4500.7,2,6.6,0
+CUST-00798,Arequipa,Mes a Mes,Efectivo/Ventanilla,19,2025-03,82.0,1500.64,1,9.1,0
+CUST-00799,La Libertad,Mes a Mes,Efectivo/Ventanilla,1,2026-09,140.33,129.27,2,5.3,0
+CUST-00800,Piura,Anual,Débito Automático,32,2024-02,91.88,2781.48,2,8.0,0
+CUST-00801,La Libertad,Mes a Mes,Débito Automático,28,2024-06,216.64,5669.93,0,8.6,0
+CUST-00802,Lima,Bianual,Débito Automático,6,2026-04,118.55,732.32,3,6.4,0
+CUST-00803,Arequipa,Anual,Débito Automático,23,2024-11,80.06,1755.95,1,6.9,0
+CUST-00804,Arequipa,Mes a Mes,Transferencia Bancaria,5,2026-05,173.72,831.26,2,8.6,1
+CUST-00805,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,223.49,233.5,1,7.1,0
+CUST-00806,La Libertad,Mes a Mes,Débito Automático,5,2026-05,174.86,847.44,3,8.1,0
+CUST-00807,Piura,Mes a Mes,Débito Automático,4,2026-06,154.22,568.3,1,6.8,0
+CUST-00808,Piura,Mes a Mes,Efectivo/Ventanilla,8,2026-01,163.41,1250.94,0,8.5,0
+CUST-00809,Lima,Mes a Mes,Tarjeta de Crédito,10,2025-12,208.67,1952.13,1,8.9,0
+CUST-00810,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,105.66,1282.05,2,8.7,0
+CUST-00811,Piura,Anual,Débito Automático,12,2025-10,139.97,1562.19,1,3.7,0
+CUST-00812,Cusco,Anual,Efectivo/Ventanilla,6,2026-04,124.63,745.63,2,4.3,0
+CUST-00813,Lima,Anual,Transferencia Bancaria,1,2026-09,92.45,87.33,0,8.4,0
+CUST-00814,Piura,Mes a Mes,Débito Automático,17,2025-05,130.22,2140.6,1,8.3,1
+CUST-00815,Cusco,Mes a Mes,Débito Automático,10,2025-12,194.85,2010.97,2,8.7,0
+CUST-00816,Arequipa,Anual,Débito Automático,7,2026-03,170.5,1163.86,2,8.3,0
+CUST-00817,Arequipa,Mes a Mes,Débito Automático,37,2023-09,173.99,6688.95,2,8.1,0
+CUST-00818,Lima,Mes a Mes,Tarjeta de Crédito,25,2024-09,151.59,3731.89,4,7.9,0
+CUST-00819,Lima,Anual,Efectivo/Ventanilla,36,2023-10,168.55,5896.98,3,6.2,0
+CUST-00820,Lima,Anual,Tarjeta de Crédito,13,2025-09,108.97,1441.47,3,5.7,0
+CUST-00821,Cusco,Mes a Mes,Transferencia Bancaria,3,2026-07,131.07,365.49,3,7.7,0
+CUST-00822,Lima,Mes a Mes,Tarjeta de Crédito,22,2024-12,153.64,3148.99,4,7.1,1
+CUST-00823,Lima,Anual,Transferencia Bancaria,5,2026-05,157.49,791.2,3,6.0,0
+CUST-00824,Lima,Anual,Transferencia Bancaria,11,2025-11,159.41,1724.23,0,6.7,0
+CUST-00825,Arequipa,Anual,Débito Automático,2,2026-08,138.77,283.86,1,7.4,0
+CUST-00826,Piura,Anual,Tarjeta de Crédito,32,2024-02,128.02,4256.88,5,9.8,0
+CUST-00827,Lima,Anual,Tarjeta de Crédito,3,2026-07,287.1,835.88,4,7.9,0
+CUST-00828,Lima,Mes a Mes,Débito Automático,43,2023-03,185.81,7970.12,3,9.1,1
+CUST-00829,La Libertad,Mes a Mes,Tarjeta de Crédito,36,2023-10,163.59,5801.43,4,7.8,0
+CUST-00830,Lima,Anual,Tarjeta de Crédito,12,2025-10,134.51,1690.97,1,7.0,0
+CUST-00831,Lima,Anual,Efectivo/Ventanilla,25,2024-09,124.7,3204.92,3,7.3,0
+CUST-00832,Lima,Anual,Tarjeta de Crédito,18,2025-04,139.11,2600.45,0,6.5,0
+CUST-00833,Lima,Mes a Mes,Transferencia Bancaria,30,2024-04,158.18,4522.67,1,7.0,0
+CUST-00834,Lima,Mes a Mes,Tarjeta de Crédito,11,2025-11,60.38,677.75,3,8.7,0
+CUST-00835,Lima,Bianual,Transferencia Bancaria,28,2024-06,74.38,1987.9,3,7.1,0
+CUST-00836,Lima,Anual,Tarjeta de Crédito,12,2025-10,116.34,1322.28,1,8.5,0
+CUST-00837,Piura,Bianual,Efectivo/Ventanilla,51,2022-07,154.32,8206.81,5,8.2,0
+CUST-00838,Lima,Anual,Tarjeta de Crédito,12,2025-10,134.23,1485.94,7,4.9,0
+CUST-00839,Arequipa,Anual,Tarjeta de Crédito,12,2025-10,211.52,2653.73,3,8.2,0
+CUST-00840,Arequipa,Anual,Tarjeta de Crédito,28,2024-06,78.29,2059.29,2,7.6,0
+CUST-00841,Lima,Bianual,Tarjeta de Crédito,32,2024-02,111.19,3652.47,4,8.8,0
+CUST-00842,La Libertad,Anual,Débito Automático,15,2025-07,213.4,3059.74,1,9.3,0
+CUST-00843,Lima,Anual,Débito Automático,4,2026-06,150.9,582.83,0,8.0,0
+CUST-00844,Piura,Mes a Mes,Débito Automático,12,2025-10,184.82,2102.91,2,8.9,0
+CUST-00845,Lima,Mes a Mes,Efectivo/Ventanilla,62,2021-08,237.31,14656.09,2,2.8,0
+CUST-00846,Lima,Anual,Débito Automático,26,2024-08,113.78,2855.49,0,7.0,0
+CUST-00847,Lima,Mes a Mes,Débito Automático,31,2024-03,140.53,4380.22,2,9.2,0
+CUST-00848,Piura,Mes a Mes,Transferencia Bancaria,1,2026-09,132.74,122.39,0,8.7,0
+CUST-00849,Arequipa,Mes a Mes,Débito Automático,12,2025-10,57.04,635.45,1,7.7,0
+CUST-00850,Arequipa,Mes a Mes,Tarjeta de Crédito,19,2025-03,131.03,2322.66,0,9.9,0
+CUST-00851,Lima,Mes a Mes,Débito Automático,32,2024-02,184.65,5757.94,2,3.8,1
+CUST-00852,La Libertad,Mes a Mes,Efectivo/Ventanilla,1,2026-09,169.33,173.72,1,4.6,0
+CUST-00853,Lima,Bianual,Efectivo/Ventanilla,35,2023-11,172.86,6264.66,0,7.1,1
+CUST-00854,Cusco,Mes a Mes,Efectivo/Ventanilla,15,2025-07,128.1,1828.93,1,7.8,0
+CUST-00855,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,115.48,459.46,0,6.8,1
+CUST-00856,Lima,Mes a Mes,Transferencia Bancaria,7,2026-03,202.12,1442.98,1,8.0,0
+CUST-00857,Lima,Anual,Débito Automático,6,2026-04,122.62,704.49,0,4.6,0
+CUST-00858,Lima,Mes a Mes,Débito Automático,14,2025-08,158.23,2155.79,6,6.0,1
+CUST-00859,Arequipa,Anual,Débito Automático,1,2026-09,152.35,150.54,2,8.3,0
+CUST-00860,Lima,Anual,Tarjeta de Crédito,4,2026-06,210.78,790.45,4,8.6,0
+CUST-00861,La Libertad,Anual,Tarjeta de Crédito,31,2024-03,188.71,5401.77,2,6.5,0
+CUST-00862,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,86.71,244.49,4,7.2,1
+CUST-00863,Arequipa,Anual,Débito Automático,5,2026-05,91.56,458.48,2,9.0,0
+CUST-00864,Lima,Mes a Mes,Tarjeta de Crédito,11,2025-11,171.05,1749.03,2,5.1,0
+CUST-00865,Lima,Bianual,Transferencia Bancaria,14,2025-08,142.1,1879.31,2,6.4,0
+CUST-00866,Arequipa,Anual,Tarjeta de Crédito,26,2024-08,124.52,3120.71,4,9.5,0
+CUST-00867,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,190.7,1951.12,1,9.5,0
+CUST-00868,Lima,Mes a Mes,Débito Automático,29,2024-05,153.44,4204.67,2,8.8,0
+CUST-00869,Cusco,Mes a Mes,Transferencia Bancaria,18,2025-04,147.36,2754.51,2,7.6,0
+CUST-00870,Piura,Anual,Tarjeta de Crédito,3,2026-07,180.09,498.4,4,7.3,0
+CUST-00871,Lima,Mes a Mes,Débito Automático,4,2026-06,128.12,515.01,2,9.3,0
+CUST-00872,Lima,Anual,Débito Automático,11,2025-11,215.58,2300.17,3,6.2,0
+CUST-00873,Arequipa,Mes a Mes,Tarjeta de Crédito,10,2025-12,109.54,1103.55,0,5.8,0
+CUST-00874,Lima,Anual,Transferencia Bancaria,25,2024-09,174.56,4348.86,3,7.1,0
+CUST-00875,Lima,Anual,Tarjeta de Crédito,16,2025-06,209.52,3181.54,3,7.9,0
+CUST-00876,Lima,Anual,Débito Automático,9,2026-01,83.02,769.7,0,7.9,0
+CUST-00877,La Libertad,Anual,Efectivo/Ventanilla,4,2026-06,129.55,509.88,1,6.1,0
+CUST-00878,La Libertad,Mes a Mes,Transferencia Bancaria,5,2026-05,196.4,1008.44,0,7.8,0
+CUST-00879,Lima,Mes a Mes,Tarjeta de Crédito,16,2025-06,197.08,3067.45,0,7.0,1
+CUST-00880,Lima,Anual,Tarjeta de Crédito,10,2025-12,137.28,1438.71,1,4.9,0
+CUST-00881,Lima,Mes a Mes,Débito Automático,14,2025-08,111.94,1598.76,3,9.4,0
+CUST-00882,La Libertad,Mes a Mes,Tarjeta de Crédito,4,2026-06,188.02,786.35,1,7.3,0
+CUST-00883,Lima,Mes a Mes,Tarjeta de Crédito,20,2025-01,198.26,3913.11,4,9.1,1
+CUST-00884,Lima,Mes a Mes,Efectivo/Ventanilla,35,2023-11,92.59,3180.96,4,8.9,1
+CUST-00885,La Libertad,Mes a Mes,Tarjeta de Crédito,6,2026-04,90.82,554.84,2,7.3,1
+CUST-00886,Lima,Bianual,Tarjeta de Crédito,13,2025-09,155.14,2086.27,2,8.0,0
+CUST-00887,La Libertad,Mes a Mes,Tarjeta de Crédito,67,2021-03,173.32,12138.94,1,6.9,0
+CUST-00888,Lima,Anual,Efectivo/Ventanilla,8,2026-01,131.54,1012.53,2,8.2,0
+CUST-00889,Lima,Mes a Mes,Transferencia Bancaria,17,2025-05,175.57,3055.82,1,6.8,0
+CUST-00890,Lima,Anual,Tarjeta de Crédito,2,2026-08,113.04,214.18,0,6.8,0
+CUST-00891,La Libertad,Mes a Mes,Transferencia Bancaria,17,2025-05,49.84,839.59,3,7.2,1
+CUST-00892,Cusco,Bianual,Tarjeta de Crédito,2,2026-08,125.92,237.58,1,8.0,0
+CUST-00893,Cusco,Bianual,Tarjeta de Crédito,58,2021-12,147.85,8276.55,4,7.5,0
+CUST-00894,Lima,Mes a Mes,Débito Automático,23,2024-11,132.59,3174.84,1,5.2,1
+CUST-00895,La Libertad,Bianual,Tarjeta de Crédito,28,2024-06,92.86,2441.45,2,8.6,0
+CUST-00896,Lima,Bianual,Débito Automático,22,2024-12,63.3,1395.68,2,6.7,0
+CUST-00897,Lima,Anual,Efectivo/Ventanilla,17,2025-05,121.87,2065.75,0,7.4,0
+CUST-00898,Cusco,Anual,Débito Automático,11,2025-11,185.39,1908.16,2,8.6,0
+CUST-00899,Lima,Mes a Mes,Efectivo/Ventanilla,36,2023-10,201.53,6982.12,0,7.6,1
+CUST-00900,Lima,Anual,Tarjeta de Crédito,57,2022-01,198.45,11234.59,0,8.4,0
+CUST-00901,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,108.28,1329.28,2,8.1,0
+CUST-00902,Lima,Mes a Mes,Tarjeta de Crédito,49,2022-09,93.08,4670.75,1,7.1,0
+CUST-00903,Lima,Bianual,Débito Automático,16,2025-06,167.35,2801.79,1,7.1,0
+CUST-00904,Arequipa,Mes a Mes,Tarjeta de Crédito,14,2025-08,173.58,2303.56,0,7.7,0
+CUST-00905,Lima,Anual,Débito Automático,11,2025-11,163.01,1693.23,3,7.4,0
+CUST-00906,Cusco,Anual,Tarjeta de Crédito,5,2026-05,54.37,266.18,0,6.2,0
+CUST-00907,Cusco,Bianual,Tarjeta de Crédito,1,2026-09,105.99,107.81,2,7.0,0
+CUST-00908,Lima,Bianual,Transferencia Bancaria,5,2026-05,143.66,687.13,1,8.3,0
+CUST-00909,Lima,Mes a Mes,Débito Automático,13,2025-09,166.92,2001.97,0,6.1,0
+CUST-00910,Lima,Mes a Mes,Débito Automático,9,2026-01,179.53,1600.19,4,9.0,0
+CUST-00911,Arequipa,Mes a Mes,Tarjeta de Crédito,11,2025-11,151.49,1740.31,0,9.3,0
+CUST-00912,Lima,Mes a Mes,Efectivo/Ventanilla,72,2020-10,159.89,11176.69,1,6.2,0
+CUST-00913,Arequipa,Mes a Mes,Transferencia Bancaria,8,2026-01,148.82,1160.34,3,7.6,0
+CUST-00914,Lima,Mes a Mes,Tarjeta de Crédito,11,2025-11,175.85,2023.25,1,7.0,0
+CUST-00915,Arequipa,Anual,Tarjeta de Crédito,3,2026-07,159.08,482.16,1,7.3,0
+CUST-00916,Lima,Anual,Débito Automático,1,2026-09,147.96,149.96,3,6.9,0
+CUST-00917,Lima,Mes a Mes,Efectivo/Ventanilla,27,2024-07,132.92,3564.26,3,8.9,1
+CUST-00918,Piura,Anual,Transferencia Bancaria,16,2025-06,148.66,2489.64,2,8.8,0
+CUST-00919,La Libertad,Mes a Mes,Débito Automático,26,2024-08,166.81,4378.49,2,8.6,0
+CUST-00920,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,157.04,488.25,3,5.4,0
+CUST-00921,Cusco,Anual,Débito Automático,16,2025-06,162.14,2622.57,1,8.8,0
+CUST-00922,Lima,Anual,Efectivo/Ventanilla,6,2026-04,205.42,1251.7,2,6.9,0
+CUST-00923,Cusco,Anual,Débito Automático,5,2026-05,156.93,751.5,1,9.5,0
+CUST-00924,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,115.8,111.1,2,6.4,0
+CUST-00925,Lima,Anual,Débito Automático,3,2026-07,184.76,566.36,2,7.0,0
+CUST-00926,Lima,Anual,Transferencia Bancaria,7,2026-03,83.52,560.42,2,8.8,0
+CUST-00927,Lima,Anual,Transferencia Bancaria,3,2026-07,96.34,287.04,2,5.3,0
+CUST-00928,Arequipa,Anual,Transferencia Bancaria,72,2020-10,160.11,10979.37,0,8.1,0
+CUST-00929,Arequipa,Bianual,Tarjeta de Crédito,7,2026-03,168.24,1208.54,2,8.6,0
+CUST-00930,Lima,Anual,Efectivo/Ventanilla,3,2026-07,88.97,249.39,1,6.2,0
+CUST-00931,Lima,Anual,Débito Automático,4,2026-06,127.77,525.3,2,6.7,0
+CUST-00932,Cusco,Bianual,Débito Automático,16,2025-06,117.73,1880.58,2,9.3,0
+CUST-00933,Piura,Anual,Débito Automático,2,2026-08,123.1,232.49,0,6.8,0
+CUST-00934,Arequipa,Mes a Mes,Efectivo/Ventanilla,36,2023-10,187.46,6684.21,3,5.6,0
+CUST-00935,Lima,Anual,Tarjeta de Crédito,59,2021-11,176.79,9979.22,2,6.6,0
+CUST-00936,Lima,Mes a Mes,Transferencia Bancaria,6,2026-04,144.14,832.02,1,6.0,0
+CUST-00937,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,120.43,1279.29,2,8.1,0
+CUST-00938,Piura,Anual,Débito Automático,1,2026-09,84.27,78.22,3,6.0,0
+CUST-00939,Lima,Bianual,Débito Automático,19,2025-03,208.91,4160.51,4,8.9,0
+CUST-00940,Arequipa,Bianual,Débito Automático,10,2025-12,171.65,1586.22,4,8.0,0
+CUST-00941,Lima,Mes a Mes,Tarjeta de Crédito,6,2026-04,113.2,683.36,1,9.3,0
+CUST-00942,Arequipa,Mes a Mes,Débito Automático,5,2026-05,177.38,858.75,1,5.2,0
+CUST-00943,La Libertad,Mes a Mes,Débito Automático,20,2025-01,141.84,2848.09,0,6.4,0
+CUST-00944,Cusco,Bianual,Efectivo/Ventanilla,10,2025-12,132.08,1276.31,0,8.1,0
+CUST-00945,Lima,Bianual,Efectivo/Ventanilla,4,2026-06,164.58,663.32,2,5.0,0
+CUST-00946,Lima,Anual,Débito Automático,22,2024-12,111.63,2492.21,1,9.5,0
+CUST-00947,Lima,Anual,Débito Automático,15,2025-07,129.53,1961.94,2,6.1,1
+CUST-00948,Piura,Anual,Débito Automático,36,2023-10,150.47,5063.82,5,6.8,0
+CUST-00949,Cusco,Anual,Transferencia Bancaria,3,2026-07,122.52,369.54,5,6.9,0
+CUST-00950,Arequipa,Mes a Mes,Transferencia Bancaria,28,2024-06,175.11,4689.3,2,5.9,1
+CUST-00951,Arequipa,Mes a Mes,Débito Automático,21,2025-01,229.11,4444.42,2,9.0,1
+CUST-00952,La Libertad,Anual,Débito Automático,3,2026-07,111.06,324.49,0,8.2,0
+CUST-00953,Lima,Anual,Transferencia Bancaria,22,2024-12,70.07,1505.1,2,6.6,0
+CUST-00954,Piura,Mes a Mes,Tarjeta de Crédito,11,2025-11,54.92,592.48,2,7.3,1
+CUST-00955,Lima,Bianual,Débito Automático,53,2022-05,138.23,7411.37,0,8.3,0
+CUST-00956,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,115.16,331.71,2,8.6,0
+CUST-00957,Arequipa,Mes a Mes,Débito Automático,19,2025-03,154.35,2818.24,1,6.9,0
+CUST-00958,Lima,Anual,Tarjeta de Crédito,9,2026-01,150.97,1260.73,4,4.0,0
+CUST-00959,Lima,Anual,Transferencia Bancaria,57,2022-01,72.86,4191.59,0,7.2,0
+CUST-00960,La Libertad,Anual,Transferencia Bancaria,8,2026-01,63.33,503.51,3,9.4,0
+CUST-00961,Lima,Mes a Mes,Tarjeta de Crédito,59,2021-11,158.32,9017.92,6,7.4,0
+CUST-00962,Arequipa,Mes a Mes,Efectivo/Ventanilla,42,2023-04,151.09,6419.86,4,6.7,0
+CUST-00963,Lima,Anual,Tarjeta de Crédito,6,2026-04,125.84,747.38,2,6.8,0
+CUST-00964,Lima,Anual,Transferencia Bancaria,30,2024-04,70.43,2072.76,2,6.9,1
+CUST-00965,Lima,Mes a Mes,Tarjeta de Crédito,72,2020-10,166.21,11805.23,1,8.0,1
+CUST-00966,Lima,Anual,Efectivo/Ventanilla,6,2026-04,202.24,1216.75,2,8.1,0
+CUST-00967,La Libertad,Mes a Mes,Efectivo/Ventanilla,11,2025-11,157.51,1742.66,2,4.5,1
+CUST-00968,Lima,Anual,Débito Automático,14,2025-08,106.86,1432.55,2,6.1,0
+CUST-00969,Arequipa,Anual,Efectivo/Ventanilla,7,2026-03,147.0,965.51,2,5.7,0
+CUST-00970,Lima,Mes a Mes,Transferencia Bancaria,1,2026-09,83.52,78.54,3,6.1,1
+CUST-00971,La Libertad,Mes a Mes,Transferencia Bancaria,5,2026-05,192.61,966.06,1,9.1,1
+CUST-00972,Piura,Anual,Débito Automático,6,2026-04,148.68,921.94,1,8.8,0
+CUST-00973,La Libertad,Anual,Transferencia Bancaria,11,2025-11,65.43,700.47,0,8.1,0
+CUST-00974,Lima,Anual,Efectivo/Ventanilla,4,2026-06,131.47,495.4,2,7.5,0
+CUST-00975,Lima,Anual,Débito Automático,38,2023-08,165.85,6418.0,1,4.7,0
+CUST-00976,Lima,Anual,Efectivo/Ventanilla,22,2024-12,130.01,2940.95,1,6.0,0
+CUST-00977,Arequipa,Bianual,Débito Automático,2,2026-08,132.58,274.3,2,8.8,0
+CUST-00978,Lima,Mes a Mes,Débito Automático,19,2025-03,89.9,1706.2,2,6.3,1
+CUST-00979,Lima,Mes a Mes,Tarjeta de Crédito,20,2025-01,170.49,3518.55,3,4.3,0
+CUST-00980,Arequipa,Mes a Mes,Tarjeta de Crédito,57,2022-01,115.82,6086.83,1,6.4,0
+CUST-00981,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,47.96,44.79,3,5.7,0
+CUST-00982,La Libertad,Anual,Débito Automático,6,2026-04,128.29,717.42,3,6.4,0
+CUST-00983,Lima,Mes a Mes,Efectivo/Ventanilla,48,2022-10,189.15,9193.95,2,5.8,0
+CUST-00984,Lima,Bianual,Débito Automático,49,2022-09,127.59,5808.31,4,5.8,0
+CUST-00985,La Libertad,Anual,Débito Automático,23,2024-11,223.21,5054.4,1,6.9,0
+CUST-00986,Lima,Anual,Débito Automático,27,2024-07,164.3,4353.82,3,7.2,0
+CUST-00987,La Libertad,Mes a Mes,Tarjeta de Crédito,2,2026-08,160.24,307.79,3,8.5,1
+CUST-00988,Lima,Mes a Mes,Efectivo/Ventanilla,13,2025-09,139.22,1869.86,1,7.4,1
+CUST-00989,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,141.93,668.6,0,7.9,0
+CUST-00990,Cusco,Mes a Mes,Transferencia Bancaria,4,2026-06,133.15,514.4,0,9.4,0
+CUST-00991,La Libertad,Mes a Mes,Débito Automático,30,2024-04,131.4,4023.37,3,8.4,0
+CUST-00992,La Libertad,Anual,Tarjeta de Crédito,3,2026-07,168.89,468.14,3,7.3,1
+CUST-00993,Lima,Bianual,Tarjeta de Crédito,12,2025-10,102.89,1243.92,0,8.2,0
+CUST-00994,Arequipa,Bianual,Tarjeta de Crédito,51,2022-07,96.58,5054.29,2,7.6,0
+CUST-00995,Lima,Anual,Débito Automático,4,2026-06,94.46,393.41,5,7.8,0
+CUST-00996,Lima,Mes a Mes,Transferencia Bancaria,69,2021-01,237.05,16911.24,1,6.9,0
+CUST-00997,Piura,Bianual,Tarjeta de Crédito,72,2020-10,168.87,11690.77,0,5.7,0
+CUST-00998,Lima,Bianual,Transferencia Bancaria,15,2025-07,158.7,2371.52,1,7.6,0
+CUST-00999,Piura,Mes a Mes,Tarjeta de Crédito,4,2026-06,97.41,362.38,3,9.6,1
+CUST-01000,Lima,Anual,Débito Automático,7,2026-03,173.05,1155.05,1,8.8,0
+CUST-01001,Lima,Mes a Mes,Tarjeta de Crédito,10,2025-12,139.75,1302.82,1,5.8,1
+CUST-01002,Arequipa,Anual,Débito Automático,7,2026-03,154.64,1040.24,1,5.3,0
+CUST-01003,Cusco,Bianual,Efectivo/Ventanilla,6,2026-04,101.05,626.78,2,5.3,0
+CUST-01004,La Libertad,Mes a Mes,Tarjeta de Crédito,65,2021-05,152.21,9548.68,0,5.7,0
+CUST-01005,Cusco,Bianual,Débito Automático,3,2026-07,125.93,375.16,3,6.0,0
+CUST-01006,La Libertad,Anual,Efectivo/Ventanilla,24,2024-10,110.55,2590.42,3,8.2,0
+CUST-01007,La Libertad,Bianual,Tarjeta de Crédito,1,2026-09,178.03,174.41,2,5.2,0
+CUST-01008,Cusco,Mes a Mes,Débito Automático,17,2025-05,75.8,1347.93,1,3.4,0
+CUST-01009,Lima,Anual,Tarjeta de Crédito,45,2023-01,170.41,7350.21,4,6.2,0
+CUST-01010,Lima,Mes a Mes,Débito Automático,7,2026-03,175.8,1232.51,1,7.1,0
+CUST-01011,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,105.42,410.97,5,7.7,1
+CUST-01012,Piura,Mes a Mes,Transferencia Bancaria,19,2025-03,108.09,1905.74,1,9.0,0
+CUST-01013,Piura,Bianual,Efectivo/Ventanilla,23,2024-11,134.96,3053.21,5,9.3,0
+CUST-01014,Lima,Anual,Tarjeta de Crédito,21,2025-01,157.69,3396.71,1,6.1,0
+CUST-01015,La Libertad,Bianual,Tarjeta de Crédito,7,2026-03,138.12,901.9,1,7.1,0
+CUST-01016,Piura,Bianual,Transferencia Bancaria,6,2026-04,164.51,917.03,3,5.4,0
+CUST-01017,Lima,Mes a Mes,Débito Automático,57,2022-01,224.33,12019.24,1,3.3,1
+CUST-01018,Arequipa,Mes a Mes,Tarjeta de Crédito,47,2022-11,122.15,5852.27,1,7.7,0
+CUST-01019,Piura,Mes a Mes,Tarjeta de Crédito,12,2025-10,67.82,825.33,2,6.2,0
+CUST-01020,Lima,Mes a Mes,Débito Automático,34,2023-12,182.17,6153.23,3,6.4,0
+CUST-01021,La Libertad,Mes a Mes,Tarjeta de Crédito,11,2025-11,220.75,2381.8,0,7.1,1
+CUST-01022,Lima,Mes a Mes,Efectivo/Ventanilla,10,2025-12,162.67,1684.42,1,6.9,0
+CUST-01023,Piura,Mes a Mes,Efectivo/Ventanilla,4,2026-06,96.05,391.76,3,8.6,1
+CUST-01024,Piura,Mes a Mes,Débito Automático,11,2025-11,139.42,1572.81,0,5.0,1
+CUST-01025,Piura,Mes a Mes,Débito Automático,14,2025-08,94.67,1359.47,2,5.0,0
+CUST-01026,Lima,Mes a Mes,Débito Automático,1,2026-09,173.93,174.55,1,4.4,1
+CUST-01027,Cusco,Bianual,Efectivo/Ventanilla,11,2025-11,84.19,907.14,2,8.4,0
+CUST-01028,Cusco,Anual,Débito Automático,28,2024-06,131.49,3801.04,1,8.7,0
+CUST-01029,Lima,Bianual,Transferencia Bancaria,21,2025-01,99.8,2180.43,3,8.4,0
+CUST-01030,Cusco,Mes a Mes,Débito Automático,19,2025-03,150.71,2643.27,3,5.7,1
+CUST-01031,Lima,Mes a Mes,Tarjeta de Crédito,44,2023-02,128.51,5239.98,3,4.5,1
+CUST-01032,Arequipa,Anual,Tarjeta de Crédito,1,2026-09,152.95,159.78,3,5.9,1
+CUST-01033,Lima,Mes a Mes,Transferencia Bancaria,15,2025-07,146.01,2093.85,2,6.7,1
+CUST-01034,Lima,Mes a Mes,Débito Automático,28,2024-06,100.6,2911.27,2,3.4,0
+CUST-01035,Lima,Mes a Mes,Tarjeta de Crédito,15,2025-07,173.21,2521.62,3,6.7,0
+CUST-01036,La Libertad,Mes a Mes,Débito Automático,8,2026-01,142.81,1068.77,1,8.9,0
+CUST-01037,Lima,Mes a Mes,Transferencia Bancaria,3,2026-07,100.52,280.59,5,4.6,1
+CUST-01038,La Libertad,Mes a Mes,Efectivo/Ventanilla,40,2023-06,245.84,9246.99,2,9.7,1
+CUST-01039,Lima,Anual,Débito Automático,12,2025-10,166.44,1902.38,1,8.1,0
+CUST-01040,Lima,Mes a Mes,Efectivo/Ventanilla,38,2023-08,138.1,5161.25,1,7.5,0
+CUST-01041,Arequipa,Mes a Mes,Tarjeta de Crédito,16,2025-06,208.68,3376.26,2,8.6,0
+CUST-01042,La Libertad,Anual,Débito Automático,21,2025-01,227.88,5016.29,6,8.7,0
+CUST-01043,Lima,Mes a Mes,Tarjeta de Crédito,30,2024-04,138.46,4059.91,3,8.4,1
+CUST-01044,Arequipa,Mes a Mes,Débito Automático,20,2025-01,160.63,3172.01,1,8.9,1
+CUST-01045,Cusco,Bianual,Transferencia Bancaria,10,2025-12,100.54,993.17,5,5.2,0
+CUST-01046,Arequipa,Mes a Mes,Transferencia Bancaria,13,2025-09,138.38,1781.18,3,5.0,0
+CUST-01047,Lima,Mes a Mes,Débito Automático,30,2024-04,136.04,4029.39,5,7.1,1
+CUST-01048,Lima,Mes a Mes,Tarjeta de Crédito,9,2026-01,153.32,1271.06,2,5.3,0
+CUST-01049,Cusco,Mes a Mes,Transferencia Bancaria,9,2026-01,159.97,1324.87,0,8.6,0
+CUST-01050,Lima,Anual,Efectivo/Ventanilla,2,2026-08,170.19,317.47,0,6.9,0
+CUST-01051,Cusco,Anual,Tarjeta de Crédito,45,2023-01,155.69,6538.06,1,7.8,0
+CUST-01052,Arequipa,Mes a Mes,Efectivo/Ventanilla,2,2026-08,90.52,183.15,2,8.4,0
+CUST-01053,Piura,Anual,Tarjeta de Crédito,19,2025-03,102.77,1848.44,3,9.0,0
+CUST-01054,La Libertad,Mes a Mes,Tarjeta de Crédito,10,2025-12,120.41,1247.82,2,7.8,0
+CUST-01055,Piura,Mes a Mes,Transferencia Bancaria,10,2025-12,132.3,1376.87,2,7.2,1
+CUST-01056,Lima,Anual,Tarjeta de Crédito,21,2025-01,192.28,4227.12,3,7.5,0
+CUST-01057,La Libertad,Mes a Mes,Tarjeta de Crédito,2,2026-08,92.67,193.14,1,9.0,0
+CUST-01058,Lima,Mes a Mes,Tarjeta de Crédito,17,2025-05,128.92,2093.77,6,8.0,0
+CUST-01059,Lima,Mes a Mes,Transferencia Bancaria,27,2024-07,187.89,5003.38,0,3.0,1
+CUST-01060,Arequipa,Mes a Mes,Transferencia Bancaria,32,2024-02,131.51,3967.64,2,8.6,0
+CUST-01061,Cusco,Mes a Mes,Tarjeta de Crédito,4,2026-06,165.72,679.32,5,5.3,1
+CUST-01062,Piura,Anual,Débito Automático,41,2023-05,138.72,5889.4,0,9.2,0
+CUST-01063,La Libertad,Mes a Mes,Tarjeta de Crédito,20,2025-01,156.56,3227.23,1,7.2,0
+CUST-01064,Lima,Mes a Mes,Tarjeta de Crédito,39,2023-07,134.72,5129.76,0,7.1,0
+CUST-01065,Lima,Mes a Mes,Débito Automático,12,2025-10,175.02,2139.36,1,7.3,0
+CUST-01066,La Libertad,Anual,Transferencia Bancaria,15,2025-07,75.47,1055.85,6,8.8,0
+CUST-01067,Lima,Anual,Tarjeta de Crédito,46,2022-12,128.65,5475.43,2,7.7,0
+CUST-01068,Lima,Anual,Débito Automático,42,2023-04,158.35,6769.89,2,7.8,0
+CUST-01069,Lima,Anual,Débito Automático,11,2025-11,169.02,1813.29,1,9.9,0
+CUST-01070,Lima,Bianual,Débito Automático,6,2026-04,212.18,1336.0,1,8.6,0
+CUST-01071,Lima,Mes a Mes,Efectivo/Ventanilla,9,2026-01,127.4,1069.37,1,5.3,0
+CUST-01072,Lima,Mes a Mes,Débito Automático,9,2026-01,211.58,1963.69,1,7.9,1
+CUST-01073,Lima,Anual,Débito Automático,7,2026-03,115.34,793.17,1,7.4,0
+CUST-01074,Lima,Bianual,Tarjeta de Crédito,6,2026-04,204.79,1262.57,0,7.1,0
+CUST-01075,Piura,Bianual,Débito Automático,36,2023-10,181.79,6716.08,2,8.7,0
+CUST-01076,Lima,Mes a Mes,Débito Automático,2,2026-08,103.89,215.9,1,8.2,0
+CUST-01077,Lima,Mes a Mes,Débito Automático,21,2025-01,158.82,3197.54,1,4.4,0
+CUST-01078,La Libertad,Mes a Mes,Tarjeta de Crédito,4,2026-06,142.69,595.57,1,4.8,1
+CUST-01079,Lima,Anual,Tarjeta de Crédito,8,2026-01,173.15,1301.7,3,4.9,0
+CUST-01080,Piura,Mes a Mes,Tarjeta de Crédito,2,2026-08,134.95,251.18,3,8.1,1
+CUST-01081,La Libertad,Mes a Mes,Tarjeta de Crédito,6,2026-04,131.17,768.22,3,8.3,1
+CUST-01082,Lima,Anual,Efectivo/Ventanilla,27,2024-07,206.61,5732.89,1,8.4,0
+CUST-01083,Lima,Mes a Mes,Tarjeta de Crédito,39,2023-07,140.56,5380.67,4,6.4,0
+CUST-01084,Cusco,Bianual,Débito Automático,5,2026-05,182.19,936.28,0,8.8,0
+CUST-01085,Piura,Mes a Mes,Débito Automático,12,2025-10,134.86,1642.37,3,5.8,0
+CUST-01086,Lima,Mes a Mes,Tarjeta de Crédito,12,2025-10,220.0,2500.68,5,4.6,1
+CUST-01087,Arequipa,Mes a Mes,Transferencia Bancaria,38,2023-08,114.47,4538.45,1,6.7,0
+CUST-01088,Lima,Anual,Débito Automático,26,2024-08,117.36,2831.36,5,7.1,0
+CUST-01089,Piura,Mes a Mes,Transferencia Bancaria,13,2025-09,213.6,2878.92,2,7.6,0
+CUST-01090,Lima,Mes a Mes,Débito Automático,20,2025-01,124.98,2398.56,3,7.7,0
+CUST-01091,Piura,Bianual,Tarjeta de Crédito,34,2023-12,217.05,7269.15,0,6.1,0
+CUST-01092,Arequipa,Mes a Mes,Transferencia Bancaria,1,2026-09,185.13,180.48,3,7.6,0
+CUST-01093,Arequipa,Anual,Débito Automático,10,2025-12,138.04,1300.8,0,7.9,0
+CUST-01094,Arequipa,Anual,Tarjeta de Crédito,43,2023-03,63.4,2635.03,1,7.7,0
+CUST-01095,Lima,Mes a Mes,Débito Automático,25,2024-09,144.13,3405.36,1,6.2,1
+CUST-01096,Lima,Anual,Transferencia Bancaria,15,2025-07,149.57,2123.53,1,6.7,0
+CUST-01097,Lima,Mes a Mes,Débito Automático,14,2025-08,197.52,2611.3,2,9.0,0
+CUST-01098,Lima,Anual,Efectivo/Ventanilla,8,2026-01,216.48,1703.39,6,3.8,0
+CUST-01099,La Libertad,Mes a Mes,Débito Automático,14,2025-08,114.18,1636.45,2,7.7,1
+CUST-01100,Lima,Anual,Efectivo/Ventanilla,20,2025-01,181.05,3599.15,3,6.5,0
+CUST-01101,Lima,Mes a Mes,Tarjeta de Crédito,10,2025-12,179.44,1859.21,2,4.6,0
+CUST-01102,Piura,Anual,Transferencia Bancaria,23,2024-11,193.3,4458.13,7,5.9,0
+CUST-01103,Cusco,Mes a Mes,Débito Automático,36,2023-10,167.44,6085.79,3,7.1,0
+CUST-01104,Piura,Mes a Mes,Efectivo/Ventanilla,4,2026-06,57.59,231.92,0,8.5,0
+CUST-01105,Piura,Mes a Mes,Débito Automático,11,2025-11,138.01,1485.36,2,6.0,0
+CUST-01106,Lima,Mes a Mes,Débito Automático,10,2025-12,92.99,938.84,0,8.7,1
+CUST-01107,Lima,Anual,Tarjeta de Crédito,21,2025-01,135.88,2651.06,2,5.1,0
+CUST-01108,La Libertad,Mes a Mes,Débito Automático,6,2026-04,189.1,1170.66,1,4.1,1
+CUST-01109,La Libertad,Bianual,Débito Automático,19,2025-03,158.73,3079.55,0,4.8,0
+CUST-01110,Lima,Bianual,Efectivo/Ventanilla,38,2023-08,196.66,7113.47,0,9.7,0
+CUST-01111,Cusco,Anual,Efectivo/Ventanilla,10,2025-12,160.38,1635.63,1,5.0,0
+CUST-01112,Lima,Mes a Mes,Tarjeta de Crédito,44,2023-02,86.58,3511.02,2,6.5,0
+CUST-01113,Lima,Mes a Mes,Efectivo/Ventanilla,72,2020-10,35.0,2389.57,1,6.1,1
+CUST-01114,Arequipa,Anual,Tarjeta de Crédito,3,2026-07,151.7,422.55,2,7.5,0
+CUST-01115,Arequipa,Mes a Mes,Débito Automático,5,2026-05,135.37,691.35,2,7.4,1
+CUST-01116,Arequipa,Mes a Mes,Transferencia Bancaria,55,2022-03,101.04,5658.69,2,5.9,0
+CUST-01117,Lima,Anual,Transferencia Bancaria,58,2021-12,68.47,4073.61,0,3.4,0
+CUST-01118,Cusco,Anual,Efectivo/Ventanilla,2,2026-08,111.94,206.1,2,9.1,0
+CUST-01119,Lima,Anual,Débito Automático,1,2026-09,136.25,134.23,3,8.5,0
+CUST-01120,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,174.96,707.98,1,8.8,0
+CUST-01121,Cusco,Anual,Débito Automático,72,2020-10,153.49,10390.44,1,5.3,0
+CUST-01122,Piura,Mes a Mes,Débito Automático,4,2026-06,217.36,873.33,2,5.0,1
+CUST-01123,Cusco,Mes a Mes,Débito Automático,13,2025-09,98.4,1190.85,3,8.5,1
+CUST-01124,Cusco,Bianual,Efectivo/Ventanilla,34,2023-12,184.65,5923.84,2,6.0,0
+CUST-01125,La Libertad,Mes a Mes,Transferencia Bancaria,1,2026-09,147.13,144.46,2,5.2,0
+CUST-01126,Arequipa,Mes a Mes,Transferencia Bancaria,17,2025-05,176.26,3011.29,3,5.6,0
+CUST-01127,Lima,Mes a Mes,Tarjeta de Crédito,6,2026-04,125.36,706.25,1,8.4,0
+CUST-01128,Lima,Bianual,Débito Automático,36,2023-10,193.23,6567.28,4,6.6,0
+CUST-01129,Lima,Anual,Débito Automático,6,2026-04,158.29,899.0,2,5.4,0
+CUST-01130,Lima,Anual,Débito Automático,21,2025-01,114.42,2285.16,2,6.6,0
+CUST-01131,La Libertad,Anual,Tarjeta de Crédito,21,2025-01,144.46,2880.31,1,8.1,0
+CUST-01132,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,134.22,651.89,1,7.0,1
+CUST-01133,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,167.01,167.84,2,7.3,0
+CUST-01134,Lima,Mes a Mes,Débito Automático,10,2025-12,91.91,897.91,3,7.9,0
+CUST-01135,La Libertad,Mes a Mes,Débito Automático,7,2026-03,143.68,1026.76,1,9.1,0
+CUST-01136,Lima,Mes a Mes,Débito Automático,30,2024-04,162.79,4949.65,3,7.5,0
+CUST-01137,Cusco,Bianual,Tarjeta de Crédito,30,2024-04,146.49,4115.41,2,5.2,0
+CUST-01138,Lima,Mes a Mes,Efectivo/Ventanilla,11,2025-11,205.61,2095.13,4,6.6,0
+CUST-01139,Lima,Mes a Mes,Tarjeta de Crédito,17,2025-05,179.83,3161.46,4,7.8,0
+CUST-01140,Arequipa,Mes a Mes,Transferencia Bancaria,17,2025-05,144.66,2288.0,2,4.8,1
+CUST-01141,Cusco,Mes a Mes,Tarjeta de Crédito,32,2024-02,154.75,4651.33,3,5.9,1
+CUST-01142,Lima,Bianual,Tarjeta de Crédito,10,2025-12,158.3,1460.91,2,7.9,0
+CUST-01143,La Libertad,Mes a Mes,Débito Automático,6,2026-04,163.15,980.55,1,9.2,0
+CUST-01144,Arequipa,Mes a Mes,Efectivo/Ventanilla,6,2026-04,62.85,375.48,1,6.3,0
+CUST-01145,Lima,Anual,Transferencia Bancaria,14,2025-08,131.43,1928.89,0,9.5,0
+CUST-01146,Cusco,Mes a Mes,Débito Automático,11,2025-11,78.2,890.57,1,6.7,1
+CUST-01147,La Libertad,Mes a Mes,Tarjeta de Crédito,11,2025-11,202.52,2168.48,2,9.7,0
+CUST-01148,La Libertad,Mes a Mes,Tarjeta de Crédito,2,2026-08,142.26,275.5,3,6.9,0
+CUST-01149,Cusco,Anual,Tarjeta de Crédito,23,2024-11,136.3,3005.09,2,9.2,0
+CUST-01150,Cusco,Bianual,Efectivo/Ventanilla,5,2026-05,185.36,871.02,0,8.1,0
+CUST-01151,La Libertad,Anual,Tarjeta de Crédito,4,2026-06,164.0,615.3,2,6.0,0
+CUST-01152,Cusco,Mes a Mes,Tarjeta de Crédito,10,2025-12,94.21,882.93,2,9.1,0
+CUST-01153,La Libertad,Anual,Débito Automático,5,2026-05,141.81,662.84,1,7.9,0
+CUST-01154,La Libertad,Mes a Mes,Débito Automático,16,2025-06,129.92,1977.42,1,7.7,0
+CUST-01155,Arequipa,Mes a Mes,Débito Automático,9,2026-01,66.5,574.48,1,8.3,0
+CUST-01156,La Libertad,Mes a Mes,Débito Automático,11,2025-11,113.94,1309.75,3,7.4,1
+CUST-01157,Lima,Mes a Mes,Transferencia Bancaria,14,2025-08,136.74,1905.17,1,8.1,0
+CUST-01158,Cusco,Mes a Mes,Transferencia Bancaria,5,2026-05,139.83,732.98,2,8.5,0
+CUST-01159,Cusco,Anual,Débito Automático,4,2026-06,78.3,303.31,1,5.5,0
+CUST-01160,Lima,Bianual,Transferencia Bancaria,39,2023-07,196.82,7518.56,0,8.6,0
+CUST-01161,Cusco,Mes a Mes,Débito Automático,11,2025-11,140.41,1486.12,4,5.8,0
+CUST-01162,Lima,Mes a Mes,Débito Automático,10,2025-12,146.69,1384.42,0,4.6,0
+CUST-01163,Lima,Mes a Mes,Débito Automático,1,2026-09,163.03,153.02,3,7.8,1
+CUST-01164,La Libertad,Mes a Mes,Tarjeta de Crédito,13,2025-09,109.54,1485.05,0,2.4,0
+CUST-01165,Lima,Anual,Débito Automático,15,2025-07,165.54,2603.0,1,9.6,0
+CUST-01166,Cusco,Mes a Mes,Tarjeta de Crédito,15,2025-07,128.48,1784.28,1,5.9,0
+CUST-01167,Cusco,Anual,Tarjeta de Crédito,23,2024-11,104.65,2261.44,0,6.5,0
+CUST-01168,Arequipa,Mes a Mes,Efectivo/Ventanilla,4,2026-06,170.81,666.2,0,7.9,1
+CUST-01169,Lima,Mes a Mes,Débito Automático,6,2026-04,212.13,1201.79,4,7.0,0
+CUST-01170,Lima,Mes a Mes,Débito Automático,30,2024-04,177.62,5154.38,1,7.2,0
+CUST-01171,Arequipa,Mes a Mes,Débito Automático,53,2022-05,186.53,9261.12,0,8.9,0
+CUST-01172,Piura,Mes a Mes,Tarjeta de Crédito,3,2026-07,121.57,357.18,0,3.7,1
+CUST-01173,Arequipa,Anual,Débito Automático,13,2025-09,73.11,907.97,3,8.0,0
+CUST-01174,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,212.06,1023.98,1,5.9,0
+CUST-01175,Arequipa,Anual,Tarjeta de Crédito,2,2026-08,237.45,442.73,3,8.3,0
+CUST-01176,Arequipa,Mes a Mes,Tarjeta de Crédito,8,2026-01,214.43,1673.68,2,9.3,0
+CUST-01177,La Libertad,Mes a Mes,Tarjeta de Crédito,3,2026-07,129.89,408.31,2,9.1,0
+CUST-01178,Lima,Mes a Mes,Débito Automático,23,2024-11,93.04,2060.2,1,6.5,0
+CUST-01179,La Libertad,Anual,Débito Automático,14,2025-08,97.04,1404.66,1,4.4,0
+CUST-01180,Arequipa,Mes a Mes,Débito Automático,3,2026-07,69.23,213.84,0,7.2,1
+CUST-01181,Piura,Anual,Tarjeta de Crédito,1,2026-09,140.17,146.3,0,4.6,0
+CUST-01182,Lima,Mes a Mes,Débito Automático,30,2024-04,217.26,6665.85,5,7.4,0
+CUST-01183,Arequipa,Anual,Débito Automático,4,2026-06,138.63,557.71,0,5.2,0
+CUST-01184,Piura,Mes a Mes,Efectivo/Ventanilla,17,2025-05,158.6,2780.74,5,4.3,1
+CUST-01185,Lima,Anual,Débito Automático,8,2026-01,206.9,1539.06,1,6.2,0
+CUST-01186,Piura,Anual,Transferencia Bancaria,16,2025-06,126.82,1988.88,1,6.1,0
+CUST-01187,La Libertad,Bianual,Transferencia Bancaria,7,2026-03,236.6,1736.7,0,4.3,0
+CUST-01188,Lima,Mes a Mes,Débito Automático,2,2026-08,234.64,478.69,1,4.9,1
+CUST-01189,Lima,Mes a Mes,Débito Automático,5,2026-05,139.1,726.85,1,8.4,0
+CUST-01190,La Libertad,Mes a Mes,Débito Automático,4,2026-06,119.01,486.2,3,7.4,0
+CUST-01191,Lima,Anual,Transferencia Bancaria,11,2025-11,176.38,2005.63,0,7.1,0
+CUST-01192,Arequipa,Mes a Mes,Tarjeta de Crédito,20,2025-01,129.36,2617.86,3,7.8,1
+CUST-01193,Lima,Anual,Transferencia Bancaria,6,2026-04,92.96,568.28,3,4.5,0
+CUST-01194,Arequipa,Mes a Mes,Efectivo/Ventanilla,1,2026-09,202.66,200.23,3,8.6,1
+CUST-01195,Lima,Mes a Mes,Transferencia Bancaria,14,2025-08,199.74,2908.64,1,8.5,0
+CUST-01196,Cusco,Mes a Mes,Débito Automático,17,2025-05,152.0,2654.43,1,9.0,0
+CUST-01197,Piura,Bianual,Débito Automático,60,2021-10,88.17,5447.35,2,4.5,0
+CUST-01198,Piura,Anual,Transferencia Bancaria,17,2025-05,89.67,1535.81,0,7.3,0
+CUST-01199,La Libertad,Bianual,Débito Automático,12,2025-10,149.83,1725.31,2,8.8,0
+CUST-01200,Lima,Mes a Mes,Débito Automático,16,2025-06,122.51,1812.43,2,8.3,1
+CUST-01201,La Libertad,Anual,Transferencia Bancaria,48,2022-10,129.65,6482.3,1,8.3,0
+CUST-01202,Lima,Anual,Tarjeta de Crédito,32,2024-02,190.99,6088.43,0,5.5,0
+CUST-01203,Lima,Mes a Mes,Efectivo/Ventanilla,8,2026-01,177.99,1365.2,3,10.0,0
+CUST-01204,Lima,Anual,Transferencia Bancaria,5,2026-05,207.02,972.36,2,9.2,0
+CUST-01205,Lima,Bianual,Débito Automático,6,2026-04,100.42,619.29,1,8.2,0
+CUST-01206,La Libertad,Bianual,Efectivo/Ventanilla,13,2025-09,129.56,1732.7,1,7.6,0
+CUST-01207,La Libertad,Anual,Débito Automático,25,2024-09,179.15,4594.69,1,7.9,0
+CUST-01208,Lima,Mes a Mes,Débito Automático,13,2025-09,165.16,2155.37,0,5.2,0
+CUST-01209,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,213.96,414.05,3,5.9,0
+CUST-01210,Piura,Bianual,Débito Automático,24,2024-10,163.92,3774.86,3,7.5,0
+CUST-01211,Lima,Mes a Mes,Tarjeta de Crédito,30,2024-04,228.16,6304.83,1,9.8,1
+CUST-01212,Lima,Anual,Débito Automático,7,2026-03,169.3,1218.72,2,6.7,0
+CUST-01213,Lima,Anual,Tarjeta de Crédito,20,2025-01,192.8,3591.35,2,8.6,0
+CUST-01214,La Libertad,Anual,Tarjeta de Crédito,11,2025-11,130.44,1437.71,6,9.3,1
+CUST-01215,La Libertad,Bianual,Transferencia Bancaria,40,2023-06,145.64,5741.3,1,9.5,0
+CUST-01216,Lima,Mes a Mes,Transferencia Bancaria,34,2023-12,185.99,6250.75,1,9.6,0
+CUST-01217,Lima,Mes a Mes,Débito Automático,14,2025-08,217.58,3169.4,3,9.6,1
+CUST-01218,La Libertad,Mes a Mes,Tarjeta de Crédito,22,2024-12,177.82,3615.16,2,8.0,0
+CUST-01219,La Libertad,Mes a Mes,Tarjeta de Crédito,39,2023-07,141.26,5622.3,1,7.7,0
+CUST-01220,Lima,Mes a Mes,Débito Automático,13,2025-09,206.98,2493.69,0,9.6,1
+CUST-01221,Piura,Mes a Mes,Transferencia Bancaria,7,2026-03,46.36,300.17,1,6.5,1
+CUST-01222,Lima,Anual,Transferencia Bancaria,26,2024-08,81.0,2055.2,2,8.6,0
+CUST-01223,Lima,Bianual,Débito Automático,5,2026-05,175.67,815.28,2,5.2,0
+CUST-01224,Piura,Mes a Mes,Tarjeta de Crédito,9,2026-01,145.63,1340.28,1,3.7,0
+CUST-01225,Lima,Mes a Mes,Débito Automático,37,2023-09,172.25,6302.14,3,6.8,0
+CUST-01226,Arequipa,Bianual,Tarjeta de Crédito,24,2024-10,147.9,3279.03,1,8.5,0
+CUST-01227,Lima,Mes a Mes,Débito Automático,10,2025-12,170.69,1579.33,2,6.2,0
+CUST-01228,Lima,Mes a Mes,Efectivo/Ventanilla,5,2026-05,108.35,541.56,3,6.4,0
+CUST-01229,Piura,Mes a Mes,Transferencia Bancaria,8,2026-01,170.67,1399.21,6,8.2,0
+CUST-01230,Lima,Anual,Tarjeta de Crédito,7,2026-03,189.75,1297.59,4,9.0,0
+CUST-01231,Cusco,Mes a Mes,Tarjeta de Crédito,4,2026-06,199.92,793.36,2,6.5,0
+CUST-01232,Lima,Bianual,Efectivo/Ventanilla,25,2024-09,235.61,6031.49,2,9.0,0
+CUST-01233,Lima,Mes a Mes,Tarjeta de Crédito,6,2026-04,155.98,935.29,0,8.4,0
+CUST-01234,Lima,Mes a Mes,Débito Automático,11,2025-11,157.33,1642.75,2,7.5,0
+CUST-01235,La Libertad,Mes a Mes,Tarjeta de Crédito,9,2026-01,76.46,687.93,4,8.1,0
+CUST-01236,Lima,Mes a Mes,Transferencia Bancaria,72,2020-10,121.09,8733.1,1,6.3,1
+CUST-01237,Cusco,Anual,Tarjeta de Crédito,9,2026-01,136.31,1245.72,2,7.0,0
+CUST-01238,Lima,Anual,Transferencia Bancaria,2,2026-08,192.26,384.79,1,9.7,0
+CUST-01239,Piura,Anual,Efectivo/Ventanilla,2,2026-08,117.5,245.81,3,7.6,0
+CUST-01240,Lima,Anual,Efectivo/Ventanilla,17,2025-05,180.84,2907.19,2,7.5,0
+CUST-01241,Cusco,Bianual,Efectivo/Ventanilla,17,2025-05,144.93,2571.34,2,6.7,0
+CUST-01242,La Libertad,Anual,Débito Automático,10,2025-12,137.03,1356.58,2,6.0,0
+CUST-01243,La Libertad,Anual,Tarjeta de Crédito,11,2025-11,156.2,1730.84,2,5.6,0
+CUST-01244,Cusco,Mes a Mes,Transferencia Bancaria,1,2026-09,127.4,118.86,2,3.2,0
+CUST-01245,La Libertad,Mes a Mes,Transferencia Bancaria,14,2025-08,125.69,1705.95,2,6.8,0
+CUST-01246,Arequipa,Mes a Mes,Tarjeta de Crédito,13,2025-09,68.28,905.41,3,9.1,1
+CUST-01247,Lima,Anual,Débito Automático,3,2026-07,133.84,406.3,5,5.2,0
+CUST-01248,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,123.4,228.34,4,9.0,1
+CUST-01249,Piura,Mes a Mes,Transferencia Bancaria,3,2026-07,121.78,362.07,1,8.4,0
+CUST-01250,Arequipa,Bianual,Débito Automático,2,2026-08,163.76,305.08,2,3.3,0
+CUST-01251,La Libertad,Bianual,Tarjeta de Crédito,17,2025-05,174.64,3115.72,0,2.7,0
+CUST-01252,Lima,Bianual,Débito Automático,4,2026-06,155.45,644.59,0,4.0,0
+CUST-01253,Lima,Mes a Mes,Débito Automático,6,2026-04,189.79,1050.76,2,8.7,0
+CUST-01254,Lima,Anual,Débito Automático,4,2026-06,170.9,705.22,0,8.2,0
+CUST-01255,La Libertad,Mes a Mes,Tarjeta de Crédito,57,2022-01,131.72,7804.8,2,5.7,0
+CUST-01256,Lima,Mes a Mes,Tarjeta de Crédito,35,2023-11,124.17,4198.02,5,8.9,0
+CUST-01257,Lima,Mes a Mes,Tarjeta de Crédito,5,2026-05,159.08,806.17,1,8.1,0
+CUST-01258,Lima,Mes a Mes,Transferencia Bancaria,8,2026-01,170.82,1335.78,3,7.4,0
+CUST-01259,Lima,Mes a Mes,Transferencia Bancaria,5,2026-05,207.9,1044.88,2,8.7,0
+CUST-01260,Arequipa,Anual,Débito Automático,13,2025-09,198.6,2489.48,4,5.0,0
+CUST-01261,Lima,Mes a Mes,Débito Automático,1,2026-09,120.63,116.04,2,7.2,0
+CUST-01262,La Libertad,Anual,Efectivo/Ventanilla,21,2025-01,140.41,2875.41,5,2.9,0
+CUST-01263,Lima,Mes a Mes,Débito Automático,14,2025-08,175.2,2302.99,2,7.6,0
+CUST-01264,Lima,Mes a Mes,Efectivo/Ventanilla,42,2023-04,193.06,8335.95,4,7.7,0
+CUST-01265,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,187.25,723.03,2,4.5,0
+CUST-01266,Lima,Mes a Mes,Tarjeta de Crédito,30,2024-04,142.13,4144.59,0,7.2,0
+CUST-01267,Lima,Anual,Efectivo/Ventanilla,29,2024-05,88.57,2661.58,4,7.4,0
+CUST-01268,Lima,Mes a Mes,Débito Automático,3,2026-07,100.05,295.52,1,8.5,0
+CUST-01269,Arequipa,Mes a Mes,Débito Automático,10,2025-12,157.27,1558.16,1,7.1,0
+CUST-01270,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,160.4,670.05,6,7.8,1
+CUST-01271,La Libertad,Mes a Mes,Tarjeta de Crédito,6,2026-04,95.56,593.58,2,4.8,0
+CUST-01272,Cusco,Bianual,Efectivo/Ventanilla,6,2026-04,147.01,830.93,1,6.8,0
+CUST-01273,La Libertad,Mes a Mes,Débito Automático,15,2025-07,173.41,2553.08,1,2.9,1
+CUST-01274,Lima,Anual,Tarjeta de Crédito,10,2025-12,93.19,975.02,5,5.6,1
+CUST-01275,Lima,Anual,Tarjeta de Crédito,54,2022-04,194.72,10182.69,3,6.4,0
+CUST-01276,Lima,Bianual,Transferencia Bancaria,3,2026-07,128.01,371.86,3,8.5,0
+CUST-01277,Lima,Anual,Débito Automático,66,2021-04,201.59,12577.88,1,9.2,0
+CUST-01278,Piura,Anual,Tarjeta de Crédito,5,2026-05,120.99,565.54,3,6.9,0
+CUST-01279,Lima,Anual,Transferencia Bancaria,27,2024-07,98.8,2710.92,0,4.3,0
+CUST-01280,Lima,Bianual,Débito Automático,8,2026-01,124.38,1015.04,0,8.6,0
+CUST-01281,Arequipa,Mes a Mes,Transferencia Bancaria,3,2026-07,140.72,441.57,5,3.3,0
+CUST-01282,La Libertad,Mes a Mes,Tarjeta de Crédito,36,2023-10,127.52,4685.03,0,7.3,0
+CUST-01283,Arequipa,Mes a Mes,Transferencia Bancaria,7,2026-03,135.28,901.16,0,5.3,0
+CUST-01284,Lima,Anual,Transferencia Bancaria,20,2025-01,160.03,2961.24,3,7.6,0
+CUST-01285,Lima,Anual,Débito Automático,16,2025-06,137.3,2302.48,2,7.3,0
+CUST-01286,Arequipa,Mes a Mes,Tarjeta de Crédito,12,2025-10,142.02,1643.33,2,7.9,0
+CUST-01287,Lima,Anual,Efectivo/Ventanilla,13,2025-09,68.08,850.13,3,9.2,0
+CUST-01288,Lima,Mes a Mes,Tarjeta de Crédito,24,2024-10,162.63,4050.56,3,5.7,0
+CUST-01289,Lima,Mes a Mes,Efectivo/Ventanilla,2,2026-08,140.99,280.87,2,7.3,0
+CUST-01290,Lima,Bianual,Tarjeta de Crédito,20,2025-01,217.46,4122.75,5,8.5,0
+CUST-01291,Lima,Mes a Mes,Débito Automático,41,2023-05,102.72,4361.38,3,7.3,0
+CUST-01292,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,63.63,133.51,0,4.8,0
+CUST-01293,Arequipa,Anual,Efectivo/Ventanilla,3,2026-07,172.81,482.8,5,7.3,0
+CUST-01294,La Libertad,Anual,Débito Automático,23,2024-11,160.59,3812.11,2,7.0,0
+CUST-01295,Cusco,Mes a Mes,Efectivo/Ventanilla,11,2025-11,99.62,1063.79,3,7.7,1
+CUST-01296,Lima,Anual,Efectivo/Ventanilla,10,2025-12,76.16,752.56,0,6.9,0
+CUST-01297,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,214.18,667.55,1,8.2,0
+CUST-01298,Lima,Mes a Mes,Débito Automático,13,2025-09,208.63,2838.41,2,6.8,0
+CUST-01299,Arequipa,Mes a Mes,Transferencia Bancaria,3,2026-07,35.0,100.18,2,7.9,0
+CUST-01300,La Libertad,Anual,Débito Automático,12,2025-10,124.38,1414.46,1,5.9,0
+CUST-01301,Lima,Mes a Mes,Transferencia Bancaria,26,2024-08,219.89,5319.61,2,6.8,0
+CUST-01302,Piura,Bianual,Tarjeta de Crédito,6,2026-04,123.58,736.31,3,6.1,0
+CUST-01303,Lima,Anual,Tarjeta de Crédito,12,2025-10,122.92,1359.65,2,4.3,0
+CUST-01304,Arequipa,Bianual,Transferencia Bancaria,72,2020-10,132.28,9272.22,1,8.4,0
+CUST-01305,La Libertad,Mes a Mes,Tarjeta de Crédito,21,2025-01,94.56,1845.84,2,8.7,1
+CUST-01306,Cusco,Bianual,Tarjeta de Crédito,34,2023-12,68.29,2258.43,1,8.2,0
+CUST-01307,La Libertad,Mes a Mes,Tarjeta de Crédito,10,2025-12,192.36,1779.7,2,6.6,0
+CUST-01308,Cusco,Mes a Mes,Tarjeta de Crédito,27,2024-07,62.07,1723.78,0,7.2,0
+CUST-01309,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,156.13,147.9,4,9.6,0
+CUST-01310,Cusco,Mes a Mes,Transferencia Bancaria,3,2026-07,184.9,534.0,1,6.6,0
+CUST-01311,Lima,Anual,Tarjeta de Crédito,5,2026-05,79.69,411.64,3,9.0,0
+CUST-01312,Cusco,Mes a Mes,Tarjeta de Crédito,10,2025-12,103.41,1051.69,1,7.6,0
+CUST-01313,Arequipa,Mes a Mes,Transferencia Bancaria,34,2023-12,199.59,6436.41,2,5.0,1
+CUST-01314,Cusco,Anual,Débito Automático,8,2026-01,168.98,1256.33,1,6.8,0
+CUST-01315,Lima,Mes a Mes,Débito Automático,20,2025-01,117.22,2374.97,0,7.2,0
+CUST-01316,Arequipa,Anual,Efectivo/Ventanilla,23,2024-11,199.1,4445.54,0,7.1,0
+CUST-01317,Arequipa,Mes a Mes,Transferencia Bancaria,16,2025-06,199.29,3251.11,1,4.1,0
+CUST-01318,La Libertad,Anual,Tarjeta de Crédito,8,2026-01,157.11,1229.09,3,5.5,0
+CUST-01319,Lima,Anual,Tarjeta de Crédito,16,2025-06,104.49,1613.29,3,6.1,0
+CUST-01320,Lima,Mes a Mes,Débito Automático,8,2026-01,126.39,989.54,1,7.9,0
+CUST-01321,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,157.89,321.25,0,9.0,0
+CUST-01322,Lima,Mes a Mes,Tarjeta de Crédito,72,2020-10,136.51,10195.22,1,6.8,0
+CUST-01323,Cusco,Anual,Tarjeta de Crédito,3,2026-07,187.25,520.44,1,7.5,0
+CUST-01324,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,76.16,150.51,0,8.4,1
+CUST-01325,Piura,Mes a Mes,Débito Automático,38,2023-08,77.76,2731.1,0,3.2,0
+CUST-01326,Lima,Mes a Mes,Débito Automático,7,2026-03,153.14,1051.5,0,4.8,1
+CUST-01327,Lima,Mes a Mes,Efectivo/Ventanilla,19,2025-03,122.88,2416.64,2,8.3,0
+CUST-01328,La Libertad,Mes a Mes,Tarjeta de Crédito,8,2026-01,116.78,903.42,0,5.3,0
+CUST-01329,La Libertad,Anual,Tarjeta de Crédito,9,2026-01,65.44,613.24,2,9.5,0
+CUST-01330,Lima,Mes a Mes,Débito Automático,6,2026-04,145.88,877.01,2,6.4,1
+CUST-01331,Arequipa,Mes a Mes,Débito Automático,8,2026-01,142.63,1188.32,1,9.7,0
+CUST-01332,La Libertad,Anual,Transferencia Bancaria,10,2025-12,174.41,1776.25,4,5.6,1
+CUST-01333,Lima,Anual,Tarjeta de Crédito,23,2024-11,148.1,3179.6,3,8.7,0
+CUST-01334,Piura,Mes a Mes,Tarjeta de Crédito,13,2025-09,139.03,1717.11,1,6.0,0
+CUST-01335,Piura,Mes a Mes,Débito Automático,52,2022-06,197.97,9998.39,2,7.1,0
+CUST-01336,La Libertad,Mes a Mes,Transferencia Bancaria,1,2026-09,85.94,80.97,1,7.7,1
+CUST-01337,Lima,Bianual,Débito Automático,13,2025-09,169.14,2164.38,5,7.6,0
+CUST-01338,La Libertad,Mes a Mes,Débito Automático,16,2025-06,69.8,1095.89,5,8.4,0
+CUST-01339,Lima,Bianual,Tarjeta de Crédito,46,2022-12,107.27,5153.08,1,6.7,1
+CUST-01340,Lima,Anual,Débito Automático,1,2026-09,90.43,88.29,3,7.1,0
+CUST-01341,Lima,Mes a Mes,Débito Automático,16,2025-06,180.19,2946.85,3,7.6,0
+CUST-01342,Lima,Mes a Mes,Tarjeta de Crédito,35,2023-11,142.06,5183.16,3,6.5,0
+CUST-01343,Cusco,Mes a Mes,Transferencia Bancaria,5,2026-05,144.39,746.5,2,7.2,0
+CUST-01344,La Libertad,Mes a Mes,Transferencia Bancaria,38,2023-08,95.2,3426.33,3,8.8,0
+CUST-01345,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,131.51,129.47,2,8.4,0
+CUST-01346,Lima,Anual,Débito Automático,24,2024-10,110.64,2562.97,0,5.0,0
+CUST-01347,Lima,Bianual,Débito Automático,49,2022-09,162.26,7727.97,2,4.7,0
+CUST-01348,Lima,Anual,Efectivo/Ventanilla,20,2025-01,100.4,1941.55,4,4.8,0
+CUST-01349,Piura,Anual,Tarjeta de Crédito,11,2025-11,204.84,2315.04,0,9.3,0
+CUST-01350,Lima,Mes a Mes,Transferencia Bancaria,1,2026-09,69.6,68.12,4,9.0,1
+CUST-01351,Cusco,Mes a Mes,Débito Automático,46,2022-12,108.71,4941.05,0,5.4,0
+CUST-01352,Arequipa,Mes a Mes,Tarjeta de Crédito,12,2025-10,220.47,2771.89,2,6.3,0
+CUST-01353,Lima,Anual,Débito Automático,1,2026-09,125.42,116.36,0,7.6,0
+CUST-01354,La Libertad,Bianual,Tarjeta de Crédito,22,2024-12,85.83,1856.98,0,6.8,0
+CUST-01355,Lima,Anual,Efectivo/Ventanilla,12,2025-10,154.86,1896.65,1,7.5,0
+CUST-01356,Cusco,Mes a Mes,Efectivo/Ventanilla,3,2026-07,123.61,348.45,3,6.8,0
+CUST-01357,Piura,Mes a Mes,Tarjeta de Crédito,5,2026-05,107.39,536.68,4,6.3,0
+CUST-01358,Lima,Anual,Tarjeta de Crédito,2,2026-08,95.69,182.03,1,5.2,0
+CUST-01359,Lima,Mes a Mes,Efectivo/Ventanilla,16,2025-06,269.58,4454.59,1,7.7,0
+CUST-01360,Arequipa,Anual,Transferencia Bancaria,18,2025-04,133.68,2316.06,1,7.6,0
+CUST-01361,Piura,Anual,Débito Automático,13,2025-09,58.35,730.32,3,5.0,1
+CUST-01362,Lima,Anual,Tarjeta de Crédito,31,2024-03,212.22,6564.12,0,5.4,0
+CUST-01363,Arequipa,Mes a Mes,Débito Automático,36,2023-10,172.5,5861.39,6,7.3,1
+CUST-01364,Arequipa,Mes a Mes,Tarjeta de Crédito,18,2025-04,110.51,1903.72,0,3.6,0
+CUST-01365,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,103.01,100.35,0,7.2,0
+CUST-01366,Lima,Mes a Mes,Tarjeta de Crédito,22,2024-12,175.31,3725.58,1,7.1,0
+CUST-01367,La Libertad,Mes a Mes,Tarjeta de Crédito,10,2025-12,133.89,1323.15,4,7.7,0
+CUST-01368,Piura,Anual,Débito Automático,16,2025-06,58.33,931.37,0,9.0,0
+CUST-01369,Lima,Anual,Tarjeta de Crédito,19,2025-03,225.43,4256.04,3,7.8,0
+CUST-01370,Lima,Mes a Mes,Transferencia Bancaria,8,2026-01,125.47,1008.82,3,8.4,0
+CUST-01371,Piura,Mes a Mes,Transferencia Bancaria,45,2023-01,212.3,9171.43,0,7.3,1
+CUST-01372,Lima,Mes a Mes,Débito Automático,3,2026-07,202.53,568.97,0,6.5,0
+CUST-01373,Cusco,Mes a Mes,Efectivo/Ventanilla,21,2025-01,99.95,2138.63,0,6.0,0
+CUST-01374,Lima,Anual,Efectivo/Ventanilla,1,2026-09,191.49,197.35,2,6.1,0
+CUST-01375,Lima,Mes a Mes,Débito Automático,47,2022-11,115.69,5184.1,2,5.5,0
+CUST-01376,Cusco,Mes a Mes,Débito Automático,3,2026-07,61.0,178.04,3,6.4,0
+CUST-01377,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,125.89,247.96,1,3.2,1
+CUST-01378,Arequipa,Bianual,Transferencia Bancaria,8,2026-01,162.89,1289.22,1,6.0,0
+CUST-01379,Lima,Anual,Efectivo/Ventanilla,9,2026-01,124.18,1124.03,3,8.5,0
+CUST-01380,Arequipa,Mes a Mes,Efectivo/Ventanilla,5,2026-05,131.18,606.98,0,8.1,0
+CUST-01381,Lima,Mes a Mes,Tarjeta de Crédito,16,2025-06,196.46,3186.71,3,5.5,0
+CUST-01382,Lima,Anual,Tarjeta de Crédito,11,2025-11,149.79,1529.15,1,8.2,0
+CUST-01383,Piura,Bianual,Débito Automático,1,2026-09,107.05,105.0,1,9.0,0
+CUST-01384,Lima,Mes a Mes,Débito Automático,7,2026-03,176.59,1270.24,2,4.5,0
+CUST-01385,La Libertad,Bianual,Tarjeta de Crédito,30,2024-04,153.9,4518.46,3,8.8,0
+CUST-01386,Lima,Bianual,Tarjeta de Crédito,22,2024-12,35.0,723.32,2,9.3,0
+CUST-01387,La Libertad,Bianual,Tarjeta de Crédito,24,2024-10,164.28,4132.19,1,5.3,0
+CUST-01388,Lima,Anual,Transferencia Bancaria,22,2024-12,162.63,3705.26,2,7.2,0
+CUST-01389,Piura,Anual,Débito Automático,7,2026-03,145.91,1042.07,4,4.4,0
+CUST-01390,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,185.13,360.45,1,5.2,1
+CUST-01391,Lima,Anual,Débito Automático,6,2026-04,114.74,649.82,0,8.1,1
+CUST-01392,Lima,Mes a Mes,Tarjeta de Crédito,33,2024-01,160.14,5508.6,2,7.9,1
+CUST-01393,Lima,Anual,Transferencia Bancaria,71,2020-11,74.49,5231.7,1,9.2,0
+CUST-01394,Arequipa,Mes a Mes,Transferencia Bancaria,13,2025-09,163.32,2188.57,1,5.8,0
+CUST-01395,Lima,Anual,Efectivo/Ventanilla,1,2026-09,232.89,224.62,4,6.3,0
+CUST-01396,Cusco,Anual,Débito Automático,3,2026-07,100.23,289.74,2,9.8,0
+CUST-01397,Lima,Mes a Mes,Tarjeta de Crédito,7,2026-03,110.81,813.0,0,9.1,0
+CUST-01398,Lima,Anual,Débito Automático,16,2025-06,113.05,1786.8,3,9.3,0
+CUST-01399,Arequipa,Mes a Mes,Tarjeta de Crédito,2,2026-08,150.85,283.08,1,7.1,0
+CUST-01400,La Libertad,Anual,Efectivo/Ventanilla,52,2022-06,97.16,4792.42,2,6.0,0
+CUST-01401,Lima,Mes a Mes,Transferencia Bancaria,9,2026-01,163.96,1450.04,2,7.4,0
+CUST-01402,Lima,Mes a Mes,Efectivo/Ventanilla,44,2023-02,183.11,7456.78,0,9.9,0
+CUST-01403,Lima,Bianual,Débito Automático,28,2024-06,169.05,4639.34,0,6.7,0
+CUST-01404,La Libertad,Mes a Mes,Efectivo/Ventanilla,26,2024-08,65.42,1657.48,2,4.9,0
+CUST-01405,La Libertad,Anual,Débito Automático,17,2025-05,189.78,3295.02,2,8.0,0
+CUST-01406,Lima,Mes a Mes,Efectivo/Ventanilla,18,2025-04,187.18,3255.17,3,4.7,0
+CUST-01407,Cusco,Mes a Mes,Débito Automático,19,2025-03,182.36,3630.22,3,8.6,0
+CUST-01408,Cusco,Mes a Mes,Débito Automático,18,2025-04,161.78,2747.51,1,8.6,1
+CUST-01409,Arequipa,Anual,Tarjeta de Crédito,15,2025-07,154.91,2316.28,2,7.8,0
+CUST-01410,Cusco,Mes a Mes,Efectivo/Ventanilla,72,2020-10,191.46,12843.06,1,3.2,0
+CUST-01411,Lima,Mes a Mes,Débito Automático,24,2024-10,231.56,5643.04,1,2.7,0
+CUST-01412,Lima,Mes a Mes,Tarjeta de Crédito,28,2024-06,102.11,3000.08,0,7.8,0
+CUST-01413,Lima,Mes a Mes,Efectivo/Ventanilla,38,2023-08,193.52,7548.55,2,7.4,1
+CUST-01414,Lima,Bianual,Tarjeta de Crédito,5,2026-05,141.12,700.13,1,9.2,0
+CUST-01415,Arequipa,Bianual,Débito Automático,2,2026-08,139.16,273.59,2,8.2,0
+CUST-01416,Piura,Mes a Mes,Tarjeta de Crédito,12,2025-10,75.86,936.31,1,9.5,0
+CUST-01417,Lima,Anual,Tarjeta de Crédito,13,2025-09,132.18,1789.95,0,7.4,0
+CUST-01418,Lima,Mes a Mes,Efectivo/Ventanilla,32,2024-02,100.12,3359.54,3,4.9,0
+CUST-01419,Lima,Anual,Transferencia Bancaria,11,2025-11,124.13,1326.58,2,6.7,0
+CUST-01420,Piura,Anual,Tarjeta de Crédito,16,2025-06,95.58,1603.94,3,4.9,0
+CUST-01421,Lima,Bianual,Efectivo/Ventanilla,14,2025-08,124.8,1642.84,1,7.2,0
+CUST-01422,Arequipa,Mes a Mes,Tarjeta de Crédito,1,2026-09,126.73,120.77,2,5.6,1
+CUST-01423,Lima,Anual,Débito Automático,18,2025-04,149.35,2504.35,7,8.1,1
+CUST-01424,Lima,Mes a Mes,Débito Automático,32,2024-02,72.34,2211.47,0,7.3,1
+CUST-01425,Piura,Bianual,Tarjeta de Crédito,4,2026-06,79.95,326.14,3,9.4,0
+CUST-01426,Piura,Mes a Mes,Débito Automático,17,2025-05,161.29,2826.6,2,4.5,0
+CUST-01427,Lima,Anual,Efectivo/Ventanilla,17,2025-05,109.12,1894.47,4,8.4,0
+CUST-01428,Piura,Anual,Transferencia Bancaria,4,2026-06,193.35,774.98,1,8.4,0
+CUST-01429,Arequipa,Anual,Débito Automático,3,2026-07,155.14,459.28,0,5.9,0
+CUST-01430,Cusco,Mes a Mes,Tarjeta de Crédito,71,2020-11,172.3,12381.71,4,8.0,0
+CUST-01431,Lima,Bianual,Transferencia Bancaria,10,2025-12,208.48,2023.94,3,7.2,0
+CUST-01432,Arequipa,Mes a Mes,Efectivo/Ventanilla,5,2026-05,131.06,674.55,2,4.3,0
+CUST-01433,Lima,Anual,Efectivo/Ventanilla,4,2026-06,119.15,480.43,0,9.3,0
+CUST-01434,La Libertad,Mes a Mes,Tarjeta de Crédito,20,2025-01,184.23,3724.08,2,7.8,0
+CUST-01435,Lima,Mes a Mes,Transferencia Bancaria,17,2025-05,167.93,2825.32,2,8.7,0
+CUST-01436,Lima,Mes a Mes,Tarjeta de Crédito,19,2025-03,136.57,2685.86,0,7.6,0
+CUST-01437,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,207.62,395.62,2,8.0,0
+CUST-01438,La Libertad,Mes a Mes,Débito Automático,41,2023-05,135.45,5384.34,2,6.0,0
+CUST-01439,Lima,Mes a Mes,Débito Automático,9,2026-01,146.47,1346.04,3,9.4,1
+CUST-01440,La Libertad,Mes a Mes,Tarjeta de Crédito,7,2026-03,145.96,1005.43,3,4.8,0
+CUST-01441,Piura,Anual,Débito Automático,12,2025-10,102.94,1279.25,2,9.6,0
+CUST-01442,Lima,Bianual,Débito Automático,9,2026-01,148.49,1289.68,2,5.9,0
+CUST-01443,La Libertad,Mes a Mes,Transferencia Bancaria,36,2023-10,207.85,7243.25,2,3.9,0
+CUST-01444,Lima,Mes a Mes,Débito Automático,48,2022-10,165.02,8202.44,3,6.2,0
+CUST-01445,Cusco,Mes a Mes,Tarjeta de Crédito,7,2026-03,146.4,1004.68,3,8.9,0
+CUST-01446,Lima,Mes a Mes,Tarjeta de Crédito,36,2023-10,137.72,4893.94,2,8.3,0
+CUST-01447,La Libertad,Anual,Efectivo/Ventanilla,28,2024-06,159.89,4312.43,3,9.0,0
+CUST-01448,Cusco,Anual,Tarjeta de Crédito,49,2022-09,178.74,8372.61,1,8.1,0
+CUST-01449,Piura,Mes a Mes,Débito Automático,6,2026-04,172.42,1039.98,3,7.2,0
+CUST-01450,La Libertad,Mes a Mes,Tarjeta de Crédito,16,2025-06,130.07,1947.05,3,6.7,0
+CUST-01451,Lima,Mes a Mes,Transferencia Bancaria,6,2026-04,159.62,990.58,2,8.9,1
+CUST-01452,Arequipa,Anual,Efectivo/Ventanilla,32,2024-02,166.6,5444.74,6,5.8,0
+CUST-01453,Cusco,Bianual,Tarjeta de Crédito,1,2026-09,99.68,94.18,0,8.6,0
+CUST-01454,Arequipa,Mes a Mes,Débito Automático,15,2025-07,152.57,2311.94,0,8.3,0
+CUST-01455,Lima,Mes a Mes,Efectivo/Ventanilla,8,2026-01,47.74,381.29,0,7.9,0
+CUST-01456,Piura,Bianual,Débito Automático,8,2026-01,166.71,1258.98,1,6.0,0
+CUST-01457,La Libertad,Bianual,Tarjeta de Crédito,19,2025-03,174.72,3172.01,1,6.8,1
+CUST-01458,La Libertad,Mes a Mes,Tarjeta de Crédito,35,2023-11,178.64,6084.64,1,6.9,0
+CUST-01459,Lima,Mes a Mes,Débito Automático,17,2025-05,127.22,2186.32,1,3.8,1
+CUST-01460,La Libertad,Mes a Mes,Débito Automático,35,2023-11,158.91,5578.72,5,8.6,0
+CUST-01461,Lima,Anual,Débito Automático,6,2026-04,209.08,1240.92,4,4.5,0
+CUST-01462,La Libertad,Mes a Mes,Transferencia Bancaria,14,2025-08,208.62,2978.78,3,5.8,1
+CUST-01463,Lima,Mes a Mes,Efectivo/Ventanilla,11,2025-11,143.69,1609.88,1,9.3,0
+CUST-01464,La Libertad,Anual,Débito Automático,1,2026-09,151.27,151.32,1,5.9,0
+CUST-01465,Piura,Mes a Mes,Transferencia Bancaria,15,2025-07,194.99,2990.1,0,8.8,0
+CUST-01466,Lima,Anual,Débito Automático,20,2025-01,77.46,1492.58,2,9.4,0
+CUST-01467,Piura,Mes a Mes,Tarjeta de Crédito,17,2025-05,130.46,2294.47,3,2.9,1
+CUST-01468,Lima,Mes a Mes,Débito Automático,24,2024-10,205.1,4922.1,4,8.1,0
+CUST-01469,Cusco,Anual,Efectivo/Ventanilla,16,2025-06,188.88,3103.4,1,8.9,0
+CUST-01470,La Libertad,Mes a Mes,Transferencia Bancaria,2,2026-08,161.62,320.34,0,8.9,0
+CUST-01471,Arequipa,Bianual,Transferencia Bancaria,3,2026-07,77.24,219.76,1,4.6,0
+CUST-01472,La Libertad,Mes a Mes,Transferencia Bancaria,17,2025-05,142.75,2403.73,0,7.9,0
+CUST-01473,Cusco,Mes a Mes,Tarjeta de Crédito,6,2026-04,118.45,688.13,2,8.5,0
+CUST-01474,Lima,Anual,Efectivo/Ventanilla,2,2026-08,159.9,323.21,2,4.5,0
+CUST-01475,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,108.58,1172.71,0,3.3,0
+CUST-01476,La Libertad,Bianual,Efectivo/Ventanilla,15,2025-07,98.84,1525.14,0,9.7,0
+CUST-01477,Cusco,Mes a Mes,Tarjeta de Crédito,8,2026-01,52.08,420.04,0,5.0,1
+CUST-01478,La Libertad,Mes a Mes,Débito Automático,23,2024-11,199.98,4640.89,0,4.3,0
+CUST-01479,La Libertad,Mes a Mes,Tarjeta de Crédito,19,2025-03,127.01,2288.26,1,4.4,0
+CUST-01480,Lima,Mes a Mes,Débito Automático,8,2026-01,152.07,1274.9,4,6.6,1
+CUST-01481,Cusco,Anual,Tarjeta de Crédito,26,2024-08,144.9,3878.23,2,7.3,0
+CUST-01482,Lima,Anual,Tarjeta de Crédito,19,2025-03,96.97,1884.01,2,6.2,0
+CUST-01483,Arequipa,Mes a Mes,Tarjeta de Crédito,19,2025-03,88.34,1616.24,3,3.7,0
+CUST-01484,Lima,Mes a Mes,Débito Automático,15,2025-07,99.76,1480.89,2,6.0,0
+CUST-01485,Lima,Anual,Débito Automático,1,2026-09,112.46,105.47,2,8.2,0
+CUST-01486,Lima,Bianual,Tarjeta de Crédito,22,2024-12,161.5,3517.48,4,6.8,0
+CUST-01487,Lima,Mes a Mes,Efectivo/Ventanilla,9,2026-01,109.19,922.73,2,7.3,0
+CUST-01488,La Libertad,Mes a Mes,Tarjeta de Crédito,52,2022-06,223.59,11532.44,3,8.3,0
+CUST-01489,Lima,Mes a Mes,Tarjeta de Crédito,31,2024-03,191.22,5953.51,0,6.8,0
+CUST-01490,Lima,Bianual,Transferencia Bancaria,16,2025-06,181.38,2817.12,4,6.9,0
+CUST-01491,Lima,Mes a Mes,Tarjeta de Crédito,6,2026-04,139.62,825.0,1,6.8,0
+CUST-01492,Lima,Mes a Mes,Débito Automático,5,2026-05,213.14,1101.76,2,6.4,1
+CUST-01493,Lima,Anual,Tarjeta de Crédito,8,2026-01,135.19,1010.26,3,8.1,0
+CUST-01494,Lima,Mes a Mes,Débito Automático,12,2025-10,143.59,1762.58,4,4.9,0
+CUST-01495,Arequipa,Mes a Mes,Efectivo/Ventanilla,7,2026-03,152.65,1006.79,1,5.7,0
+CUST-01496,La Libertad,Mes a Mes,Débito Automático,14,2025-08,176.58,2286.15,2,8.6,1
+CUST-01497,Arequipa,Mes a Mes,Tarjeta de Crédito,4,2026-06,173.66,655.83,0,5.5,1
+CUST-01498,Lima,Mes a Mes,Débito Automático,69,2021-01,123.62,8695.73,2,4.5,1
+CUST-01499,Lima,Mes a Mes,Débito Automático,3,2026-07,121.02,353.14,3,8.3,0
+CUST-01500,Cusco,Mes a Mes,Transferencia Bancaria,49,2022-09,173.8,8800.88,3,7.1,0
+CUST-01501,Arequipa,Anual,Débito Automático,45,2023-01,177.19,7879.56,1,9.2,0
+CUST-01502,Lima,Anual,Débito Automático,14,2025-08,127.3,1644.78,3,7.3,0
+CUST-01503,Lima,Anual,Tarjeta de Crédito,24,2024-10,73.58,1789.18,1,8.2,0
+CUST-01504,Lima,Mes a Mes,Débito Automático,11,2025-11,135.67,1394.37,3,7.1,0
+CUST-01505,Lima,Mes a Mes,Débito Automático,18,2025-04,173.06,3185.54,3,4.7,1
+CUST-01506,Lima,Mes a Mes,Transferencia Bancaria,8,2026-01,226.24,1704.68,3,9.1,0
+CUST-01507,Arequipa,Mes a Mes,Transferencia Bancaria,7,2026-03,91.09,615.25,1,6.7,1
+CUST-01508,Arequipa,Mes a Mes,Efectivo/Ventanilla,16,2025-06,125.8,2050.97,1,8.0,0
+CUST-01509,Arequipa,Anual,Efectivo/Ventanilla,13,2025-09,127.48,1730.24,1,7.4,0
+CUST-01510,La Libertad,Mes a Mes,Transferencia Bancaria,16,2025-06,206.01,3191.63,4,8.8,0
+CUST-01511,Cusco,Mes a Mes,Débito Automático,7,2026-03,143.43,1031.94,1,7.9,0
+CUST-01512,La Libertad,Mes a Mes,Transferencia Bancaria,9,2026-01,104.17,885.78,1,9.0,0
+CUST-01513,Piura,Anual,Transferencia Bancaria,2,2026-08,170.14,348.76,0,7.6,0
+CUST-01514,Lima,Mes a Mes,Transferencia Bancaria,1,2026-09,126.79,127.48,1,7.8,1
+CUST-01515,Lima,Anual,Tarjeta de Crédito,6,2026-04,89.9,509.76,4,4.5,1
+CUST-01516,Lima,Mes a Mes,Débito Automático,2,2026-08,104.83,201.13,1,4.7,0
+CUST-01517,Arequipa,Bianual,Transferencia Bancaria,2,2026-08,223.03,418.02,2,6.9,0
+CUST-01518,Cusco,Bianual,Transferencia Bancaria,31,2024-03,162.29,4878.98,1,4.9,0
+CUST-01519,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,149.85,141.83,0,8.5,1
+CUST-01520,Piura,Mes a Mes,Débito Automático,20,2025-01,133.75,2684.95,1,6.6,0
+CUST-01521,Lima,Mes a Mes,Débito Automático,6,2026-04,158.15,995.67,1,9.3,1
+CUST-01522,Piura,Mes a Mes,Débito Automático,37,2023-09,157.61,5374.15,2,7.0,0
+CUST-01523,Lima,Anual,Transferencia Bancaria,12,2025-10,158.15,1879.43,2,7.8,0
+CUST-01524,Lima,Anual,Débito Automático,7,2026-03,150.17,1045.49,1,4.8,0
+CUST-01525,Lima,Anual,Débito Automático,14,2025-08,184.1,2677.52,1,7.9,0
+CUST-01526,Lima,Anual,Efectivo/Ventanilla,9,2026-01,146.04,1295.67,2,7.0,0
+CUST-01527,Lima,Mes a Mes,Débito Automático,15,2025-07,100.99,1500.73,2,7.0,0
+CUST-01528,Lima,Mes a Mes,Transferencia Bancaria,3,2026-07,117.44,345.74,2,5.1,0
+CUST-01529,Cusco,Anual,Tarjeta de Crédito,72,2020-10,55.94,3846.26,3,6.7,0
+CUST-01530,Arequipa,Mes a Mes,Transferencia Bancaria,10,2025-12,236.21,2190.34,2,8.8,0
+CUST-01531,Lima,Anual,Tarjeta de Crédito,8,2026-01,183.82,1431.04,3,7.4,0
+CUST-01532,Arequipa,Mes a Mes,Efectivo/Ventanilla,23,2024-11,107.65,2294.8,4,4.0,0
+CUST-01533,La Libertad,Mes a Mes,Efectivo/Ventanilla,9,2026-01,132.32,1180.83,2,7.9,0
+CUST-01534,Lima,Bianual,Débito Automático,33,2024-01,116.34,3685.45,1,7.5,0
+CUST-01535,Lima,Mes a Mes,Débito Automático,11,2025-11,214.41,2333.44,3,5.9,1
+CUST-01536,Lima,Bianual,Débito Automático,23,2024-11,81.11,1748.86,0,7.6,0
+CUST-01537,Lima,Bianual,Transferencia Bancaria,3,2026-07,150.15,469.03,2,7.6,0
+CUST-01538,La Libertad,Anual,Efectivo/Ventanilla,34,2023-12,140.12,4936.96,2,9.0,0
+CUST-01539,Lima,Anual,Tarjeta de Crédito,24,2024-10,182.21,4131.21,1,6.1,0
+CUST-01540,Arequipa,Anual,Tarjeta de Crédito,5,2026-05,140.32,676.8,1,8.0,0
+CUST-01541,La Libertad,Bianual,Débito Automático,3,2026-07,65.88,197.59,0,7.8,0
+CUST-01542,Lima,Mes a Mes,Transferencia Bancaria,7,2026-03,133.7,872.67,3,5.2,1
+CUST-01543,Arequipa,Mes a Mes,Efectivo/Ventanilla,68,2021-02,101.25,6651.56,3,8.5,0
+CUST-01544,Lima,Anual,Débito Automático,6,2026-04,148.58,849.26,3,7.5,0
+CUST-01545,Piura,Mes a Mes,Tarjeta de Crédito,11,2025-11,209.54,2394.87,1,3.8,0
+CUST-01546,Lima,Mes a Mes,Débito Automático,1,2026-09,66.73,68.79,1,4.4,1
+CUST-01547,Cusco,Mes a Mes,Tarjeta de Crédito,10,2025-12,108.99,1084.86,1,7.3,0
+CUST-01548,Arequipa,Anual,Tarjeta de Crédito,16,2025-06,120.13,1898.33,6,8.0,0
+CUST-01549,Lima,Bianual,Débito Automático,56,2022-02,127.83,7451.94,3,8.0,0
+CUST-01550,Arequipa,Mes a Mes,Tarjeta de Crédito,14,2025-08,178.31,2599.23,1,8.8,1
+CUST-01551,Piura,Bianual,Débito Automático,31,2024-03,137.19,4448.58,4,7.2,0
+CUST-01552,Arequipa,Anual,Tarjeta de Crédito,15,2025-07,163.71,2299.22,1,6.2,0
+CUST-01553,Cusco,Anual,Tarjeta de Crédito,1,2026-09,116.84,109.93,1,8.7,0
+CUST-01554,Cusco,Anual,Débito Automático,7,2026-03,155.35,1096.12,2,9.2,0
+CUST-01555,Lima,Anual,Transferencia Bancaria,16,2025-06,180.0,2852.31,0,7.7,0
+CUST-01556,Lima,Mes a Mes,Transferencia Bancaria,55,2022-03,112.05,5684.52,2,8.5,1
+CUST-01557,Arequipa,Anual,Tarjeta de Crédito,36,2023-10,180.16,6019.15,0,8.5,0
+CUST-01558,Lima,Mes a Mes,Débito Automático,5,2026-05,147.36,762.92,1,8.8,0
+CUST-01559,Cusco,Bianual,Transferencia Bancaria,5,2026-05,192.05,991.89,3,9.3,0
+CUST-01560,Piura,Bianual,Efectivo/Ventanilla,5,2026-05,135.94,656.89,3,6.8,0
+CUST-01561,Lima,Mes a Mes,Débito Automático,47,2022-11,162.16,7894.65,2,6.2,0
+CUST-01562,Lima,Mes a Mes,Débito Automático,35,2023-11,143.17,4996.81,1,8.6,0
+CUST-01563,La Libertad,Anual,Débito Automático,27,2024-07,140.67,3892.16,0,6.8,0
+CUST-01564,Lima,Mes a Mes,Tarjeta de Crédito,9,2026-01,156.65,1375.4,1,7.7,0
+CUST-01565,Cusco,Bianual,Débito Automático,13,2025-09,169.16,2055.57,1,4.3,0
+CUST-01566,Lima,Mes a Mes,Tarjeta de Crédito,12,2025-10,88.77,1040.08,2,8.7,0
+CUST-01567,La Libertad,Mes a Mes,Transferencia Bancaria,6,2026-04,209.51,1231.23,3,4.3,0
+CUST-01568,Lima,Bianual,Tarjeta de Crédito,13,2025-09,61.32,790.48,2,9.2,0
+CUST-01569,Arequipa,Anual,Tarjeta de Crédito,1,2026-09,114.18,106.61,3,8.7,0
+CUST-01570,Lima,Anual,Tarjeta de Crédito,3,2026-07,140.76,442.92,1,6.2,0
+CUST-01571,Arequipa,Mes a Mes,Tarjeta de Crédito,40,2023-06,163.56,6226.65,0,6.6,0
+CUST-01572,Lima,Anual,Débito Automático,26,2024-08,215.93,5309.96,0,9.5,0
+CUST-01573,La Libertad,Anual,Débito Automático,10,2025-12,61.38,606.73,1,7.8,0
+CUST-01574,Cusco,Anual,Efectivo/Ventanilla,14,2025-08,122.15,1692.72,1,7.6,0
+CUST-01575,Lima,Anual,Débito Automático,9,2026-01,49.29,433.49,1,7.9,0
+CUST-01576,Lima,Anual,Transferencia Bancaria,25,2024-09,146.42,3734.98,5,6.7,0
+CUST-01577,Lima,Mes a Mes,Efectivo/Ventanilla,28,2024-06,157.23,4345.93,1,8.0,0
+CUST-01578,Arequipa,Mes a Mes,Débito Automático,26,2024-08,216.59,5627.18,1,8.6,0
+CUST-01579,Arequipa,Anual,Tarjeta de Crédito,24,2024-10,150.43,3661.18,0,4.6,0
+CUST-01580,Arequipa,Mes a Mes,Tarjeta de Crédito,5,2026-05,191.98,886.23,3,4.6,1
+CUST-01581,Lima,Anual,Efectivo/Ventanilla,8,2026-01,171.27,1362.19,2,5.8,0
+CUST-01582,Lima,Mes a Mes,Efectivo/Ventanilla,12,2025-10,125.41,1557.51,2,6.5,0
+CUST-01583,Arequipa,Anual,Transferencia Bancaria,8,2026-01,81.6,602.05,2,6.5,0
+CUST-01584,Lima,Anual,Débito Automático,26,2024-08,157.38,3980.06,3,5.2,0
+CUST-01585,Piura,Mes a Mes,Transferencia Bancaria,8,2026-01,77.86,648.05,1,6.0,0
+CUST-01586,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,203.28,589.05,1,6.4,0
+CUST-01587,La Libertad,Mes a Mes,Tarjeta de Crédito,10,2025-12,137.71,1349.06,1,8.8,0
+CUST-01588,Lima,Anual,Débito Automático,71,2020-11,198.78,14785.18,3,8.1,0
+CUST-01589,Lima,Anual,Débito Automático,5,2026-05,123.39,583.58,3,7.2,0
+CUST-01590,La Libertad,Mes a Mes,Transferencia Bancaria,18,2025-04,157.1,2625.56,3,6.2,0
+CUST-01591,La Libertad,Anual,Tarjeta de Crédito,11,2025-11,154.42,1752.51,1,6.6,0
+CUST-01592,Piura,Mes a Mes,Débito Automático,2,2026-08,142.97,295.35,3,6.1,0
+CUST-01593,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,125.53,1601.49,3,9.2,1
+CUST-01594,Lima,Bianual,Efectivo/Ventanilla,22,2024-12,162.66,3531.45,0,7.1,0
+CUST-01595,La Libertad,Mes a Mes,Transferencia Bancaria,13,2025-09,103.32,1381.65,3,7.8,0
+CUST-01596,Arequipa,Mes a Mes,Débito Automático,38,2023-08,90.58,3497.16,4,7.0,0
+CUST-01597,Lima,Mes a Mes,Débito Automático,7,2026-03,200.93,1342.47,1,9.2,0
+CUST-01598,Lima,Mes a Mes,Débito Automático,2,2026-08,177.72,327.79,3,7.7,0
+CUST-01599,Lima,Mes a Mes,Efectivo/Ventanilla,50,2022-08,147.97,7268.0,2,5.3,0
+CUST-01600,Cusco,Mes a Mes,Tarjeta de Crédito,9,2026-01,219.93,2042.03,1,4.6,0
+CUST-01601,Lima,Anual,Tarjeta de Crédito,16,2025-06,132.95,2204.75,5,9.2,0
+CUST-01602,Lima,Mes a Mes,Tarjeta de Crédito,29,2024-05,204.52,6193.88,1,3.2,1
+CUST-01603,Lima,Mes a Mes,Tarjeta de Crédito,8,2026-01,152.9,1265.21,0,6.0,0
+CUST-01604,Lima,Mes a Mes,Transferencia Bancaria,23,2024-11,98.89,2264.02,2,7.7,0
+CUST-01605,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,228.16,669.28,1,8.4,0
+CUST-01606,Arequipa,Anual,Débito Automático,7,2026-03,189.58,1354.57,4,5.9,1
+CUST-01607,Lima,Bianual,Débito Automático,3,2026-07,139.55,425.42,1,7.5,0
+CUST-01608,Cusco,Mes a Mes,Tarjeta de Crédito,31,2024-03,177.72,5454.0,1,5.4,1
+CUST-01609,Lima,Bianual,Efectivo/Ventanilla,5,2026-05,126.83,590.62,2,6.8,0
+CUST-01610,Arequipa,Anual,Débito Automático,23,2024-11,182.31,4362.49,1,7.9,0
+CUST-01611,Cusco,Anual,Efectivo/Ventanilla,52,2022-06,37.4,1904.4,3,5.1,0
+CUST-01612,La Libertad,Mes a Mes,Transferencia Bancaria,14,2025-08,99.11,1342.08,5,5.1,0
+CUST-01613,Arequipa,Mes a Mes,Débito Automático,14,2025-08,189.07,2651.86,0,6.6,0
+CUST-01614,Lima,Mes a Mes,Débito Automático,12,2025-10,133.77,1617.44,3,6.7,1
+CUST-01615,Lima,Anual,Débito Automático,8,2026-01,154.34,1169.76,2,6.1,0
+CUST-01616,La Libertad,Mes a Mes,Transferencia Bancaria,12,2025-10,84.39,1041.85,0,6.4,1
+CUST-01617,Piura,Bianual,Débito Automático,17,2025-05,228.15,3714.46,2,6.2,0
+CUST-01618,La Libertad,Mes a Mes,Tarjeta de Crédito,72,2020-10,198.57,13500.25,1,7.9,1
+CUST-01619,Arequipa,Mes a Mes,Tarjeta de Crédito,50,2022-08,135.97,6613.8,2,3.6,1
+CUST-01620,La Libertad,Anual,Transferencia Bancaria,36,2023-10,126.79,4632.78,2,8.6,0
+CUST-01621,Lima,Mes a Mes,Débito Automático,40,2023-06,191.33,8001.49,0,8.9,0
+CUST-01622,Lima,Mes a Mes,Tarjeta de Crédito,12,2025-10,234.21,2881.36,2,7.7,0
+CUST-01623,Arequipa,Anual,Tarjeta de Crédito,20,2025-01,187.92,3917.17,3,7.4,0
+CUST-01624,Piura,Bianual,Tarjeta de Crédito,41,2023-05,242.73,9337.68,2,9.4,0
+CUST-01625,Lima,Anual,Transferencia Bancaria,9,2026-01,103.49,865.52,0,8.6,0
+CUST-01626,La Libertad,Anual,Débito Automático,59,2021-11,108.13,6331.83,3,8.8,0
+CUST-01627,Lima,Anual,Transferencia Bancaria,10,2025-12,91.5,876.33,3,8.6,0
+CUST-01628,Arequipa,Bianual,Transferencia Bancaria,17,2025-05,164.88,2880.45,2,6.3,0
+CUST-01629,Lima,Mes a Mes,Tarjeta de Crédito,23,2024-11,152.9,3542.58,3,8.9,1
+CUST-01630,Lima,Mes a Mes,Transferencia Bancaria,55,2022-03,138.16,7949.82,1,6.4,1
+CUST-01631,La Libertad,Mes a Mes,Tarjeta de Crédito,6,2026-04,181.42,1037.49,3,8.1,0
+CUST-01632,Lima,Mes a Mes,Débito Automático,25,2024-09,200.45,4926.82,2,5.6,1
+CUST-01633,La Libertad,Anual,Transferencia Bancaria,14,2025-08,76.35,1053.04,1,6.8,0
+CUST-01634,La Libertad,Anual,Tarjeta de Crédito,6,2026-04,118.14,674.17,5,7.9,0
+CUST-01635,Piura,Anual,Tarjeta de Crédito,27,2024-07,181.91,4895.42,2,7.2,0
+CUST-01636,Lima,Mes a Mes,Débito Automático,15,2025-07,123.95,1817.65,2,5.0,1
+CUST-01637,Lima,Anual,Efectivo/Ventanilla,20,2025-01,109.08,2133.77,3,5.3,0
+CUST-01638,Lima,Mes a Mes,Tarjeta de Crédito,8,2026-01,190.83,1476.5,1,9.5,0
+CUST-01639,Piura,Anual,Débito Automático,12,2025-10,86.97,962.45,2,4.6,1
+CUST-01640,Piura,Anual,Tarjeta de Crédito,18,2025-04,131.43,2337.05,2,6.6,0
+CUST-01641,Arequipa,Mes a Mes,Transferencia Bancaria,10,2025-12,159.79,1539.71,3,9.1,0
+CUST-01642,Cusco,Mes a Mes,Transferencia Bancaria,4,2026-06,119.18,438.66,1,8.4,0
+CUST-01643,Arequipa,Mes a Mes,Tarjeta de Crédito,59,2021-11,180.24,10209.14,2,8.8,0
+CUST-01644,Arequipa,Anual,Efectivo/Ventanilla,13,2025-09,119.4,1484.25,3,6.1,1
+CUST-01645,Lima,Bianual,Débito Automático,24,2024-10,208.39,4857.06,1,7.7,0
+CUST-01646,La Libertad,Anual,Tarjeta de Crédito,10,2025-12,139.34,1305.81,2,7.4,0
+CUST-01647,Lima,Mes a Mes,Efectivo/Ventanilla,8,2026-01,175.21,1382.05,1,8.8,1
+CUST-01648,Cusco,Mes a Mes,Efectivo/Ventanilla,10,2025-12,178.57,1803.59,3,5.1,0
+CUST-01649,La Libertad,Anual,Transferencia Bancaria,10,2025-12,116.76,1169.85,3,6.0,0
+CUST-01650,La Libertad,Anual,Efectivo/Ventanilla,15,2025-07,52.59,808.17,3,6.8,0
+CUST-01651,Lima,Mes a Mes,Débito Automático,15,2025-07,161.23,2367.08,1,8.5,0
+CUST-01652,Lima,Mes a Mes,Efectivo/Ventanilla,13,2025-09,148.25,1903.12,3,8.2,1
+CUST-01653,Lima,Anual,Débito Automático,3,2026-07,170.01,522.96,2,4.8,0
+CUST-01654,Lima,Mes a Mes,Débito Automático,13,2025-09,134.81,1709.77,2,8.1,1
+CUST-01655,Lima,Mes a Mes,Débito Automático,4,2026-06,125.63,508.15,4,7.2,0
+CUST-01656,Piura,Mes a Mes,Tarjeta de Crédito,3,2026-07,235.38,689.54,1,8.6,1
+CUST-01657,Arequipa,Mes a Mes,Débito Automático,49,2022-09,78.74,3759.12,0,6.5,0
+CUST-01658,Lima,Bianual,Débito Automático,17,2025-05,178.03,3083.49,0,4.5,0
+CUST-01659,Lima,Bianual,Débito Automático,20,2025-01,119.14,2246.33,3,8.9,0
+CUST-01660,Lima,Anual,Débito Automático,10,2025-12,129.89,1252.16,2,7.3,0
+CUST-01661,Arequipa,Mes a Mes,Tarjeta de Crédito,44,2023-02,130.73,5459.58,1,9.6,0
+CUST-01662,Arequipa,Mes a Mes,Tarjeta de Crédito,19,2025-03,108.85,1999.25,0,6.7,1
+CUST-01663,Piura,Mes a Mes,Débito Automático,27,2024-07,170.71,4378.48,1,7.5,1
+CUST-01664,Lima,Mes a Mes,Transferencia Bancaria,9,2026-01,207.58,1859.48,2,6.6,0
+CUST-01665,Piura,Anual,Efectivo/Ventanilla,58,2021-12,166.15,9865.69,1,9.5,0
+CUST-01666,Cusco,Mes a Mes,Transferencia Bancaria,31,2024-03,149.65,4742.42,0,5.7,0
+CUST-01667,Lima,Mes a Mes,Débito Automático,35,2023-11,100.61,3406.5,6,6.5,0
+CUST-01668,Piura,Mes a Mes,Transferencia Bancaria,4,2026-06,168.26,705.71,1,5.9,1
+CUST-01669,Lima,Mes a Mes,Débito Automático,6,2026-04,242.04,1448.18,2,6.2,1
+CUST-01670,Cusco,Mes a Mes,Débito Automático,7,2026-03,127.87,869.96,1,7.6,0
+CUST-01671,Lima,Mes a Mes,Débito Automático,6,2026-04,128.08,790.47,1,7.8,0
+CUST-01672,Cusco,Bianual,Transferencia Bancaria,35,2023-11,119.75,4253.63,1,9.3,0
+CUST-01673,Cusco,Mes a Mes,Débito Automático,1,2026-09,122.98,125.12,2,6.1,0
+CUST-01674,Cusco,Mes a Mes,Débito Automático,2,2026-08,35.0,66.18,0,6.5,1
+CUST-01675,La Libertad,Bianual,Débito Automático,6,2026-04,163.23,960.66,1,4.1,0
+CUST-01676,Lima,Bianual,Efectivo/Ventanilla,5,2026-05,106.95,551.88,1,8.4,0
+CUST-01677,Lima,Anual,Tarjeta de Crédito,5,2026-05,72.54,357.45,3,4.6,0
+CUST-01678,Lima,Anual,Débito Automático,29,2024-05,178.89,5233.72,1,5.4,0
+CUST-01679,Lima,Mes a Mes,Tarjeta de Crédito,15,2025-07,96.31,1439.49,1,9.5,0
+CUST-01680,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,129.76,133.59,3,9.0,0
+CUST-01681,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,210.99,2221.08,3,6.7,0
+CUST-01682,Piura,Anual,Débito Automático,10,2025-12,81.59,811.67,1,5.2,0
+CUST-01683,Arequipa,Anual,Efectivo/Ventanilla,3,2026-07,76.03,213.5,0,7.6,1
+CUST-01684,Cusco,Mes a Mes,Débito Automático,21,2025-01,157.12,3331.62,4,7.7,0
+CUST-01685,Lima,Mes a Mes,Transferencia Bancaria,22,2024-12,196.73,4393.66,2,8.8,0
+CUST-01686,Cusco,Anual,Débito Automático,23,2024-11,74.15,1578.51,1,8.6,0
+CUST-01687,Piura,Mes a Mes,Tarjeta de Crédito,24,2024-10,163.35,3951.19,2,7.8,1
+CUST-01688,Lima,Anual,Tarjeta de Crédito,1,2026-09,171.14,166.67,1,7.1,0
+CUST-01689,Arequipa,Anual,Tarjeta de Crédito,56,2022-02,52.34,2743.84,1,6.6,0
+CUST-01690,La Libertad,Anual,Débito Automático,31,2024-03,180.93,5466.3,1,6.1,0
+CUST-01691,Lima,Anual,Transferencia Bancaria,43,2023-03,184.45,7497.11,3,7.0,0
+CUST-01692,Arequipa,Bianual,Débito Automático,1,2026-09,130.97,127.57,3,8.6,0
+CUST-01693,Lima,Mes a Mes,Transferencia Bancaria,49,2022-09,201.36,9570.29,2,7.9,0
+CUST-01694,Lima,Anual,Transferencia Bancaria,30,2024-04,196.14,5978.29,2,8.1,0
+CUST-01695,Lima,Anual,Tarjeta de Crédito,33,2024-01,149.64,5040.08,4,8.3,0
+CUST-01696,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,124.68,249.09,2,6.6,0
+CUST-01697,Lima,Mes a Mes,Transferencia Bancaria,25,2024-09,101.22,2335.52,2,8.5,0
+CUST-01698,Lima,Mes a Mes,Tarjeta de Crédito,58,2021-12,143.31,8653.04,1,3.9,0
+CUST-01699,Piura,Mes a Mes,Transferencia Bancaria,21,2025-01,170.64,3616.44,2,5.6,0
+CUST-01700,Arequipa,Anual,Débito Automático,16,2025-06,130.41,1928.91,1,4.9,0
+CUST-01701,Piura,Anual,Tarjeta de Crédito,53,2022-05,46.11,2508.47,3,5.6,0
+CUST-01702,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,202.09,2103.03,4,8.7,0
+CUST-01703,Lima,Mes a Mes,Tarjeta de Crédito,17,2025-05,153.56,2598.25,3,7.9,0
+CUST-01704,Arequipa,Bianual,Débito Automático,12,2025-10,127.92,1505.36,1,6.0,0
+CUST-01705,Lima,Mes a Mes,Tarjeta de Crédito,49,2022-09,183.57,8766.27,0,9.1,0
+CUST-01706,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,213.61,442.46,0,8.6,0
+CUST-01707,Arequipa,Anual,Efectivo/Ventanilla,13,2025-09,35.0,444.47,0,7.4,0
+CUST-01708,Lima,Mes a Mes,Tarjeta de Crédito,21,2025-01,164.54,3212.76,3,6.0,1
+CUST-01709,Arequipa,Mes a Mes,Transferencia Bancaria,29,2024-05,80.8,2444.11,2,7.5,1
+CUST-01710,La Libertad,Mes a Mes,Efectivo/Ventanilla,16,2025-06,167.46,2785.65,2,7.9,0
+CUST-01711,Lima,Mes a Mes,Débito Automático,44,2023-02,150.76,6692.98,0,7.8,0
+CUST-01712,Lima,Anual,Débito Automático,52,2022-06,173.61,8854.62,5,6.9,0
+CUST-01713,La Libertad,Mes a Mes,Transferencia Bancaria,2,2026-08,122.53,228.41,2,6.5,0
+CUST-01714,Lima,Mes a Mes,Transferencia Bancaria,10,2025-12,60.7,620.84,1,6.7,0
+CUST-01715,Lima,Anual,Efectivo/Ventanilla,1,2026-09,124.73,115.98,2,8.9,1
+CUST-01716,Piura,Anual,Tarjeta de Crédito,8,2026-01,163.31,1213.61,3,4.9,0
+CUST-01717,Lima,Mes a Mes,Débito Automático,14,2025-08,190.69,2642.59,3,8.3,0
+CUST-01718,La Libertad,Mes a Mes,Tarjeta de Crédito,44,2023-02,92.27,3819.6,1,5.6,0
+CUST-01719,Piura,Anual,Débito Automático,34,2023-12,191.22,5987.9,4,9.1,0
+CUST-01720,Lima,Mes a Mes,Débito Automático,3,2026-07,115.85,338.86,4,5.0,0
+CUST-01721,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,161.31,302.57,0,8.9,0
+CUST-01722,Lima,Anual,Débito Automático,17,2025-05,122.05,1952.16,3,5.0,0
+CUST-01723,Lima,Bianual,Transferencia Bancaria,14,2025-08,153.2,1994.66,3,5.7,0
+CUST-01724,Lima,Anual,Tarjeta de Crédito,6,2026-04,185.13,1051.53,2,8.0,0
+CUST-01725,La Libertad,Anual,Tarjeta de Crédito,42,2023-04,89.78,3819.83,3,4.7,0
+CUST-01726,Lima,Anual,Débito Automático,48,2022-10,114.4,5629.36,2,4.6,0
+CUST-01727,Arequipa,Mes a Mes,Débito Automático,10,2025-12,153.32,1500.74,8,8.5,0
+CUST-01728,Piura,Anual,Débito Automático,40,2023-06,253.07,9979.58,2,7.6,0
+CUST-01729,Cusco,Mes a Mes,Efectivo/Ventanilla,9,2026-01,106.16,883.06,1,7.8,0
+CUST-01730,Arequipa,Mes a Mes,Transferencia Bancaria,25,2024-09,236.81,5499.98,1,8.0,0
+CUST-01731,Lima,Anual,Tarjeta de Crédito,12,2025-10,235.2,2691.11,0,6.6,0
+CUST-01732,Arequipa,Anual,Débito Automático,3,2026-07,140.62,417.94,0,6.9,0
+CUST-01733,Arequipa,Mes a Mes,Efectivo/Ventanilla,48,2022-10,131.58,6417.79,1,8.9,0
+CUST-01734,Lima,Bianual,Débito Automático,11,2025-11,113.86,1250.77,0,9.8,0
+CUST-01735,Lima,Mes a Mes,Débito Automático,24,2024-10,141.93,3307.46,1,6.1,0
+CUST-01736,Cusco,Mes a Mes,Tarjeta de Crédito,9,2026-01,81.7,687.79,3,4.7,1
+CUST-01737,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,141.57,144.61,1,8.2,0
+CUST-01738,Lima,Anual,Débito Automático,2,2026-08,212.36,410.83,1,6.5,0
+CUST-01739,Lima,Anual,Débito Automático,13,2025-09,117.5,1551.46,1,8.7,0
+CUST-01740,Lima,Mes a Mes,Efectivo/Ventanilla,22,2024-12,134.17,2912.44,1,9.0,0
+CUST-01741,Cusco,Anual,Débito Automático,8,2026-01,68.45,556.38,1,5.9,0
+CUST-01742,La Libertad,Mes a Mes,Débito Automático,22,2024-12,161.83,3695.36,4,8.0,0
+CUST-01743,La Libertad,Anual,Tarjeta de Crédito,22,2024-12,156.9,3588.95,2,6.9,0
+CUST-01744,Lima,Mes a Mes,Efectivo/Ventanilla,22,2024-12,147.87,3219.19,2,9.1,0
+CUST-01745,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,135.24,1734.38,1,4.4,1
+CUST-01746,Lima,Bianual,Efectivo/Ventanilla,45,2023-01,131.83,5662.65,1,8.3,0
+CUST-01747,Lima,Mes a Mes,Transferencia Bancaria,13,2025-09,167.59,2269.42,1,8.8,0
+CUST-01748,Lima,Mes a Mes,Débito Automático,11,2025-11,143.7,1548.34,1,6.4,0
+CUST-01749,La Libertad,Anual,Efectivo/Ventanilla,5,2026-05,159.17,745.38,2,8.8,0
+CUST-01750,Lima,Bianual,Tarjeta de Crédito,7,2026-03,154.67,1056.98,2,7.8,0
+CUST-01751,Arequipa,Mes a Mes,Débito Automático,1,2026-09,195.55,183.14,2,7.5,0
+CUST-01752,Lima,Mes a Mes,Tarjeta de Crédito,19,2025-03,175.46,3284.83,5,9.5,0
+CUST-01753,Lima,Mes a Mes,Débito Automático,6,2026-04,153.68,915.59,4,9.7,0
+CUST-01754,Lima,Mes a Mes,Débito Automático,7,2026-03,213.33,1439.41,5,9.5,0
+CUST-01755,Piura,Mes a Mes,Débito Automático,27,2024-07,163.91,4112.75,3,7.6,1
+CUST-01756,Cusco,Anual,Tarjeta de Crédito,8,2026-01,203.72,1699.28,2,9.6,0
+CUST-01757,Piura,Bianual,Transferencia Bancaria,5,2026-05,172.31,879.24,1,9.4,0
+CUST-01758,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,62.11,255.66,2,9.0,0
+CUST-01759,Lima,Mes a Mes,Efectivo/Ventanilla,27,2024-07,203.72,5322.74,3,4.7,1
+CUST-01760,Arequipa,Mes a Mes,Débito Automático,3,2026-07,151.08,461.81,0,8.1,1
+CUST-01761,Lima,Mes a Mes,Débito Automático,11,2025-11,142.66,1542.74,2,6.8,0
+CUST-01762,Cusco,Bianual,Débito Automático,13,2025-09,157.66,1939.19,4,7.6,0
+CUST-01763,Lima,Mes a Mes,Débito Automático,21,2025-01,129.48,2545.53,1,5.0,0
+CUST-01764,Lima,Mes a Mes,Débito Automático,19,2025-03,155.22,2845.54,2,6.9,0
+CUST-01765,Lima,Anual,Transferencia Bancaria,30,2024-04,118.37,3330.51,1,7.1,0
+CUST-01766,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,202.34,212.41,6,8.1,1
+CUST-01767,La Libertad,Anual,Efectivo/Ventanilla,7,2026-03,139.89,907.15,1,6.8,0
+CUST-01768,Lima,Mes a Mes,Débito Automático,6,2026-04,127.78,749.31,3,4.7,0
+CUST-01769,Lima,Anual,Efectivo/Ventanilla,3,2026-07,103.38,303.56,2,9.9,0
+CUST-01770,Lima,Bianual,Débito Automático,7,2026-03,157.09,1054.64,4,9.7,0
+CUST-01771,Lima,Anual,Débito Automático,7,2026-03,153.42,1067.79,0,5.7,0
+CUST-01772,La Libertad,Bianual,Efectivo/Ventanilla,14,2025-08,162.48,2137.09,2,8.2,0
+CUST-01773,Cusco,Mes a Mes,Tarjeta de Crédito,20,2025-01,98.77,2018.68,3,8.4,0
+CUST-01774,Piura,Mes a Mes,Débito Automático,9,2026-01,72.95,632.4,0,7.4,0
+CUST-01775,La Libertad,Anual,Tarjeta de Crédito,23,2024-11,173.15,3970.0,0,6.5,0
+CUST-01776,Lima,Anual,Débito Automático,8,2026-01,211.81,1716.56,0,7.0,0
+CUST-01777,La Libertad,Mes a Mes,Transferencia Bancaria,7,2026-03,98.81,716.28,1,6.7,0
+CUST-01778,Lima,Mes a Mes,Tarjeta de Crédito,15,2025-07,216.52,3340.86,3,7.9,0
+CUST-01779,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,157.78,157.63,3,5.9,1
+CUST-01780,Cusco,Mes a Mes,Débito Automático,2,2026-08,144.68,280.82,1,7.9,0
+CUST-01781,Lima,Mes a Mes,Tarjeta de Crédito,10,2025-12,127.11,1252.56,1,8.8,0
+CUST-01782,Piura,Anual,Tarjeta de Crédito,52,2022-06,82.7,4386.13,2,9.1,0
+CUST-01783,Lima,Mes a Mes,Tarjeta de Crédito,24,2024-10,189.45,4701.76,1,6.4,0
+CUST-01784,Arequipa,Mes a Mes,Débito Automático,2,2026-08,110.1,205.55,2,4.8,1
+CUST-01785,La Libertad,Anual,Transferencia Bancaria,34,2023-12,109.91,3624.95,4,5.9,0
+CUST-01786,Cusco,Anual,Efectivo/Ventanilla,24,2024-10,189.64,4646.46,3,7.2,0
+CUST-01787,Arequipa,Bianual,Efectivo/Ventanilla,17,2025-05,60.27,1000.12,1,5.0,0
+CUST-01788,Arequipa,Anual,Transferencia Bancaria,31,2024-03,76.44,2282.41,1,9.4,0
+CUST-01789,Lima,Mes a Mes,Efectivo/Ventanilla,10,2025-12,144.18,1403.55,3,9.1,1
+CUST-01790,Arequipa,Anual,Tarjeta de Crédito,5,2026-05,158.2,789.71,1,7.1,0
+CUST-01791,Lima,Mes a Mes,Transferencia Bancaria,13,2025-09,166.81,2276.9,1,2.9,0
+CUST-01792,La Libertad,Mes a Mes,Débito Automático,15,2025-07,131.42,1939.93,2,8.4,0
+CUST-01793,Arequipa,Anual,Tarjeta de Crédito,14,2025-08,258.87,3432.48,1,5.9,0
+CUST-01794,La Libertad,Bianual,Débito Automático,15,2025-07,134.74,1902.2,1,5.3,0
+CUST-01795,Lima,Mes a Mes,Tarjeta de Crédito,54,2022-04,134.61,6727.44,3,5.2,0
+CUST-01796,Lima,Mes a Mes,Débito Automático,42,2023-04,109.14,4550.17,2,4.8,1
+CUST-01797,La Libertad,Mes a Mes,Efectivo/Ventanilla,38,2023-08,150.58,5669.37,5,5.2,1
+CUST-01798,Lima,Mes a Mes,Débito Automático,30,2024-04,172.67,4903.9,1,7.2,0
+CUST-01799,Lima,Mes a Mes,Débito Automático,52,2022-06,199.16,10463.95,2,7.3,0
+CUST-01800,Lima,Anual,Tarjeta de Crédito,2,2026-08,77.98,158.51,0,9.4,1
+CUST-01801,Piura,Mes a Mes,Débito Automático,6,2026-04,133.93,766.36,6,6.7,1
+CUST-01802,La Libertad,Bianual,Débito Automático,13,2025-09,165.1,2070.61,1,7.6,0
+CUST-01803,Lima,Anual,Débito Automático,34,2023-12,171.42,6112.47,1,5.9,0
+CUST-01804,Lima,Anual,Tarjeta de Crédito,13,2025-09,145.29,1829.57,0,5.6,0
+CUST-01805,Lima,Anual,Tarjeta de Crédito,25,2024-09,169.41,4315.31,4,5.7,0
+CUST-01806,La Libertad,Mes a Mes,Transferencia Bancaria,3,2026-07,108.6,318.91,3,5.3,1
+CUST-01807,La Libertad,Mes a Mes,Transferencia Bancaria,6,2026-04,215.11,1320.52,2,6.5,1
+CUST-01808,Lima,Anual,Tarjeta de Crédito,24,2024-10,189.67,4643.0,0,4.8,0
+CUST-01809,Lima,Anual,Débito Automático,4,2026-06,84.48,340.22,5,7.9,0
+CUST-01810,Lima,Anual,Débito Automático,8,2026-01,96.62,797.02,0,5.5,0
+CUST-01811,La Libertad,Mes a Mes,Transferencia Bancaria,6,2026-04,97.89,612.07,1,5.3,0
+CUST-01812,La Libertad,Bianual,Débito Automático,8,2026-01,175.51,1397.62,2,7.9,0
+CUST-01813,Lima,Mes a Mes,Débito Automático,23,2024-11,87.19,1906.85,2,8.5,0
+CUST-01814,Lima,Bianual,Transferencia Bancaria,9,2026-01,130.1,1137.91,4,9.4,0
+CUST-01815,Lima,Bianual,Tarjeta de Crédito,15,2025-07,165.46,2528.01,2,5.6,0
+CUST-01816,Piura,Mes a Mes,Débito Automático,2,2026-08,142.02,285.35,3,8.9,0
+CUST-01817,Lima,Anual,Débito Automático,30,2024-04,156.65,4432.16,2,8.0,0
+CUST-01818,La Libertad,Mes a Mes,Efectivo/Ventanilla,9,2026-01,97.04,809.31,1,8.5,0
+CUST-01819,Arequipa,Mes a Mes,Efectivo/Ventanilla,19,2025-03,171.77,3292.3,1,9.6,0
+CUST-01820,Lima,Mes a Mes,Transferencia Bancaria,24,2024-10,117.41,2684.39,1,9.2,0
+CUST-01821,Lima,Anual,Tarjeta de Crédito,5,2026-05,130.39,642.14,5,4.6,1
+CUST-01822,Lima,Bianual,Tarjeta de Crédito,39,2023-07,155.7,6176.0,1,5.7,0
+CUST-01823,Arequipa,Anual,Efectivo/Ventanilla,18,2025-04,149.64,2675.06,3,7.8,0
+CUST-01824,La Libertad,Mes a Mes,Efectivo/Ventanilla,11,2025-11,146.08,1495.73,3,7.2,0
+CUST-01825,Arequipa,Anual,Débito Automático,4,2026-06,111.22,420.02,1,4.2,0
+CUST-01826,Arequipa,Bianual,Transferencia Bancaria,52,2022-06,131.52,6486.92,2,7.9,0
+CUST-01827,Lima,Mes a Mes,Débito Automático,26,2024-08,145.1,3597.26,3,9.1,1
+CUST-01828,Piura,Bianual,Débito Automático,5,2026-05,83.12,412.9,0,6.0,0
+CUST-01829,La Libertad,Mes a Mes,Transferencia Bancaria,8,2026-01,124.19,979.13,0,7.0,0
+CUST-01830,Lima,Anual,Tarjeta de Crédito,30,2024-04,162.45,4612.33,2,8.7,0
+CUST-01831,Piura,Mes a Mes,Efectivo/Ventanilla,22,2024-12,87.52,1788.31,2,5.8,0
+CUST-01832,Arequipa,Mes a Mes,Débito Automático,27,2024-07,197.05,5013.29,0,6.2,0
+CUST-01833,Arequipa,Mes a Mes,Tarjeta de Crédito,11,2025-11,202.13,2330.09,1,7.2,0
+CUST-01834,La Libertad,Anual,Efectivo/Ventanilla,23,2024-11,88.97,2007.25,0,8.6,0
+CUST-01835,Cusco,Mes a Mes,Efectivo/Ventanilla,9,2026-01,206.09,1915.56,5,9.0,0
+CUST-01836,La Libertad,Mes a Mes,Débito Automático,5,2026-05,138.54,713.72,2,7.6,0
+CUST-01837,Lima,Anual,Tarjeta de Crédito,19,2025-03,163.83,3070.74,1,6.7,0
+CUST-01838,Lima,Bianual,Tarjeta de Crédito,68,2021-02,122.65,8439.19,7,7.1,0
+CUST-01839,Piura,Mes a Mes,Débito Automático,7,2026-03,186.54,1234.04,1,6.7,1
+CUST-01840,Lima,Mes a Mes,Efectivo/Ventanilla,12,2025-10,163.27,1977.84,1,2.4,1
+CUST-01841,Lima,Mes a Mes,Efectivo/Ventanilla,21,2025-01,108.36,2174.09,3,4.1,0
+CUST-01842,Lima,Mes a Mes,Débito Automático,15,2025-07,92.57,1427.66,3,8.6,1
+CUST-01843,Lima,Anual,Débito Automático,34,2023-12,79.29,2509.53,3,9.0,0
+CUST-01844,Arequipa,Anual,Débito Automático,26,2024-08,153.46,4071.79,1,7.0,0
+CUST-01845,Piura,Anual,Efectivo/Ventanilla,2,2026-08,170.76,318.64,0,6.5,0
+CUST-01846,Lima,Mes a Mes,Débito Automático,72,2020-10,174.29,12982.5,2,7.8,0
+CUST-01847,Lima,Anual,Tarjeta de Crédito,26,2024-08,139.69,3485.02,2,7.7,0
+CUST-01848,Lima,Anual,Tarjeta de Crédito,36,2023-10,92.94,3362.81,2,9.4,0
+CUST-01849,Cusco,Anual,Tarjeta de Crédito,19,2025-03,114.31,2135.78,3,5.8,0
+CUST-01850,Arequipa,Anual,Débito Automático,35,2023-11,196.86,6666.99,1,7.4,0
+CUST-01851,Lima,Anual,Débito Automático,3,2026-07,123.19,371.01,1,7.5,0
+CUST-01852,Cusco,Anual,Efectivo/Ventanilla,8,2026-01,151.45,1263.91,1,6.0,0
+CUST-01853,Cusco,Mes a Mes,Efectivo/Ventanilla,38,2023-08,96.6,3396.83,2,6.0,1
+CUST-01854,Cusco,Bianual,Transferencia Bancaria,5,2026-05,160.15,832.34,2,5.8,0
+CUST-01855,Piura,Mes a Mes,Débito Automático,2,2026-08,124.4,248.6,1,9.2,0
+CUST-01856,Lima,Anual,Débito Automático,28,2024-06,192.1,5513.01,1,8.3,0
+CUST-01857,La Libertad,Mes a Mes,Tarjeta de Crédito,33,2024-01,179.81,5755.15,1,8.3,0
+CUST-01858,Lima,Anual,Débito Automático,4,2026-06,122.69,481.6,0,7.4,0
+CUST-01859,Cusco,Anual,Efectivo/Ventanilla,35,2023-11,139.3,5036.15,0,7.5,0
+CUST-01860,La Libertad,Mes a Mes,Tarjeta de Crédito,21,2025-01,120.2,2458.39,3,5.2,1
+CUST-01861,La Libertad,Mes a Mes,Débito Automático,14,2025-08,81.13,1123.9,1,8.9,0
+CUST-01862,La Libertad,Anual,Efectivo/Ventanilla,32,2024-02,106.42,3141.95,2,7.9,0
+CUST-01863,Lima,Anual,Efectivo/Ventanilla,10,2025-12,153.92,1447.8,3,8.5,0
+CUST-01864,Arequipa,Mes a Mes,Débito Automático,4,2026-06,159.64,640.74,2,9.0,1
+CUST-01865,Piura,Mes a Mes,Tarjeta de Crédito,7,2026-03,151.68,1075.78,2,6.4,0
+CUST-01866,Piura,Anual,Débito Automático,13,2025-09,131.42,1701.18,3,7.3,0
+CUST-01867,Lima,Mes a Mes,Tarjeta de Crédito,14,2025-08,186.99,2457.2,0,6.4,0
+CUST-01868,Lima,Mes a Mes,Débito Automático,30,2024-04,147.86,4337.78,1,7.3,0
+CUST-01869,Lima,Mes a Mes,Tarjeta de Crédito,29,2024-05,176.65,4949.5,1,7.1,0
+CUST-01870,La Libertad,Mes a Mes,Efectivo/Ventanilla,16,2025-06,65.18,1026.65,2,5.7,0
+CUST-01871,Cusco,Mes a Mes,Tarjeta de Crédito,28,2024-06,35.0,1012.48,5,5.9,0
+CUST-01872,Lima,Mes a Mes,Débito Automático,4,2026-06,157.77,644.25,2,5.9,1
+CUST-01873,Arequipa,Mes a Mes,Tarjeta de Crédito,1,2026-09,80.89,75.3,1,8.1,0
+CUST-01874,Cusco,Mes a Mes,Débito Automático,38,2023-08,135.44,5330.66,2,5.2,0
+CUST-01875,La Libertad,Mes a Mes,Efectivo/Ventanilla,2,2026-08,131.41,257.91,4,9.0,0
+CUST-01876,Arequipa,Mes a Mes,Tarjeta de Crédito,6,2026-04,216.43,1320.27,2,5.6,0
+CUST-01877,Arequipa,Mes a Mes,Débito Automático,22,2024-12,163.0,3364.4,2,5.1,1
+CUST-01878,Arequipa,Anual,Débito Automático,10,2025-12,152.46,1535.57,2,6.6,0
+CUST-01879,Lima,Mes a Mes,Transferencia Bancaria,38,2023-08,182.66,6599.04,1,8.1,0
+CUST-01880,Arequipa,Mes a Mes,Débito Automático,7,2026-03,161.58,1105.03,1,4.6,1
+CUST-01881,La Libertad,Mes a Mes,Transferencia Bancaria,1,2026-09,124.4,114.72,0,9.1,0
+CUST-01882,Cusco,Mes a Mes,Débito Automático,7,2026-03,193.22,1270.99,1,6.0,0
+CUST-01883,Arequipa,Anual,Débito Automático,16,2025-06,95.06,1417.49,1,5.2,0
+CUST-01884,La Libertad,Anual,Tarjeta de Crédito,9,2026-01,159.55,1365.83,0,8.3,0
+CUST-01885,Lima,Bianual,Efectivo/Ventanilla,14,2025-08,75.36,984.35,3,4.8,0
+CUST-01886,Lima,Anual,Efectivo/Ventanilla,38,2023-08,154.18,5917.13,2,7.6,0
+CUST-01887,Lima,Bianual,Débito Automático,44,2023-02,153.68,6246.49,5,5.7,0
+CUST-01888,Lima,Mes a Mes,Tarjeta de Crédito,6,2026-04,220.44,1323.05,1,9.3,0
+CUST-01889,La Libertad,Mes a Mes,Débito Automático,12,2025-10,74.58,839.73,1,8.0,0
+CUST-01890,Piura,Mes a Mes,Tarjeta de Crédito,15,2025-07,117.96,1845.26,1,5.8,0
+CUST-01891,Lima,Mes a Mes,Tarjeta de Crédito,54,2022-04,182.02,10235.04,3,7.2,0
+CUST-01892,Lima,Mes a Mes,Efectivo/Ventanilla,72,2020-10,160.09,10942.27,2,9.0,0
+CUST-01893,Cusco,Anual,Efectivo/Ventanilla,5,2026-05,153.11,765.45,0,5.2,0
+CUST-01894,Lima,Mes a Mes,Tarjeta de Crédito,24,2024-10,101.97,2260.41,2,7.0,0
+CUST-01895,Arequipa,Bianual,Tarjeta de Crédito,9,2026-01,118.41,1109.52,2,9.5,0
+CUST-01896,La Libertad,Anual,Efectivo/Ventanilla,1,2026-09,201.03,198.62,1,6.1,0
+CUST-01897,Arequipa,Mes a Mes,Transferencia Bancaria,1,2026-09,142.68,132.07,0,6.1,0
+CUST-01898,Lima,Mes a Mes,Débito Automático,12,2025-10,161.89,1873.76,0,5.8,0
+CUST-01899,Lima,Mes a Mes,Débito Automático,13,2025-09,139.82,1690.41,2,9.2,0
+CUST-01900,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,91.76,89.11,2,5.7,0
+CUST-01901,Arequipa,Mes a Mes,Débito Automático,21,2025-01,187.02,3955.27,4,5.1,0
+CUST-01902,Lima,Mes a Mes,Débito Automático,7,2026-03,167.65,1151.35,2,7.2,0
+CUST-01903,La Libertad,Mes a Mes,Débito Automático,15,2025-07,248.75,3618.88,1,7.4,0
+CUST-01904,Lima,Mes a Mes,Tarjeta de Crédito,7,2026-03,99.3,650.26,3,6.4,0
+CUST-01905,La Libertad,Bianual,Débito Automático,4,2026-06,182.02,693.02,2,5.9,0
+CUST-01906,Lima,Anual,Débito Automático,10,2025-12,85.98,802.21,0,8.3,0
+CUST-01907,Piura,Bianual,Débito Automático,5,2026-05,152.08,779.39,1,5.7,0
+CUST-01908,Lima,Mes a Mes,Transferencia Bancaria,14,2025-08,188.94,2480.05,0,5.5,1
+CUST-01909,Lima,Mes a Mes,Efectivo/Ventanilla,4,2026-06,51.75,206.46,3,5.3,1
+CUST-01910,Lima,Anual,Tarjeta de Crédito,13,2025-09,135.78,1702.58,3,7.2,0
+CUST-01911,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,119.66,454.41,3,7.4,1
+CUST-01912,Cusco,Mes a Mes,Efectivo/Ventanilla,21,2025-01,113.41,2389.07,4,5.1,1
+CUST-01913,Piura,Anual,Débito Automático,26,2024-08,162.33,4133.68,0,6.3,0
+CUST-01914,Lima,Anual,Débito Automático,3,2026-07,195.43,569.88,0,8.9,0
+CUST-01915,Lima,Mes a Mes,Débito Automático,12,2025-10,139.0,1663.11,1,8.0,0
+CUST-01916,La Libertad,Mes a Mes,Débito Automático,2,2026-08,154.25,303.52,2,9.5,0
+CUST-01917,Cusco,Mes a Mes,Tarjeta de Crédito,17,2025-05,150.14,2448.89,2,4.2,1
+CUST-01918,Arequipa,Mes a Mes,Efectivo/Ventanilla,6,2026-04,145.08,864.11,2,8.5,0
+CUST-01919,Lima,Mes a Mes,Tarjeta de Crédito,14,2025-08,95.98,1353.17,2,7.2,0
+CUST-01920,Lima,Mes a Mes,Tarjeta de Crédito,14,2025-08,194.88,2519.52,0,8.0,0
+CUST-01921,La Libertad,Mes a Mes,Efectivo/Ventanilla,47,2022-11,158.28,7294.57,2,5.6,0
+CUST-01922,Lima,Bianual,Débito Automático,15,2025-07,162.77,2264.53,0,4.0,0
+CUST-01923,Arequipa,Anual,Débito Automático,16,2025-06,108.71,1642.36,1,8.0,0
+CUST-01924,Lima,Anual,Tarjeta de Crédito,10,2025-12,124.34,1234.53,1,5.6,0
+CUST-01925,La Libertad,Mes a Mes,Tarjeta de Crédito,54,2022-04,137.07,7643.11,0,5.7,1
+CUST-01926,Lima,Mes a Mes,Débito Automático,28,2024-06,75.96,2200.82,1,8.0,0
+CUST-01927,Arequipa,Mes a Mes,Tarjeta de Crédito,7,2026-03,69.04,449.01,2,6.6,0
+CUST-01928,Lima,Mes a Mes,Tarjeta de Crédito,34,2023-12,117.97,3908.63,2,8.1,0
+CUST-01929,Arequipa,Mes a Mes,Transferencia Bancaria,11,2025-11,168.51,1845.81,1,5.4,0
+CUST-01930,Lima,Anual,Tarjeta de Crédito,32,2024-02,115.61,3474.29,3,7.4,0
+CUST-01931,Arequipa,Anual,Débito Automático,32,2024-02,99.15,3234.69,0,5.7,0
+CUST-01932,Arequipa,Mes a Mes,Débito Automático,4,2026-06,108.34,440.62,3,6.6,0
+CUST-01933,Arequipa,Mes a Mes,Tarjeta de Crédito,22,2024-12,124.51,2841.76,0,7.3,0
+CUST-01934,Arequipa,Bianual,Débito Automático,7,2026-03,129.08,832.27,2,5.7,0
+CUST-01935,La Libertad,Mes a Mes,Efectivo/Ventanilla,7,2026-03,242.45,1609.18,0,8.1,0
+CUST-01936,Cusco,Mes a Mes,Tarjeta de Crédito,7,2026-03,192.46,1384.31,3,4.2,1
+CUST-01937,Lima,Mes a Mes,Débito Automático,24,2024-10,191.11,4619.55,1,5.7,0
+CUST-01938,Cusco,Anual,Transferencia Bancaria,5,2026-05,197.59,1023.78,4,4.3,0
+CUST-01939,Lima,Bianual,Tarjeta de Crédito,1,2026-09,100.05,92.79,3,8.2,0
+CUST-01940,Lima,Mes a Mes,Débito Automático,23,2024-11,89.99,2064.81,2,7.3,0
+CUST-01941,Lima,Bianual,Transferencia Bancaria,4,2026-06,95.19,378.47,0,5.8,0
+CUST-01942,Lima,Anual,Efectivo/Ventanilla,2,2026-08,205.05,379.19,2,8.8,0
+CUST-01943,La Libertad,Mes a Mes,Transferencia Bancaria,5,2026-05,120.38,593.93,3,8.6,0
+CUST-01944,La Libertad,Mes a Mes,Débito Automático,9,2026-01,88.69,797.6,1,7.5,0
+CUST-01945,La Libertad,Mes a Mes,Tarjeta de Crédito,12,2025-10,125.61,1424.22,1,8.0,1
+CUST-01946,Arequipa,Bianual,Transferencia Bancaria,1,2026-09,134.26,128.29,2,7.7,0
+CUST-01947,Lima,Mes a Mes,Débito Automático,64,2021-06,157.08,10085.74,3,8.2,0
+CUST-01948,Lima,Anual,Débito Automático,23,2024-11,156.29,3525.94,1,7.6,0
+CUST-01949,Lima,Mes a Mes,Efectivo/Ventanilla,8,2026-01,107.73,889.02,0,8.1,0
+CUST-01950,Lima,Anual,Débito Automático,7,2026-03,175.85,1187.26,1,9.4,0
+CUST-01951,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,116.24,1220.67,0,8.4,0
+CUST-01952,Lima,Anual,Tarjeta de Crédito,18,2025-04,137.97,2602.75,1,7.1,0
+CUST-01953,Arequipa,Anual,Tarjeta de Crédito,3,2026-07,175.9,547.99,0,8.2,0
+CUST-01954,La Libertad,Anual,Débito Automático,4,2026-06,116.12,429.07,1,8.0,0
+CUST-01955,Piura,Bianual,Transferencia Bancaria,36,2023-10,119.38,4384.47,2,8.2,0
+CUST-01956,Piura,Mes a Mes,Tarjeta de Crédito,6,2026-04,171.63,962.17,3,9.6,0
+CUST-01957,Arequipa,Anual,Tarjeta de Crédito,9,2026-01,106.4,884.41,1,6.0,0
+CUST-01958,Lima,Mes a Mes,Transferencia Bancaria,37,2023-09,127.68,4514.31,4,5.6,0
+CUST-01959,Arequipa,Mes a Mes,Transferencia Bancaria,20,2025-01,170.01,3247.24,3,9.1,0
+CUST-01960,La Libertad,Mes a Mes,Efectivo/Ventanilla,8,2026-01,237.43,1949.8,2,4.9,1
+CUST-01961,Lima,Mes a Mes,Tarjeta de Crédito,21,2025-01,172.24,3661.84,1,8.1,0
+CUST-01962,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,166.27,174.19,3,8.4,1
+CUST-01963,Cusco,Bianual,Efectivo/Ventanilla,24,2024-10,168.89,4104.01,3,4.6,0
+CUST-01964,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,96.71,1225.01,2,6.2,0
+CUST-01965,Arequipa,Anual,Débito Automático,31,2024-03,150.2,4706.77,1,8.4,0
+CUST-01966,Arequipa,Mes a Mes,Débito Automático,56,2022-02,143.66,8446.64,2,8.8,0
+CUST-01967,Lima,Mes a Mes,Transferencia Bancaria,47,2022-11,159.47,7587.42,2,8.2,0
+CUST-01968,Lima,Mes a Mes,Tarjeta de Crédito,44,2023-02,150.24,6736.28,4,6.3,0
+CUST-01969,Lima,Bianual,Transferencia Bancaria,13,2025-09,162.09,2195.64,1,9.5,0
+CUST-01970,Lima,Bianual,Tarjeta de Crédito,9,2026-01,130.98,1101.93,0,8.4,0
+CUST-01971,Lima,Bianual,Débito Automático,12,2025-10,147.64,1792.27,6,6.5,0
+CUST-01972,Cusco,Bianual,Tarjeta de Crédito,22,2024-12,89.75,2034.93,2,8.1,0
+CUST-01973,Lima,Mes a Mes,Débito Automático,39,2023-07,130.6,5317.86,2,6.5,0
+CUST-01974,Arequipa,Mes a Mes,Tarjeta de Crédito,5,2026-05,207.59,983.38,1,9.7,0
+CUST-01975,Lima,Anual,Tarjeta de Crédito,46,2022-12,159.35,7223.89,5,8.0,0
+CUST-01976,Piura,Mes a Mes,Tarjeta de Crédito,31,2024-03,144.06,4503.7,2,5.7,0
+CUST-01977,Lima,Mes a Mes,Transferencia Bancaria,70,2020-12,230.33,15351.95,1,5.3,0
+CUST-01978,Lima,Mes a Mes,Transferencia Bancaria,39,2023-07,83.76,3260.31,3,7.2,1
+CUST-01979,Cusco,Anual,Transferencia Bancaria,6,2026-04,95.07,543.89,0,6.6,0
+CUST-01980,Cusco,Anual,Débito Automático,3,2026-07,222.07,641.79,1,7.1,0
+CUST-01981,Lima,Mes a Mes,Débito Automático,3,2026-07,147.07,431.24,3,8.6,0
+CUST-01982,Cusco,Mes a Mes,Tarjeta de Crédito,7,2026-03,134.08,928.04,5,8.1,0
+CUST-01983,Lima,Anual,Efectivo/Ventanilla,18,2025-04,91.04,1603.35,2,8.5,0
+CUST-01984,Lima,Anual,Transferencia Bancaria,30,2024-04,165.15,4875.8,1,6.3,0
+CUST-01985,Lima,Mes a Mes,Transferencia Bancaria,42,2023-04,169.5,6825.81,2,9.1,0
+CUST-01986,Lima,Anual,Débito Automático,18,2025-04,95.75,1621.24,2,7.6,0
+CUST-01987,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,138.69,128.45,1,9.5,0
+CUST-01988,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,129.9,491.27,1,3.4,0
+CUST-01989,Lima,Anual,Débito Automático,2,2026-08,156.52,311.68,3,6.0,0
+CUST-01990,La Libertad,Anual,Débito Automático,9,2026-01,94.63,870.57,2,9.4,0
+CUST-01991,La Libertad,Mes a Mes,Efectivo/Ventanilla,13,2025-09,201.34,2465.62,0,6.1,1
+CUST-01992,Lima,Anual,Débito Automático,1,2026-09,186.21,173.94,2,4.7,0
+CUST-01993,Arequipa,Anual,Débito Automático,8,2026-01,128.66,1047.2,3,7.3,0
+CUST-01994,Lima,Anual,Débito Automático,4,2026-06,135.26,519.22,1,8.7,0
+CUST-01995,La Libertad,Anual,Efectivo/Ventanilla,19,2025-03,138.86,2753.62,2,6.5,1
+CUST-01996,La Libertad,Anual,Tarjeta de Crédito,12,2025-10,109.98,1336.73,1,4.4,0
+CUST-01997,Piura,Mes a Mes,Transferencia Bancaria,13,2025-09,125.05,1564.65,1,6.4,0
+CUST-01998,Lima,Mes a Mes,Efectivo/Ventanilla,11,2025-11,132.84,1399.34,1,3.8,0
+CUST-01999,Lima,Mes a Mes,Débito Automático,57,2022-01,217.58,12254.24,3,3.7,0
+CUST-02000,Lima,Mes a Mes,Tarjeta de Crédito,5,2026-05,187.6,872.61,1,6.9,1
+CUST-02001,Lima,Anual,Débito Automático,14,2025-08,187.06,2449.4,4,8.6,0
+CUST-02002,Lima,Mes a Mes,Débito Automático,24,2024-10,161.65,3657.93,1,8.0,0
+CUST-02003,Piura,Mes a Mes,Transferencia Bancaria,15,2025-07,94.72,1450.23,6,8.2,1
+CUST-02004,Lima,Mes a Mes,Transferencia Bancaria,48,2022-10,143.13,6779.56,2,5.4,0
+CUST-02005,Lima,Mes a Mes,Tarjeta de Crédito,9,2026-01,188.67,1564.52,1,8.1,1
+CUST-02006,La Libertad,Mes a Mes,Tarjeta de Crédito,12,2025-10,88.38,1068.57,1,7.8,1
+CUST-02007,Lima,Anual,Tarjeta de Crédito,2,2026-08,173.64,338.63,2,5.2,0
+CUST-02008,La Libertad,Mes a Mes,Débito Automático,17,2025-05,249.52,4184.2,2,6.8,0
+CUST-02009,Lima,Anual,Débito Automático,7,2026-03,192.78,1279.07,2,3.8,0
+CUST-02010,Lima,Bianual,Débito Automático,4,2026-06,208.63,827.62,4,7.4,0
+CUST-02011,Lima,Mes a Mes,Débito Automático,15,2025-07,154.83,2432.28,1,3.8,0
+CUST-02012,Lima,Mes a Mes,Transferencia Bancaria,14,2025-08,188.56,2453.86,1,6.3,1
+CUST-02013,Piura,Mes a Mes,Débito Automático,2,2026-08,112.7,215.69,2,9.1,0
+CUST-02014,Lima,Anual,Débito Automático,22,2024-12,180.81,3785.25,1,8.4,0
+CUST-02015,Arequipa,Anual,Tarjeta de Crédito,18,2025-04,174.45,2990.35,3,9.4,0
+CUST-02016,Lima,Mes a Mes,Efectivo/Ventanilla,4,2026-06,158.05,612.75,1,7.8,0
+CUST-02017,Lima,Mes a Mes,Débito Automático,12,2025-10,204.22,2515.22,4,8.3,0
+CUST-02018,Cusco,Bianual,Débito Automático,23,2024-11,120.75,2884.65,2,4.0,0
+CUST-02019,Lima,Mes a Mes,Tarjeta de Crédito,14,2025-08,136.58,1809.42,0,7.7,0
+CUST-02020,La Libertad,Mes a Mes,Transferencia Bancaria,10,2025-12,149.3,1478.94,4,7.4,1
+CUST-02021,Piura,Bianual,Tarjeta de Crédito,8,2026-01,98.67,791.57,2,4.8,0
+CUST-02022,Arequipa,Anual,Transferencia Bancaria,17,2025-05,155.21,2606.48,1,6.1,0
+CUST-02023,Piura,Bianual,Efectivo/Ventanilla,51,2022-07,67.65,3368.83,2,6.8,0
+CUST-02024,Lima,Anual,Transferencia Bancaria,21,2025-01,192.11,3812.25,0,7.7,0
+CUST-02025,Lima,Anual,Tarjeta de Crédito,2,2026-08,147.1,289.34,0,5.4,0
+CUST-02026,Lima,Mes a Mes,Tarjeta de Crédito,12,2025-10,121.56,1418.11,4,9.3,0
+CUST-02027,La Libertad,Anual,Débito Automático,40,2023-06,107.45,4398.67,1,9.0,0
+CUST-02028,Piura,Bianual,Efectivo/Ventanilla,2,2026-08,134.44,274.06,1,7.4,0
+CUST-02029,Lima,Anual,Tarjeta de Crédito,72,2020-10,175.97,11876.96,1,8.3,0
+CUST-02030,La Libertad,Mes a Mes,Débito Automático,54,2022-04,169.65,8533.63,4,7.4,1
+CUST-02031,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,113.25,235.12,1,6.9,1
+CUST-02032,Arequipa,Mes a Mes,Débito Automático,49,2022-09,106.93,5185.16,6,9.0,0
+CUST-02033,Lima,Mes a Mes,Tarjeta de Crédito,9,2026-01,174.56,1620.55,2,8.7,0
+CUST-02034,Piura,Mes a Mes,Tarjeta de Crédito,34,2023-12,112.49,3547.6,1,7.8,0
+CUST-02035,Arequipa,Anual,Tarjeta de Crédito,10,2025-12,147.7,1459.94,1,8.5,0
+CUST-02036,Lima,Anual,Transferencia Bancaria,11,2025-11,150.57,1639.92,3,9.9,0
+CUST-02037,Lima,Mes a Mes,Débito Automático,19,2025-03,159.04,3118.13,2,8.9,0
+CUST-02038,Lima,Anual,Tarjeta de Crédito,27,2024-07,183.62,4624.03,1,7.9,0
+CUST-02039,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,88.17,83.87,2,3.6,1
+CUST-02040,Lima,Mes a Mes,Transferencia Bancaria,17,2025-05,59.0,975.77,1,9.1,0
+CUST-02041,Cusco,Mes a Mes,Transferencia Bancaria,4,2026-06,119.46,493.4,0,5.4,0
+CUST-02042,Arequipa,Mes a Mes,Tarjeta de Crédito,8,2026-01,226.07,1884.62,1,8.1,0
+CUST-02043,Arequipa,Mes a Mes,Tarjeta de Crédito,8,2026-01,236.0,1980.61,2,7.0,0
+CUST-02044,Lima,Mes a Mes,Débito Automático,12,2025-10,227.4,2850.76,1,8.2,0
+CUST-02045,Cusco,Mes a Mes,Efectivo/Ventanilla,8,2026-01,136.32,1004.16,2,8.7,0
+CUST-02046,La Libertad,Anual,Tarjeta de Crédito,3,2026-07,64.8,180.05,2,6.9,0
+CUST-02047,Lima,Mes a Mes,Transferencia Bancaria,3,2026-07,39.56,111.46,1,6.8,1
+CUST-02048,La Libertad,Anual,Débito Automático,1,2026-09,117.37,113.3,0,8.9,0
+CUST-02049,Arequipa,Anual,Débito Automático,12,2025-10,136.09,1678.63,2,7.8,0
+CUST-02050,Lima,Anual,Tarjeta de Crédito,56,2022-02,203.53,11808.51,3,6.6,0
+CUST-02051,Lima,Bianual,Efectivo/Ventanilla,3,2026-07,184.05,521.39,1,3.9,0
+CUST-02052,Lima,Mes a Mes,Tarjeta de Crédito,53,2022-05,155.23,8231.77,5,4.5,0
+CUST-02053,Lima,Mes a Mes,Efectivo/Ventanilla,24,2024-10,104.96,2617.93,2,6.3,0
+CUST-02054,Piura,Bianual,Tarjeta de Crédito,19,2025-03,101.76,1895.32,1,7.6,0
+CUST-02055,Cusco,Mes a Mes,Tarjeta de Crédito,19,2025-03,156.44,2774.58,1,6.3,1
+CUST-02056,La Libertad,Anual,Débito Automático,32,2024-02,176.37,5528.23,2,7.6,0
+CUST-02057,Lima,Anual,Transferencia Bancaria,3,2026-07,162.63,472.69,1,3.8,0
+CUST-02058,Lima,Anual,Débito Automático,13,2025-09,98.44,1273.44,1,8.7,0
+CUST-02059,La Libertad,Bianual,Efectivo/Ventanilla,22,2024-12,174.28,3746.07,0,8.9,0
+CUST-02060,Arequipa,Bianual,Efectivo/Ventanilla,16,2025-06,164.17,2422.51,2,7.8,0
+CUST-02061,Lima,Anual,Efectivo/Ventanilla,33,2024-01,96.82,3352.32,2,7.8,0
+CUST-02062,Arequipa,Mes a Mes,Tarjeta de Crédito,2,2026-08,109.71,217.37,0,8.2,0
+CUST-02063,Cusco,Bianual,Transferencia Bancaria,22,2024-12,175.98,3800.21,1,9.1,0
+CUST-02064,Lima,Mes a Mes,Transferencia Bancaria,14,2025-08,134.45,1965.31,3,5.9,1
+CUST-02065,Lima,Mes a Mes,Débito Automático,9,2026-01,216.51,1832.18,1,6.4,0
+CUST-02066,La Libertad,Bianual,Tarjeta de Crédito,8,2026-01,167.55,1266.14,2,9.7,0
+CUST-02067,Lima,Mes a Mes,Débito Automático,18,2025-04,123.1,2271.29,1,8.4,0
+CUST-02068,Lima,Mes a Mes,Tarjeta de Crédito,40,2023-06,144.54,5515.11,0,5.7,0
+CUST-02069,Lima,Mes a Mes,Débito Automático,13,2025-09,147.85,1967.99,3,6.8,0
+CUST-02070,Lima,Bianual,Débito Automático,32,2024-02,112.22,3430.52,1,7.9,0
+CUST-02071,La Libertad,Mes a Mes,Tarjeta de Crédito,10,2025-12,103.93,960.64,5,6.3,1
+CUST-02072,Arequipa,Anual,Tarjeta de Crédito,2,2026-08,176.56,348.6,5,5.0,1
+CUST-02073,Lima,Mes a Mes,Tarjeta de Crédito,2,2026-08,183.04,346.15,0,7.1,0
+CUST-02074,Cusco,Anual,Débito Automático,1,2026-09,172.17,175.36,3,7.0,0
+CUST-02075,Cusco,Anual,Tarjeta de Crédito,9,2026-01,213.19,1925.15,3,7.3,0
+CUST-02076,Cusco,Mes a Mes,Débito Automático,8,2026-01,120.62,1003.62,3,8.1,1
+CUST-02077,Lima,Mes a Mes,Tarjeta de Crédito,23,2024-11,220.34,5178.24,0,9.3,0
+CUST-02078,Lima,Mes a Mes,Tarjeta de Crédito,25,2024-09,104.46,2463.95,0,8.9,0
+CUST-02079,Piura,Bianual,Tarjeta de Crédito,1,2026-09,99.43,101.82,1,8.6,0
+CUST-02080,La Libertad,Anual,Transferencia Bancaria,5,2026-05,65.8,330.13,1,7.8,0
+CUST-02081,Lima,Bianual,Débito Automático,6,2026-04,124.94,754.86,2,8.8,0
+CUST-02082,Lima,Mes a Mes,Transferencia Bancaria,15,2025-07,122.33,1886.68,6,3.9,1
+CUST-02083,Lima,Anual,Tarjeta de Crédito,3,2026-07,168.67,503.28,0,6.6,0
+CUST-02084,Piura,Anual,Tarjeta de Crédito,3,2026-07,155.98,458.85,1,5.4,0
+CUST-02085,Arequipa,Anual,Tarjeta de Crédito,52,2022-06,91.32,4761.76,0,4.1,0
+CUST-02086,Lima,Bianual,Débito Automático,30,2024-04,127.33,3662.27,0,4.0,0
+CUST-02087,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,128.28,484.25,3,5.9,0
+CUST-02088,La Libertad,Mes a Mes,Tarjeta de Crédito,10,2025-12,65.08,650.9,1,8.6,0
+CUST-02089,Cusco,Anual,Débito Automático,8,2026-01,100.86,766.86,3,7.5,0
+CUST-02090,Lima,Anual,Débito Automático,29,2024-05,110.31,2976.3,2,6.8,0
+CUST-02091,La Libertad,Anual,Débito Automático,13,2025-09,209.51,2505.94,2,7.9,0
+CUST-02092,Piura,Mes a Mes,Efectivo/Ventanilla,3,2026-07,153.62,460.44,1,4.4,0
+CUST-02093,Lima,Mes a Mes,Transferencia Bancaria,25,2024-09,174.8,4226.14,1,7.6,1
+CUST-02094,Arequipa,Mes a Mes,Débito Automático,10,2025-12,77.56,789.41,2,5.6,0
+CUST-02095,Lima,Mes a Mes,Tarjeta de Crédito,6,2026-04,198.74,1155.2,1,5.4,0
+CUST-02096,La Libertad,Anual,Tarjeta de Crédito,9,2026-01,203.55,1801.14,1,7.6,0
+CUST-02097,Arequipa,Anual,Transferencia Bancaria,13,2025-09,55.07,696.52,3,8.6,0
+CUST-02098,Arequipa,Mes a Mes,Débito Automático,8,2026-01,113.26,910.23,2,7.7,1
+CUST-02099,La Libertad,Mes a Mes,Débito Automático,5,2026-05,167.31,808.36,2,7.5,0
+CUST-02100,Lima,Mes a Mes,Efectivo/Ventanilla,10,2025-12,174.0,1818.8,1,7.2,1
+CUST-02101,Piura,Mes a Mes,Débito Automático,1,2026-09,114.47,119.24,2,8.6,0
+CUST-02102,Arequipa,Anual,Débito Automático,27,2024-07,131.25,3650.93,3,5.6,0
+CUST-02103,Lima,Bianual,Efectivo/Ventanilla,4,2026-06,118.12,491.21,1,8.0,0
+CUST-02104,La Libertad,Mes a Mes,Tarjeta de Crédito,1,2026-09,149.97,146.73,2,5.3,1
+CUST-02105,La Libertad,Anual,Débito Automático,20,2025-01,198.87,3936.58,3,4.8,0
+CUST-02106,Lima,Bianual,Débito Automático,27,2024-07,110.3,3027.16,1,3.7,0
+CUST-02107,Cusco,Anual,Débito Automático,31,2024-03,190.04,5953.09,3,7.3,0
+CUST-02108,Piura,Mes a Mes,Débito Automático,13,2025-09,109.82,1478.75,1,8.1,0
+CUST-02109,Lima,Bianual,Efectivo/Ventanilla,5,2026-05,106.86,541.31,6,4.1,0
+CUST-02110,Piura,Mes a Mes,Tarjeta de Crédito,25,2024-09,181.84,4772.05,3,6.7,1
+CUST-02111,Lima,Mes a Mes,Transferencia Bancaria,22,2024-12,186.49,3960.44,1,7.9,0
+CUST-02112,Lima,Mes a Mes,Efectivo/Ventanilla,6,2026-04,183.31,1130.97,1,7.2,0
+CUST-02113,Lima,Mes a Mes,Tarjeta de Crédito,43,2023-03,85.79,3728.41,1,6.1,0
+CUST-02114,Cusco,Mes a Mes,Débito Automático,2,2026-08,124.03,250.51,2,3.3,1
+CUST-02115,La Libertad,Mes a Mes,Tarjeta de Crédito,72,2020-10,182.03,12612.83,1,6.9,1
+CUST-02116,Lima,Mes a Mes,Efectivo/Ventanilla,36,2023-10,146.87,5404.32,2,3.2,0
+CUST-02117,Lima,Anual,Transferencia Bancaria,21,2025-01,96.68,2105.5,3,6.2,0
+CUST-02118,Arequipa,Bianual,Débito Automático,51,2022-07,165.62,8010.87,5,5.2,0
+CUST-02119,Lima,Mes a Mes,Transferencia Bancaria,24,2024-10,112.83,2711.48,2,6.2,1
+CUST-02120,Cusco,Bianual,Tarjeta de Crédito,4,2026-06,225.75,876.79,0,5.5,0
+CUST-02121,Cusco,Bianual,Efectivo/Ventanilla,11,2025-11,214.52,2474.5,0,8.3,0
+CUST-02122,Arequipa,Anual,Débito Automático,2,2026-08,172.18,338.25,1,3.0,0
+CUST-02123,Piura,Mes a Mes,Tarjeta de Crédito,9,2026-01,206.25,1762.85,1,7.9,0
+CUST-02124,Lima,Anual,Efectivo/Ventanilla,25,2024-09,147.92,3585.73,2,4.6,0
+CUST-02125,Piura,Bianual,Tarjeta de Crédito,9,2026-01,179.44,1623.03,0,9.2,0
+CUST-02126,La Libertad,Anual,Tarjeta de Crédito,8,2026-01,211.5,1573.38,1,4.7,0
+CUST-02127,Arequipa,Mes a Mes,Débito Automático,17,2025-05,156.05,2648.79,2,7.8,0
+CUST-02128,Lima,Mes a Mes,Débito Automático,38,2023-08,133.52,5282.08,1,6.4,0
+CUST-02129,Cusco,Anual,Débito Automático,1,2026-09,68.29,70.38,2,7.7,0
+CUST-02130,Lima,Mes a Mes,Efectivo/Ventanilla,9,2026-01,141.26,1180.82,2,8.8,0
+CUST-02131,Lima,Mes a Mes,Débito Automático,4,2026-06,182.05,763.98,2,7.5,1
+CUST-02132,Lima,Mes a Mes,Tarjeta de Crédito,22,2024-12,187.55,4170.8,4,4.1,0
+CUST-02133,Arequipa,Anual,Transferencia Bancaria,3,2026-07,167.7,473.47,3,9.3,0
+CUST-02134,Arequipa,Bianual,Débito Automático,20,2025-01,120.64,2223.67,0,7.2,0
+CUST-02135,La Libertad,Mes a Mes,Tarjeta de Crédito,7,2026-03,56.04,369.63,3,7.9,0
+CUST-02136,Cusco,Bianual,Transferencia Bancaria,4,2026-06,122.72,505.1,0,7.8,0
+CUST-02137,Lima,Mes a Mes,Efectivo/Ventanilla,50,2022-08,131.3,6058.27,5,5.9,0
+CUST-02138,La Libertad,Anual,Tarjeta de Crédito,1,2026-09,130.92,124.41,3,3.8,1
+CUST-02139,Lima,Anual,Transferencia Bancaria,11,2025-11,172.84,1936.32,1,7.9,0
+CUST-02140,Cusco,Anual,Débito Automático,1,2026-09,234.36,233.47,3,7.6,0
+CUST-02141,Cusco,Bianual,Efectivo/Ventanilla,12,2025-10,150.56,1846.03,0,7.1,0
+CUST-02142,Arequipa,Mes a Mes,Débito Automático,13,2025-09,135.25,1788.14,3,7.2,0
+CUST-02143,La Libertad,Bianual,Transferencia Bancaria,7,2026-03,133.34,864.85,3,7.7,0
+CUST-02144,Lima,Mes a Mes,Débito Automático,3,2026-07,150.6,468.08,0,9.4,0
+CUST-02145,Lima,Anual,Efectivo/Ventanilla,9,2026-01,107.73,920.62,0,6.0,0
+CUST-02146,Cusco,Anual,Transferencia Bancaria,21,2025-01,150.41,3133.15,1,7.3,0
+CUST-02147,Lima,Anual,Transferencia Bancaria,28,2024-06,165.29,4645.51,1,8.5,0
+CUST-02148,Lima,Mes a Mes,Débito Automático,14,2025-08,154.44,2036.59,1,8.0,0
+CUST-02149,Lima,Bianual,Tarjeta de Crédito,17,2025-05,165.59,2947.08,0,4.7,0
+CUST-02150,Cusco,Mes a Mes,Tarjeta de Crédito,5,2026-05,164.52,808.99,2,6.7,1
+CUST-02151,Lima,Mes a Mes,Transferencia Bancaria,7,2026-03,65.26,423.7,3,6.4,1
+CUST-02152,Lima,Anual,Débito Automático,4,2026-06,173.66,723.71,2,8.6,0
+CUST-02153,La Libertad,Mes a Mes,Efectivo/Ventanilla,6,2026-04,114.8,686.19,1,9.5,1
+CUST-02154,Cusco,Anual,Efectivo/Ventanilla,5,2026-05,95.69,483.66,3,7.0,1
+CUST-02155,Lima,Mes a Mes,Débito Automático,14,2025-08,95.3,1318.55,1,8.8,0
+CUST-02156,Lima,Mes a Mes,Transferencia Bancaria,15,2025-07,164.51,2538.02,5,7.5,1
+CUST-02157,Lima,Anual,Tarjeta de Crédito,53,2022-05,134.98,6612.44,2,6.1,0
+CUST-02158,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,69.31,264.73,2,9.9,0
+CUST-02159,Lima,Mes a Mes,Débito Automático,19,2025-03,166.51,3103.75,4,9.9,0
+CUST-02160,La Libertad,Anual,Tarjeta de Crédito,31,2024-03,80.22,2312.64,1,4.3,0
+CUST-02161,La Libertad,Mes a Mes,Transferencia Bancaria,15,2025-07,151.29,2296.06,0,5.0,1
+CUST-02162,Arequipa,Anual,Tarjeta de Crédito,6,2026-04,155.73,907.45,2,8.4,0
+CUST-02163,Lima,Mes a Mes,Tarjeta de Crédito,6,2026-04,184.85,1059.69,1,8.1,0
+CUST-02164,Cusco,Anual,Transferencia Bancaria,1,2026-09,225.18,207.26,2,6.0,0
+CUST-02165,Lima,Anual,Transferencia Bancaria,7,2026-03,83.59,593.07,4,5.8,1
+CUST-02166,Piura,Anual,Débito Automático,25,2024-09,142.64,3667.26,2,7.3,0
+CUST-02167,Arequipa,Mes a Mes,Efectivo/Ventanilla,1,2026-09,132.56,128.76,1,7.3,0
+CUST-02168,Lima,Anual,Tarjeta de Crédito,5,2026-05,164.52,817.13,3,8.0,0
+CUST-02169,La Libertad,Anual,Débito Automático,23,2024-11,154.71,3378.99,1,6.8,0
+CUST-02170,Lima,Anual,Débito Automático,28,2024-06,129.14,3619.12,3,7.1,0
+CUST-02171,La Libertad,Mes a Mes,Tarjeta de Crédito,11,2025-11,125.16,1268.79,4,7.1,0
+CUST-02172,Lima,Bianual,Efectivo/Ventanilla,22,2024-12,94.76,2050.37,4,5.1,0
+CUST-02173,Lima,Anual,Tarjeta de Crédito,9,2026-01,189.45,1711.44,1,9.1,0
+CUST-02174,Cusco,Mes a Mes,Transferencia Bancaria,4,2026-06,165.66,688.72,4,6.9,1
+CUST-02175,Lima,Mes a Mes,Débito Automático,10,2025-12,186.3,1806.32,0,8.2,1
+CUST-02176,Cusco,Bianual,Tarjeta de Crédito,16,2025-06,131.03,2137.31,0,8.9,0
+CUST-02177,Lima,Mes a Mes,Efectivo/Ventanilla,54,2022-04,115.44,6219.42,0,3.8,0
+CUST-02178,Arequipa,Bianual,Transferencia Bancaria,2,2026-08,96.48,200.78,1,6.6,0
+CUST-02179,La Libertad,Anual,Débito Automático,13,2025-09,161.15,2035.85,4,7.6,0
+CUST-02180,Arequipa,Anual,Tarjeta de Crédito,8,2026-01,98.21,755.42,1,8.0,0
+CUST-02181,Lima,Mes a Mes,Débito Automático,13,2025-09,228.19,3071.27,2,9.2,0
+CUST-02182,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,86.16,79.82,1,8.4,0
+CUST-02183,Lima,Bianual,Transferencia Bancaria,7,2026-03,157.31,1032.6,4,9.4,0
+CUST-02184,Lima,Mes a Mes,Transferencia Bancaria,31,2024-03,215.51,6217.91,1,8.2,0
+CUST-02185,La Libertad,Anual,Débito Automático,15,2025-07,171.96,2655.76,2,4.6,0
+CUST-02186,Piura,Mes a Mes,Efectivo/Ventanilla,11,2025-11,152.91,1549.77,2,6.1,0
+CUST-02187,Cusco,Mes a Mes,Tarjeta de Crédito,7,2026-03,101.42,732.67,2,8.6,0
+CUST-02188,La Libertad,Mes a Mes,Tarjeta de Crédito,7,2026-03,82.82,567.37,2,6.0,0
+CUST-02189,La Libertad,Mes a Mes,Tarjeta de Crédito,9,2026-01,179.65,1488.35,2,7.8,0
+CUST-02190,La Libertad,Bianual,Tarjeta de Crédito,33,2024-01,212.78,6826.63,1,6.2,0
+CUST-02191,Lima,Mes a Mes,Tarjeta de Crédito,62,2021-08,125.25,7332.84,2,4.3,0
+CUST-02192,Piura,Mes a Mes,Tarjeta de Crédito,11,2025-11,93.74,1032.35,3,8.2,0
+CUST-02193,La Libertad,Mes a Mes,Tarjeta de Crédito,9,2026-01,35.0,317.62,0,8.4,0
+CUST-02194,Arequipa,Mes a Mes,Débito Automático,34,2023-12,100.87,3372.58,4,8.9,0
+CUST-02195,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,139.89,1423.79,4,9.2,0
+CUST-02196,Lima,Bianual,Tarjeta de Crédito,15,2025-07,216.96,3271.64,4,6.3,0
+CUST-02197,Lima,Mes a Mes,Débito Automático,5,2026-05,175.29,902.27,1,4.2,0
+CUST-02198,Cusco,Mes a Mes,Transferencia Bancaria,25,2024-09,158.73,4022.39,5,7.9,1
+CUST-02199,Arequipa,Mes a Mes,Efectivo/Ventanilla,14,2025-08,126.99,1827.45,2,7.0,0
+CUST-02200,Lima,Bianual,Efectivo/Ventanilla,30,2024-04,118.76,3370.64,4,9.2,0
+CUST-02201,Piura,Mes a Mes,Tarjeta de Crédito,28,2024-06,208.25,6038.32,2,7.0,0
+CUST-02202,Lima,Mes a Mes,Débito Automático,5,2026-05,154.03,740.8,1,6.2,1
+CUST-02203,Lima,Anual,Tarjeta de Crédito,23,2024-11,50.38,1068.06,2,8.3,0
+CUST-02204,Lima,Anual,Débito Automático,29,2024-05,114.69,3424.6,3,5.1,0
+CUST-02205,La Libertad,Mes a Mes,Efectivo/Ventanilla,8,2026-01,106.38,887.16,3,6.2,0
+CUST-02206,Piura,Mes a Mes,Débito Automático,4,2026-06,120.42,484.2,1,6.0,0
+CUST-02207,Lima,Anual,Débito Automático,1,2026-09,170.33,161.83,4,5.1,0
+CUST-02208,Cusco,Mes a Mes,Tarjeta de Crédito,11,2025-11,140.16,1468.88,1,7.6,1
+CUST-02209,Lima,Anual,Tarjeta de Crédito,8,2026-01,141.54,1110.42,3,6.4,0
+CUST-02210,Piura,Anual,Transferencia Bancaria,15,2025-07,204.11,3174.07,6,5.1,0
+CUST-02211,La Libertad,Mes a Mes,Tarjeta de Crédito,4,2026-06,113.66,427.11,0,6.6,0
+CUST-02212,Cusco,Mes a Mes,Débito Automático,36,2023-10,228.89,8465.62,3,7.2,0
+CUST-02213,Lima,Mes a Mes,Débito Automático,6,2026-04,114.79,659.72,3,5.8,0
+CUST-02214,Piura,Anual,Tarjeta de Crédito,5,2026-05,149.01,763.76,2,6.1,0
+CUST-02215,La Libertad,Mes a Mes,Débito Automático,12,2025-10,132.35,1651.15,0,6.0,0
+CUST-02216,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,150.55,1909.35,4,9.1,1
+CUST-02217,Cusco,Anual,Tarjeta de Crédito,5,2026-05,165.01,798.2,5,6.9,0
+CUST-02218,Lima,Bianual,Transferencia Bancaria,6,2026-04,164.52,1011.1,0,7.4,0
+CUST-02219,Cusco,Mes a Mes,Efectivo/Ventanilla,4,2026-06,111.11,439.48,2,7.1,0
+CUST-02220,Lima,Bianual,Efectivo/Ventanilla,23,2024-11,94.47,2192.32,3,8.4,0
+CUST-02221,La Libertad,Mes a Mes,Efectivo/Ventanilla,27,2024-07,257.64,6963.01,0,7.2,0
+CUST-02222,Arequipa,Mes a Mes,Débito Automático,12,2025-10,123.22,1389.74,0,8.3,0
+CUST-02223,Lima,Mes a Mes,Débito Automático,23,2024-11,176.46,4179.62,0,3.9,1
+CUST-02224,Lima,Mes a Mes,Débito Automático,24,2024-10,72.66,1648.71,1,8.8,0
+CUST-02225,Lima,Mes a Mes,Efectivo/Ventanilla,3,2026-07,132.42,413.63,2,8.4,0
+CUST-02226,Lima,Mes a Mes,Efectivo/Ventanilla,61,2021-09,139.28,8093.15,2,7.1,0
+CUST-02227,Lima,Bianual,Efectivo/Ventanilla,31,2024-03,166.28,5234.09,2,4.8,0
+CUST-02228,Arequipa,Anual,Débito Automático,5,2026-05,35.0,167.48,2,5.4,0
+CUST-02229,Lima,Anual,Efectivo/Ventanilla,4,2026-06,152.48,586.32,1,9.2,0
+CUST-02230,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,93.26,268.67,2,4.0,0
+CUST-02231,La Libertad,Mes a Mes,Débito Automático,3,2026-07,159.6,487.05,2,9.1,1
+CUST-02232,Lima,Mes a Mes,Tarjeta de Crédito,25,2024-09,98.37,2440.53,2,8.2,1
+CUST-02233,Piura,Anual,Débito Automático,12,2025-10,106.5,1322.45,0,5.7,0
+CUST-02234,Cusco,Bianual,Tarjeta de Crédito,28,2024-06,132.69,3566.55,2,9.8,0
+CUST-02235,La Libertad,Mes a Mes,Débito Automático,25,2024-09,97.65,2465.56,2,6.6,0
+CUST-02236,Arequipa,Mes a Mes,Tarjeta de Crédito,17,2025-05,123.6,2138.78,3,9.4,0
+CUST-02237,Cusco,Mes a Mes,Tarjeta de Crédito,21,2025-01,91.3,1801.67,1,7.3,0
+CUST-02238,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,62.51,60.76,3,5.2,0
+CUST-02239,Lima,Mes a Mes,Transferencia Bancaria,7,2026-03,190.81,1312.65,2,6.3,1
+CUST-02240,Lima,Anual,Tarjeta de Crédito,19,2025-03,86.68,1591.32,2,5.6,0
+CUST-02241,La Libertad,Anual,Transferencia Bancaria,1,2026-09,136.96,131.74,3,8.2,0
+CUST-02242,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,178.88,180.53,0,6.4,0
+CUST-02243,Arequipa,Mes a Mes,Débito Automático,35,2023-11,117.33,3893.27,1,6.0,0
+CUST-02244,Piura,Bianual,Tarjeta de Crédito,21,2025-01,107.87,2292.95,1,4.2,0
+CUST-02245,Cusco,Mes a Mes,Débito Automático,6,2026-04,155.18,969.77,1,9.6,1
+CUST-02246,Arequipa,Mes a Mes,Débito Automático,21,2025-01,195.31,4074.75,2,8.9,0
+CUST-02247,Lima,Mes a Mes,Transferencia Bancaria,29,2024-05,92.38,2677.64,2,6.1,0
+CUST-02248,Cusco,Mes a Mes,Efectivo/Ventanilla,7,2026-03,138.24,898.94,6,6.9,0
+CUST-02249,Arequipa,Mes a Mes,Débito Automático,1,2026-09,67.04,69.21,1,6.1,0
+CUST-02250,Lima,Anual,Transferencia Bancaria,49,2022-09,127.31,5970.62,3,7.3,0
+CUST-02251,Lima,Mes a Mes,Efectivo/Ventanilla,8,2026-01,146.54,1172.27,2,3.1,1
+CUST-02252,Piura,Mes a Mes,Efectivo/Ventanilla,3,2026-07,106.54,334.73,2,7.8,1
+CUST-02253,La Libertad,Anual,Débito Automático,13,2025-09,124.44,1613.54,1,7.9,0
+CUST-02254,Cusco,Mes a Mes,Efectivo/Ventanilla,27,2024-07,81.63,2235.33,1,7.7,0
+CUST-02255,Cusco,Bianual,Débito Automático,5,2026-05,148.47,725.94,1,7.5,0
+CUST-02256,Arequipa,Bianual,Tarjeta de Crédito,6,2026-04,192.51,1071.72,3,6.9,0
+CUST-02257,Arequipa,Mes a Mes,Débito Automático,6,2026-04,95.63,587.37,0,4.8,1
+CUST-02258,Lima,Anual,Débito Automático,72,2020-10,116.98,7787.08,3,7.0,0
+CUST-02259,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,167.61,677.87,3,8.9,0
+CUST-02260,Lima,Bianual,Tarjeta de Crédito,16,2025-06,199.54,2946.74,2,8.8,0
+CUST-02261,La Libertad,Mes a Mes,Débito Automático,47,2022-11,77.81,3774.46,3,3.9,1
+CUST-02262,Arequipa,Bianual,Débito Automático,3,2026-07,137.4,387.67,2,8.3,0
+CUST-02263,Cusco,Anual,Transferencia Bancaria,64,2021-06,157.74,9962.66,0,6.0,0
+CUST-02264,Lima,Mes a Mes,Débito Automático,54,2022-04,140.41,7564.17,2,6.2,0
+CUST-02265,Arequipa,Mes a Mes,Transferencia Bancaria,39,2023-07,35.0,1336.99,2,7.3,0
+CUST-02266,Arequipa,Bianual,Débito Automático,5,2026-05,167.55,807.84,0,7.2,0
+CUST-02267,Arequipa,Bianual,Débito Automático,19,2025-03,213.37,3976.26,1,6.3,0
+CUST-02268,La Libertad,Mes a Mes,Tarjeta de Crédito,26,2024-08,150.25,3752.13,1,4.1,0
+CUST-02269,Lima,Anual,Tarjeta de Crédito,72,2020-10,98.6,6935.61,0,9.0,0
+CUST-02270,Arequipa,Mes a Mes,Tarjeta de Crédito,4,2026-06,121.91,471.38,3,5.9,0
+CUST-02271,Lima,Mes a Mes,Débito Automático,27,2024-07,224.65,6026.77,1,8.5,1
+CUST-02272,Lima,Mes a Mes,Efectivo/Ventanilla,8,2026-01,185.95,1414.6,2,7.9,0
+CUST-02273,Lima,Mes a Mes,Tarjeta de Crédito,4,2026-06,173.8,728.93,3,8.6,1
+CUST-02274,La Libertad,Anual,Débito Automático,10,2025-12,161.04,1586.43,3,6.6,0
+CUST-02275,Piura,Mes a Mes,Tarjeta de Crédito,29,2024-05,115.25,3159.23,1,7.5,0
+CUST-02276,Arequipa,Anual,Efectivo/Ventanilla,12,2025-10,135.97,1602.3,1,3.8,0
+CUST-02277,La Libertad,Mes a Mes,Débito Automático,14,2025-08,141.49,2045.5,1,7.5,1
+CUST-02278,Arequipa,Mes a Mes,Débito Automático,72,2020-10,169.73,11277.56,2,4.7,0
+CUST-02279,Arequipa,Mes a Mes,Transferencia Bancaria,10,2025-12,212.9,2146.76,0,8.1,1
+CUST-02280,Lima,Mes a Mes,Tarjeta de Crédito,18,2025-04,195.33,3485.13,0,6.6,0
+CUST-02281,Lima,Mes a Mes,Tarjeta de Crédito,9,2026-01,81.13,687.85,0,7.6,0
+CUST-02282,Lima,Mes a Mes,Débito Automático,9,2026-01,155.08,1432.39,2,8.6,0
+CUST-02283,Lima,Anual,Débito Automático,22,2024-12,178.15,3793.71,1,7.5,0
+CUST-02284,Lima,Mes a Mes,Tarjeta de Crédito,51,2022-07,172.85,8446.82,2,7.9,0
+CUST-02285,Lima,Mes a Mes,Débito Automático,15,2025-07,116.68,1798.6,1,7.1,0
+CUST-02286,Lima,Mes a Mes,Tarjeta de Crédito,27,2024-07,276.13,7477.94,3,7.0,0
+CUST-02287,Piura,Bianual,Tarjeta de Crédito,2,2026-08,87.53,181.5,3,6.8,0
+CUST-02288,Lima,Bianual,Débito Automático,5,2026-05,96.26,482.21,1,8.9,0
+CUST-02289,Lima,Mes a Mes,Efectivo/Ventanilla,13,2025-09,155.51,2054.6,3,4.6,1
+CUST-02290,Lima,Mes a Mes,Transferencia Bancaria,1,2026-09,240.26,247.16,2,8.4,0
+CUST-02291,Arequipa,Mes a Mes,Transferencia Bancaria,6,2026-04,107.37,597.27,1,4.2,0
+CUST-02292,Lima,Bianual,Débito Automático,14,2025-08,133.04,1901.46,1,7.6,0
+CUST-02293,Lima,Mes a Mes,Débito Automático,1,2026-09,193.48,193.44,0,6.7,1
+CUST-02294,Arequipa,Mes a Mes,Tarjeta de Crédito,6,2026-04,144.2,803.8,4,3.9,0
+CUST-02295,Lima,Mes a Mes,Débito Automático,13,2025-09,129.94,1665.77,3,4.3,0
+CUST-02296,Lima,Mes a Mes,Efectivo/Ventanilla,16,2025-06,170.45,2538.26,1,6.3,0
+CUST-02297,Lima,Mes a Mes,Débito Automático,47,2022-11,157.26,7507.06,3,7.3,0
+CUST-02298,Lima,Anual,Tarjeta de Crédito,19,2025-03,191.37,3603.47,1,6.4,0
+CUST-02299,Lima,Mes a Mes,Tarjeta de Crédito,10,2025-12,203.12,2120.5,2,7.0,0
+CUST-02300,Lima,Anual,Tarjeta de Crédito,48,2022-10,158.82,7194.99,0,5.1,0
+CUST-02301,Cusco,Mes a Mes,Débito Automático,28,2024-06,158.13,4422.26,2,8.2,0
+CUST-02302,Arequipa,Mes a Mes,Tarjeta de Crédito,5,2026-05,154.63,732.56,3,8.6,1
+CUST-02303,Arequipa,Bianual,Débito Automático,3,2026-07,167.01,500.94,0,9.1,0
+CUST-02304,Lima,Mes a Mes,Efectivo/Ventanilla,21,2025-01,147.48,3140.27,4,7.4,1
+CUST-02305,Piura,Anual,Débito Automático,15,2025-07,144.97,2204.78,0,7.9,0
+CUST-02306,Lima,Mes a Mes,Efectivo/Ventanilla,29,2024-05,198.85,5916.35,5,8.2,1
+CUST-02307,Lima,Mes a Mes,Transferencia Bancaria,25,2024-09,213.23,5495.8,3,9.4,0
+CUST-02308,Arequipa,Bianual,Débito Automático,18,2025-04,77.16,1291.72,3,4.3,0
+CUST-02309,Lima,Mes a Mes,Transferencia Bancaria,72,2020-10,145.45,10101.94,5,6.5,0
+CUST-02310,Lima,Bianual,Débito Automático,14,2025-08,114.01,1611.03,0,8.1,0
+CUST-02311,Arequipa,Mes a Mes,Efectivo/Ventanilla,3,2026-07,131.01,387.06,2,9.9,0
+CUST-02312,Cusco,Bianual,Tarjeta de Crédito,32,2024-02,163.11,4931.34,0,6.3,0
+CUST-02313,Lima,Mes a Mes,Débito Automático,6,2026-04,175.12,1042.16,0,3.7,0
+CUST-02314,La Libertad,Mes a Mes,Tarjeta de Crédito,28,2024-06,139.95,3812.67,2,6.6,0
+CUST-02315,Piura,Anual,Débito Automático,57,2022-01,58.9,3258.95,3,3.8,0
+CUST-02316,Lima,Bianual,Efectivo/Ventanilla,22,2024-12,101.57,2291.0,2,7.9,0
+CUST-02317,Lima,Bianual,Débito Automático,17,2025-05,185.34,3065.67,1,6.5,0
+CUST-02318,Lima,Anual,Transferencia Bancaria,12,2025-10,35.0,387.84,4,6.2,0
+CUST-02319,Lima,Bianual,Tarjeta de Crédito,9,2026-01,198.43,1656.48,2,8.0,0
+CUST-02320,Lima,Mes a Mes,Efectivo/Ventanilla,8,2026-01,168.46,1389.88,3,5.1,1
+CUST-02321,Piura,Mes a Mes,Débito Automático,19,2025-03,204.23,4054.51,2,6.4,0
+CUST-02322,La Libertad,Mes a Mes,Tarjeta de Crédito,26,2024-08,136.06,3571.14,3,6.7,0
+CUST-02323,Arequipa,Mes a Mes,Tarjeta de Crédito,21,2025-01,52.24,1061.24,1,7.7,1
+CUST-02324,Lima,Mes a Mes,Transferencia Bancaria,4,2026-06,164.37,685.11,2,8.0,1
+CUST-02325,Cusco,Mes a Mes,Débito Automático,13,2025-09,202.36,2646.9,5,7.0,0
+CUST-02326,Piura,Mes a Mes,Débito Automático,29,2024-05,186.61,5572.76,3,7.3,0
+CUST-02327,Cusco,Anual,Débito Automático,12,2025-10,115.18,1409.2,2,7.7,0
+CUST-02328,Lima,Mes a Mes,Transferencia Bancaria,14,2025-08,148.9,2020.58,0,6.4,0
+CUST-02329,Arequipa,Mes a Mes,Débito Automático,27,2024-07,121.02,3209.48,0,8.3,0
+CUST-02330,Lima,Mes a Mes,Tarjeta de Crédito,20,2025-01,108.13,2041.92,1,6.6,0
+CUST-02331,Lima,Anual,Débito Automático,10,2025-12,187.99,1800.87,1,5.9,0
+CUST-02332,Lima,Anual,Efectivo/Ventanilla,41,2023-05,91.11,3814.54,4,4.6,0
+CUST-02333,Arequipa,Anual,Efectivo/Ventanilla,4,2026-06,104.78,434.3,1,4.2,0
+CUST-02334,La Libertad,Mes a Mes,Tarjeta de Crédito,72,2020-10,95.32,6960.36,3,8.5,0
+CUST-02335,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,77.94,229.25,4,8.5,0
+CUST-02336,Lima,Mes a Mes,Débito Automático,1,2026-09,151.59,141.17,0,8.1,0
+CUST-02337,Lima,Mes a Mes,Débito Automático,40,2023-06,197.27,7317.95,2,5.3,0
+CUST-02338,Lima,Mes a Mes,Débito Automático,6,2026-04,136.68,794.38,5,4.8,1
+CUST-02339,Lima,Mes a Mes,Transferencia Bancaria,24,2024-10,77.24,1817.24,3,6.2,0
+CUST-02340,Lima,Mes a Mes,Tarjeta de Crédito,30,2024-04,182.8,5479.53,1,7.8,1
+CUST-02341,La Libertad,Bianual,Efectivo/Ventanilla,36,2023-10,220.86,7321.59,2,8.8,0
+CUST-02342,Lima,Bianual,Tarjeta de Crédito,72,2020-10,115.92,8752.4,1,8.8,0
+CUST-02343,Lima,Mes a Mes,Transferencia Bancaria,7,2026-03,123.47,836.04,1,8.4,1
+CUST-02344,Lima,Mes a Mes,Tarjeta de Crédito,23,2024-11,168.2,3985.63,0,6.6,0
+CUST-02345,Piura,Mes a Mes,Tarjeta de Crédito,3,2026-07,217.98,647.1,2,7.3,0
+CUST-02346,La Libertad,Mes a Mes,Débito Automático,10,2025-12,121.61,1139.43,3,7.2,0
+CUST-02347,La Libertad,Bianual,Tarjeta de Crédito,34,2023-12,85.04,2959.84,2,6.2,0
+CUST-02348,Lima,Mes a Mes,Tarjeta de Crédito,9,2026-01,173.41,1579.85,0,6.0,0
+CUST-02349,Arequipa,Anual,Transferencia Bancaria,17,2025-05,180.96,3041.15,1,8.3,0
+CUST-02350,Lima,Mes a Mes,Efectivo/Ventanilla,13,2025-09,145.28,1863.88,1,6.4,0
+CUST-02351,Arequipa,Bianual,Débito Automático,19,2025-03,119.88,2121.41,2,8.6,0
+CUST-02352,Piura,Mes a Mes,Débito Automático,65,2021-05,189.75,12398.63,2,8.6,0
+CUST-02353,Arequipa,Anual,Tarjeta de Crédito,2,2026-08,168.76,350.5,3,9.5,0
+CUST-02354,Cusco,Mes a Mes,Tarjeta de Crédito,16,2025-06,110.42,1646.8,4,6.2,0
+CUST-02355,La Libertad,Anual,Débito Automático,36,2023-10,147.21,5057.14,2,6.4,0
+CUST-02356,Lima,Mes a Mes,Transferencia Bancaria,12,2025-10,84.17,1047.71,0,6.5,1
+CUST-02357,Piura,Mes a Mes,Efectivo/Ventanilla,2,2026-08,175.87,336.6,0,7.9,1
+CUST-02358,Lima,Bianual,Efectivo/Ventanilla,15,2025-07,133.2,2008.02,3,5.2,0
+CUST-02359,Arequipa,Bianual,Débito Automático,8,2026-01,125.39,992.61,2,9.2,0
+CUST-02360,Lima,Bianual,Efectivo/Ventanilla,4,2026-06,143.52,572.66,1,5.6,0
+CUST-02361,Lima,Anual,Transferencia Bancaria,35,2023-11,146.81,5005.02,5,5.0,0
+CUST-02362,Lima,Anual,Tarjeta de Crédito,14,2025-08,185.27,2487.43,1,4.1,1
+CUST-02363,Lima,Mes a Mes,Tarjeta de Crédito,49,2022-09,171.6,7788.78,2,9.1,0
+CUST-02364,Lima,Mes a Mes,Transferencia Bancaria,30,2024-04,137.96,4208.15,1,5.5,0
+CUST-02365,Arequipa,Mes a Mes,Tarjeta de Crédito,22,2024-12,179.37,4013.19,3,5.9,0
+CUST-02366,Lima,Anual,Tarjeta de Crédito,1,2026-09,163.03,164.2,3,8.7,0
+CUST-02367,Lima,Mes a Mes,Tarjeta de Crédito,11,2025-11,125.8,1388.88,3,6.6,1
+CUST-02368,Arequipa,Mes a Mes,Tarjeta de Crédito,4,2026-06,139.39,530.62,3,7.0,0
+CUST-02369,Lima,Anual,Débito Automático,44,2023-02,138.33,5617.28,1,7.9,0
+CUST-02370,La Libertad,Anual,Efectivo/Ventanilla,4,2026-06,167.74,687.82,3,9.5,0
+CUST-02371,La Libertad,Mes a Mes,Transferencia Bancaria,7,2026-03,128.48,884.83,5,6.8,0
+CUST-02372,Cusco,Mes a Mes,Tarjeta de Crédito,14,2025-08,127.43,1712.46,1,6.8,1
+CUST-02373,La Libertad,Mes a Mes,Débito Automático,6,2026-04,233.59,1307.99,1,4.3,1
+CUST-02374,Lima,Mes a Mes,Tarjeta de Crédito,5,2026-05,187.29,869.17,3,7.4,0
+CUST-02375,La Libertad,Mes a Mes,Débito Automático,17,2025-05,110.77,1817.85,6,3.7,0
+CUST-02376,Lima,Anual,Débito Automático,2,2026-08,170.69,349.78,3,8.1,0
+CUST-02377,Lima,Anual,Tarjeta de Crédito,2,2026-08,150.33,312.52,5,6.1,0
+CUST-02378,La Libertad,Anual,Tarjeta de Crédito,9,2026-01,162.62,1517.11,0,6.8,0
+CUST-02379,Lima,Mes a Mes,Tarjeta de Crédito,23,2024-11,151.18,3614.84,2,7.8,1
+CUST-02380,La Libertad,Anual,Débito Automático,15,2025-07,198.53,3091.12,3,8.9,0
+CUST-02381,Cusco,Mes a Mes,Tarjeta de Crédito,10,2025-12,160.55,1587.1,1,8.9,0
+CUST-02382,Cusco,Mes a Mes,Débito Automático,16,2025-06,142.21,2158.23,3,3.3,1
+CUST-02383,Piura,Anual,Efectivo/Ventanilla,9,2026-01,191.9,1768.11,3,4.3,0
+CUST-02384,Lima,Mes a Mes,Tarjeta de Crédito,50,2022-08,155.5,7369.01,2,8.7,0
+CUST-02385,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,150.47,287.32,1,6.4,1
+CUST-02386,Arequipa,Bianual,Débito Automático,21,2025-01,159.13,3175.72,1,7.3,0
+CUST-02387,Lima,Mes a Mes,Débito Automático,40,2023-06,140.79,5558.09,4,5.9,0
+CUST-02388,Arequipa,Anual,Efectivo/Ventanilla,30,2024-04,145.42,4196.11,4,7.9,0
+CUST-02389,La Libertad,Mes a Mes,Débito Automático,4,2026-06,118.6,445.96,3,8.2,1
+CUST-02390,La Libertad,Anual,Tarjeta de Crédito,7,2026-03,111.2,761.99,2,9.9,0
+CUST-02391,Lima,Mes a Mes,Tarjeta de Crédito,23,2024-11,100.06,2378.72,6,5.4,1
+CUST-02392,Lima,Mes a Mes,Débito Automático,2,2026-08,82.36,163.76,1,5.0,0
+CUST-02393,Lima,Anual,Transferencia Bancaria,31,2024-03,105.41,3379.41,4,7.5,0
+CUST-02394,Lima,Mes a Mes,Tarjeta de Crédito,23,2024-11,137.16,2982.63,2,7.4,1
+CUST-02395,Cusco,Mes a Mes,Débito Automático,24,2024-10,149.64,3382.01,4,7.3,0
+CUST-02396,Lima,Mes a Mes,Débito Automático,2,2026-08,132.79,264.21,1,4.5,0
+CUST-02397,Lima,Mes a Mes,Débito Automático,23,2024-11,38.99,879.04,0,8.4,0
+CUST-02398,Lima,Mes a Mes,Efectivo/Ventanilla,21,2025-01,215.86,4559.45,0,8.0,1
+CUST-02399,Arequipa,Mes a Mes,Transferencia Bancaria,32,2024-02,193.89,6349.05,1,9.5,0
+CUST-02400,Arequipa,Bianual,Débito Automático,1,2026-09,165.06,167.98,3,5.8,0
+CUST-02401,Lima,Mes a Mes,Débito Automático,1,2026-09,230.84,240.65,1,6.4,1
+CUST-02402,Lima,Mes a Mes,Transferencia Bancaria,9,2026-01,101.02,883.52,3,7.4,0
+CUST-02403,Lima,Mes a Mes,Tarjeta de Crédito,3,2026-07,229.94,653.14,1,6.1,1
+CUST-02404,Lima,Mes a Mes,Tarjeta de Crédito,15,2025-07,101.57,1510.78,3,8.5,0
+CUST-02405,La Libertad,Bianual,Tarjeta de Crédito,45,2023-01,155.74,6548.53,1,7.4,0
+CUST-02406,Arequipa,Mes a Mes,Débito Automático,9,2026-01,87.68,755.62,4,4.4,0
+CUST-02407,Lima,Bianual,Transferencia Bancaria,34,2023-12,145.66,4690.09,1,7.5,0
+CUST-02408,Lima,Mes a Mes,Efectivo/Ventanilla,1,2026-09,162.38,157.76,6,5.8,1
+CUST-02409,Piura,Anual,Débito Automático,4,2026-06,138.04,515.97,6,6.9,1
+CUST-02410,Lima,Mes a Mes,Tarjeta de Crédito,1,2026-09,177.12,163.68,3,2.7,0
+CUST-02411,La Libertad,Bianual,Tarjeta de Crédito,8,2026-01,149.46,1202.12,1,6.8,0
+CUST-02412,Lima,Anual,Tarjeta de Crédito,43,2023-03,121.49,5220.58,1,5.9,0
+CUST-02413,Lima,Mes a Mes,Débito Automático,2,2026-08,119.49,241.87,2,7.0,1
+CUST-02414,Lima,Mes a Mes,Transferencia Bancaria,17,2025-05,181.49,3103.38,2,7.9,0
+CUST-02415,Arequipa,Mes a Mes,Tarjeta de Crédito,11,2025-11,115.58,1188.56,0,7.0,0
+CUST-02416,Piura,Bianual,Tarjeta de Crédito,51,2022-07,186.19,9095.35,2,7.1,0
+CUST-02417,Lima,Mes a Mes,Débito Automático,3,2026-07,200.02,562.16,1,7.6,0
+CUST-02418,Lima,Mes a Mes,Débito Automático,5,2026-05,69.91,359.89,5,7.3,1
+CUST-02419,Lima,Anual,Débito Automático,1,2026-09,195.98,199.33,1,6.4,0
+CUST-02420,Lima,Mes a Mes,Transferencia Bancaria,11,2025-11,237.72,2474.23,1,8.0,1
+CUST-02421,Lima,Bianual,Débito Automático,6,2026-04,156.34,904.62,2,7.3,0
+CUST-02422,Lima,Anual,Transferencia Bancaria,37,2023-09,171.96,6653.03,0,7.6,0
+CUST-02423,La Libertad,Anual,Tarjeta de Crédito,17,2025-05,191.67,3249.4,1,8.2,0
+CUST-02424,Lima,Bianual,Tarjeta de Crédito,18,2025-04,132.6,2444.44,2,4.5,0
+CUST-02425,Lima,Mes a Mes,Tarjeta de Crédito,14,2025-08,153.2,2046.99,1,8.2,0
+CUST-02426,Piura,Mes a Mes,Tarjeta de Crédito,2,2026-08,85.86,162.67,3,7.1,1
+CUST-02427,Lima,Mes a Mes,Débito Automático,11,2025-11,151.24,1700.09,0,6.3,0
+CUST-02428,Piura,Mes a Mes,Débito Automático,72,2020-10,167.42,12164.7,1,7.3,0
+CUST-02429,Lima,Anual,Transferencia Bancaria,33,2024-01,168.23,5598.93,0,7.6,0
+CUST-02430,Cusco,Bianual,Transferencia Bancaria,41,2023-05,192.94,7846.01,4,4.5,0
+CUST-02431,Arequipa,Mes a Mes,Débito Automático,32,2024-02,110.13,3500.43,2,8.5,0
+CUST-02432,Cusco,Mes a Mes,Tarjeta de Crédito,2,2026-08,121.03,245.85,1,4.6,0
+CUST-02433,Piura,Bianual,Débito Automático,5,2026-05,230.3,1099.8,3,8.9,0
+CUST-02434,Lima,Mes a Mes,Débito Automático,1,2026-09,138.24,133.52,2,4.0,1
+CUST-02435,Piura,Mes a Mes,Débito Automático,7,2026-03,154.0,1113.91,1,6.9,0
+CUST-02436,Lima,Mes a Mes,Efectivo/Ventanilla,3,2026-07,141.98,408.97,3,7.0,1
+CUST-02437,Lima,Bianual,Débito Automático,12,2025-10,108.02,1284.6,2,8.5,0
+CUST-02438,Lima,Anual,Débito Automático,21,2025-01,218.06,4631.2,2,7.7,0
+CUST-02439,Arequipa,Anual,Débito Automático,38,2023-08,121.25,4837.83,0,6.4,0
+CUST-02440,Lima,Anual,Débito Automático,25,2024-09,94.27,2301.57,7,7.9,0
+CUST-02441,Arequipa,Mes a Mes,Tarjeta de Crédito,51,2022-07,124.72,6205.85,3,9.0,0
+CUST-02442,Arequipa,Mes a Mes,Débito Automático,1,2026-09,54.92,56.54,4,6.3,0
+CUST-02443,La Libertad,Anual,Débito Automático,1,2026-09,115.69,118.55,2,7.7,0
+CUST-02444,Cusco,Mes a Mes,Tarjeta de Crédito,20,2025-01,101.43,2059.11,1,7.7,1
+CUST-02445,Lima,Anual,Débito Automático,7,2026-03,172.78,1185.54,3,6.6,0
+CUST-02446,Lima,Bianual,Transferencia Bancaria,6,2026-04,114.7,662.13,0,7.3,0
+CUST-02447,Lima,Anual,Tarjeta de Crédito,8,2026-01,184.95,1478.32,1,9.8,0
+CUST-02448,Lima,Anual,Débito Automático,6,2026-04,207.93,1289.88,0,7.9,0
+CUST-02449,Lima,Anual,Transferencia Bancaria,13,2025-09,180.15,2423.66,2,8.7,0
+CUST-02450,Lima,Anual,Débito Automático,11,2025-11,135.31,1390.33,2,5.8,0
+CUST-02451,Lima,Mes a Mes,Tarjeta de Crédito,13,2025-09,151.35,1919.71,2,5.3,0
+CUST-02452,Piura,Mes a Mes,Tarjeta de Crédito,21,2025-01,76.38,1572.56,1,7.4,0
+CUST-02453,Arequipa,Mes a Mes,Débito Automático,9,2026-01,138.98,1309.72,1,9.1,0
+CUST-02454,Lima,Anual,Tarjeta de Crédito,6,2026-04,106.28,642.87,1,7.3,0
+CUST-02455,Arequipa,Mes a Mes,Efectivo/Ventanilla,4,2026-06,176.24,685.89,1,6.3,1
+CUST-02456,Lima,Anual,Efectivo/Ventanilla,8,2026-01,260.77,1926.33,1,6.0,0
+CUST-02457,Lima,Mes a Mes,Tarjeta de Crédito,25,2024-09,167.49,4160.03,0,5.9,0
+CUST-02458,Arequipa,Anual,Tarjeta de Crédito,26,2024-08,55.4,1343.16,2,8.3,0
+CUST-02459,Lima,Mes a Mes,Débito Automático,20,2025-01,128.74,2648.13,3,7.7,1
+CUST-02460,Lima,Anual,Débito Automático,5,2026-05,150.51,765.97,2,7.5,0
+CUST-02461,Piura,Mes a Mes,Tarjeta de Crédito,16,2025-06,148.93,2334.9,4,6.1,0
+CUST-02462,Cusco,Mes a Mes,Tarjeta de Crédito,16,2025-06,112.11,1750.35,4,8.1,0
+CUST-02463,Arequipa,Mes a Mes,Efectivo/Ventanilla,12,2025-10,156.04,1941.11,6,8.6,1
+CUST-02464,Arequipa,Anual,Tarjeta de Crédito,15,2025-07,89.09,1279.55,0,6.3,0
+CUST-02465,Arequipa,Mes a Mes,Tarjeta de Crédito,13,2025-09,102.48,1268.79,0,7.8,0
+CUST-02466,Lima,Mes a Mes,Tarjeta de Crédito,16,2025-06,174.06,2902.19,2,8.6,0
+CUST-02467,Lima,Bianual,Transferencia Bancaria,23,2024-11,99.3,2341.46,2,7.1,0
+CUST-02468,Lima,Anual,Transferencia Bancaria,3,2026-07,169.22,521.21,4,7.1,0
+CUST-02469,Lima,Bianual,Tarjeta de Crédito,25,2024-09,83.37,1970.4,2,8.2,0
+CUST-02470,Arequipa,Mes a Mes,Débito Automático,3,2026-07,224.42,631.94,1,5.8,0
+CUST-02471,Lima,Mes a Mes,Transferencia Bancaria,2,2026-08,110.16,203.44,1,7.1,1
+CUST-02472,Piura,Bianual,Débito Automático,68,2021-02,134.94,8724.61,6,8.7,0
+CUST-02473,Piura,Mes a Mes,Efectivo/Ventanilla,57,2022-01,159.88,9301.3,3,5.7,0
+CUST-02474,La Libertad,Anual,Tarjeta de Crédito,2,2026-08,119.56,227.45,0,6.4,0
+CUST-02475,Arequipa,Mes a Mes,Tarjeta de Crédito,11,2025-11,151.45,1690.58,2,5.7,1
+CUST-02476,Cusco,Mes a Mes,Tarjeta de Crédito,4,2026-06,170.89,651.26,4,7.9,1
+CUST-02477,Lima,Mes a Mes,Transferencia Bancaria,12,2025-10,188.23,2194.13,1,8.0,0
+CUST-02478,La Libertad,Mes a Mes,Débito Automático,32,2024-02,180.62,6056.18,2,6.0,1
+CUST-02479,Lima,Mes a Mes,Efectivo/Ventanilla,55,2022-03,137.27,7186.14,0,6.5,1
+CUST-02480,La Libertad,Mes a Mes,Tarjeta de Crédito,19,2025-03,138.4,2547.89,0,6.0,1
+CUST-02481,Lima,Bianual,Débito Automático,8,2026-01,250.71,1923.73,2,5.8,0
+CUST-02482,Cusco,Mes a Mes,Débito Automático,17,2025-05,187.75,2981.9,1,8.2,1
+CUST-02483,Piura,Anual,Tarjeta de Crédito,7,2026-03,103.52,712.82,2,5.8,0
+CUST-02484,Lima,Anual,Tarjeta de Crédito,44,2023-02,149.5,6375.59,3,7.7,0
+CUST-02485,Lima,Anual,Tarjeta de Crédito,37,2023-09,129.92,4856.72,3,9.3,0
+CUST-02486,Piura,Mes a Mes,Transferencia Bancaria,15,2025-07,138.91,2138.42,3,7.5,1
+CUST-02487,Lima,Anual,Tarjeta de Crédito,8,2026-01,89.67,710.73,1,7.7,0
+CUST-02488,Cusco,Anual,Efectivo/Ventanilla,7,2026-03,126.46,818.11,1,9.6,0
+CUST-02489,Arequipa,Anual,Tarjeta de Crédito,1,2026-09,226.52,226.62,1,7.6,0
+CUST-02490,Lima,Anual,Transferencia Bancaria,31,2024-03,171.06,4916.82,0,5.7,0
+CUST-02491,Lima,Bianual,Débito Automático,11,2025-11,35.0,385.05,5,5.4,0
+CUST-02492,Lima,Anual,Tarjeta de Crédito,8,2026-01,199.75,1612.47,2,8.6,0
+CUST-02493,La Libertad,Mes a Mes,Débito Automático,12,2025-10,194.03,2201.95,2,8.4,1
+CUST-02494,Lima,Anual,Tarjeta de Crédito,31,2024-03,128.83,4099.62,2,9.1,0
+CUST-02495,Arequipa,Mes a Mes,Efectivo/Ventanilla,3,2026-07,177.28,552.28,2,4.3,0
+CUST-02496,Lima,Bianual,Débito Automático,36,2023-10,106.33,3926.26,0,5.3,0
+CUST-02497,Arequipa,Mes a Mes,Débito Automático,42,2023-04,123.84,4991.48,2,7.9,1
+CUST-02498,Cusco,Mes a Mes,Efectivo/Ventanilla,53,2022-05,212.43,11216.72,1,5.8,0
+CUST-02499,Piura,Anual,Débito Automático,10,2025-12,132.77,1379.38,0,7.3,0
+CUST-02500,Lima,Anual,Transferencia Bancaria,5,2026-05,60.86,292.64,4,5.7,0
